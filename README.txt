@@ -60,4 +60,6 @@ Subscribe using the link:
 
 http://oozie.apache.org/mail-lists.html
 
+This is a for of the main project
+
 
