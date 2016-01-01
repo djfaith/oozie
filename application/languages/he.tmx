@@ -2,7 +2,3547 @@
     <!DOCTYPE tmx SYSTEM "tmx14.dtd">
     <tmx version="1.4">
     <header srclang="he" datatype="plaintext" o-encoding="UTF-8" creationtoolversion="1.0" adminlang="en" o-tmf="none" segtype="phrase"/>
-    <body>  <tu tuid="join-group-js">
+    <body>  <tu tuid="-dr-adam-seldow-ccps-executive-director-of-technology">
+    <tuv xml:lang="he"><seg><![CDATA[ד"ר אדם סלדוו, מנכ"ל הטכנולוגיה]]></seg></tuv>
+  </tu>
+  <tu tuid="-edmodo-is-trusted-by-educators-because-its">
+    <tuv xml:lang="he"><seg><![CDATA[אנשי חינוך סומכים על אדמודו כי זה:]]></seg></tuv>
+  </tu>
+  <tu tuid="-or">
+    <tuv xml:lang="he"><seg><![CDATA[או]]></seg></tuv>
+  </tu>
+  <tu tuid="-product">
+    <tuv xml:lang="he"><seg><![CDATA[מוצר]]></seg></tuv>
+  </tu>
+  <tu tuid="-sales">
+    <tuv xml:lang="he"><seg><![CDATA[מכירות]]></seg></tuv>
+  </tu>
+  <tu tuid="-snapshot-for-schools">
+    <tuv xml:lang="he"><seg><![CDATA[סנפשוט לבתי ספר]]></seg></tuv>
+  </tu>
+  <tu tuid="-they-characterize-the">
+    <tuv xml:lang="he"><seg><![CDATA[הם מאפיינים]]></seg></tuv>
+  </tu>
+  <tu tuid="-well-show-you-the-way-we-regularly-share-tips-best-practices-and-perspectives-from-the-people-who-know-edmodo-and-you-best-other-teachers">
+    <tuv xml:lang="he"><seg><![CDATA[נראה לך את הדרך.  נשתף אותך בטיפים, בשיטות עבודה מומלצות, ובגישות של המכירים היטב את אדמודו ואותך: מורים אחרים.]]></seg></tuv>
+  </tu>
+  <tu tuid="-your-insight-gives-life-to-our-community-and-your-perspective-keeps-you-and-your-students-at-the-center-of-everything-we-do">
+    <tuv xml:lang="he"><seg><![CDATA[תובנה שלך מחייה את הקהילה שלנו, וגישתך שומרת אותך ואת תלמידים שלך במרכז העניינים.]]></seg></tuv>
+  </tu>
+  <tu tuid="...that you plan to complete in the future">
+    <tuv xml:lang="he"><seg><![CDATA[. . .שאתה מתכנן להשלים בעתיד]]></seg></tuv>
+  </tu>
+  <tu tuid="/home">
+    <tuv xml:lang="he"><seg><![CDATA[חזרה לעמוד הבית]]></seg></tuv>
+  </tu>
+  <tu tuid="1-attachment">
+    <tuv xml:lang="he"><seg><![CDATA[קובץ מצורף <b>1</b>]]></seg></tuv>
+  </tu>
+  <tu tuid="1-collection-js">
+    <tuv xml:lang="he"><seg><![CDATA[אוספים <span> -1</span>]]></seg></tuv>
+  </tu>
+  <tu tuid="1-hour-ago-js">
+    <tuv xml:lang="he"><seg><![CDATA[לפני שעה]]></seg></tuv>
+  </tu>
+  <tu tuid="1-hour-of-edmodo-accelerate">
+    <tuv xml:lang="he"><seg><![CDATA[שעה של אדמודו מואץ]]></seg></tuv>
+  </tu>
+  <tu tuid="1-late-submission">
+    <tuv xml:lang="he"><seg><![CDATA[הגשה מאוחרת %1$s1%2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="1-minute-ago-js">
+    <tuv xml:lang="he"><seg><![CDATA[לפני דקה]]></seg></tuv>
+  </tu>
+  <tu tuid="1-new-notification">
+    <tuv xml:lang="he"><seg><![CDATA[יש לך הודעה חדשה אחת]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-assignment-submission-by">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ו- %3$s1%4$s אחרים הוגשו %2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-get-verified">
+    <tuv xml:lang="he"><seg><![CDATA[<strong>נא לאשר:</strong> %1$s and <strong>1</strong>אחרים שרוצים להצטרף %2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-joined">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ועוד אחד הצטרפו %2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-like-connect">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ו- %2$s1%3$s אחרים הרוצים לתקשר איתך]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-liked-assignment">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ו %2$s1%3$s אחרים אהבו את המשימה שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-liked-post">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ו %2$s1%3$s אחרים אהבו את ההודעה שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-liked-quiz">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ו %2$s1%3$s אחרים אהבו את החידון שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-reacted-to-assignment">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ו %2$s1%3$s אחרים הגיבו למשימה שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-reacted-to-post">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ו %2$s1%3$s אחרים הגיבו להודעה שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-reacted-to-quiz">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ו- %2$s1%3$s אחרים הגיבו לחידון שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-referral-signup">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ו- %2$s1%3$s הצטרפו לאדמודו:]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-replied">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ו- %2$s1%3$s אחרים הגיבו להודעה]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-requested-to-join">
+    <tuv xml:lang="he"><seg><![CDATA[%1$sועוד אחד בקשו להצטרף ל- %3$s%2$s%4$s]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-submitted">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ועוד אחד הגישו %2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="1-others-like-this">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ועוד אחד עוקבים אחרי]]></seg></tuv>
+  </tu>
+  <tu tuid="1-reply-js">
+    <tuv xml:lang="he"><seg><![CDATA[תגובה אחת]]></seg></tuv>
+  </tu>
+  <tu tuid="1-second-ago-js">
+    <tuv xml:lang="he"><seg><![CDATA[כרגע]]></seg></tuv>
+  </tu>
+  <tu tuid="1-view">
+    <tuv xml:lang="he"><seg><![CDATA[צפייה אחת]]></seg></tuv>
+  </tu>
+  <tu tuid="10-discount">
+    <tuv xml:lang="he"><seg><![CDATA[10% הנחה]]></seg></tuv>
+  </tu>
+  <tu tuid="10-minutes-give-feedback">
+    <tuv xml:lang="he"><seg><![CDATA[ב10 דקות בלבד  %1$sEdmodo Snapshot%2$s נותן לך משוב מיידי על ידי תלמידים וסטנדרטיים במהירות %3$s, בקלות, והכל בחינם.]]></seg></tuv>
+  </tu>
+  <tu tuid="10-paid-holidays-and-unlimited-vacation-time">
+    <tuv xml:lang="he"><seg><![CDATA[10 ימי חופשה בתשלום וזמן חופש בלתי מוגבל]]></seg></tuv>
+  </tu>
+  <tu tuid="100-safe-secure">
+    <tuv xml:lang="he"><seg><![CDATA[100% בטוח ומבאובטח]]></seg></tuv>
+  </tu>
+  <tu tuid="10th-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה י]]></seg></tuv>
+  </tu>
+  <tu tuid="11th-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה יא]]></seg></tuv>
+  </tu>
+  <tu tuid="12th-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה יב]]></seg></tuv>
+  </tu>
+  <tu tuid="15-discount">
+    <tuv xml:lang="he"><seg><![CDATA[15% הנחה]]></seg></tuv>
+  </tu>
+  <tu tuid="1st-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה א]]></seg></tuv>
+  </tu>
+  <tu tuid="1yr-contract">
+    <tuv xml:lang="he"><seg><![CDATA[חוזה חד שנתי]]></seg></tuv>
+  </tu>
+  <tu tuid="2013-bammy-awards-best-teaching-tool">
+    <tuv xml:lang="he"><seg><![CDATA[פרס Bammy ל- 2013: כלי ההוראה הטוב ביותר]]></seg></tuv>
+  </tu>
+  <tu tuid="2014-bett-awards-finalist">
+    <tuv xml:lang="he"><seg><![CDATA[פרס הגמר ב- Bett 2014]]></seg></tuv>
+  </tu>
+  <tu tuid="2nd-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה ב]]></seg></tuv>
+  </tu>
+  <tu tuid="2yr-contract">
+    <tuv xml:lang="he"><seg><![CDATA[חוזה דו שנתי]]></seg></tuv>
+  </tu>
+  <tu tuid="30-under-30">
+    <tuv xml:lang="he"><seg><![CDATA["30 מתחת ל- 30"]]></seg></tuv>
+  </tu>
+  <tu tuid="3rd-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה ג]]></seg></tuv>
+  </tu>
+  <tu tuid="3yr-contract">
+    <tuv xml:lang="he"><seg><![CDATA[חוזה לשלוש שנים ויותר]]></seg></tuv>
+  </tu>
+  <tu tuid="4-of-the-biggest-myths-surrounding-the-student-data-debate">
+    <tuv xml:lang="he"><seg><![CDATA[4 מהאגדות הגדולות בקשר לדיון על מידע על סטודנטים]]></seg></tuv>
+  </tu>
+  <tu tuid="40-under-40">
+    <tuv xml:lang="he"><seg><![CDATA["40 מתחת ל- 40"]]></seg></tuv>
+  </tu>
+  <tu tuid="401k-vanguard">
+    <tuv xml:lang="he"><seg><![CDATA[(401K (Vanguard]]></seg></tuv>
+  </tu>
+  <tu tuid="4th-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה ד]]></seg></tuv>
+  </tu>
+  <tu tuid="500-students-or-more">
+    <tuv xml:lang="he"><seg><![CDATA[500 סטודנטים ויותר]]></seg></tuv>
+  </tu>
+  <tu tuid="5th-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה ה]]></seg></tuv>
+  </tu>
+  <tu tuid="6th-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה ו]]></seg></tuv>
+  </tu>
+  <tu tuid="7th-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה ז]]></seg></tuv>
+  </tu>
+  <tu tuid="8th-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה ח]]></seg></tuv>
+  </tu>
+  <tu tuid="9th-js">
+    <tuv xml:lang="he"><seg><![CDATA[כיתה ט]]></seg></tuv>
+  </tu>
+  <tu tuid="?-chars">
+    <tuv xml:lang="he"><seg><![CDATA[חייב להיות לפחות %1$d תווים]]></seg></tuv>
+  </tu>
+  <tu tuid="?-exact-chars">
+    <tuv xml:lang="he"><seg><![CDATA[חייב להיות לפחות %1$d תווים]]></seg></tuv>
+  </tu>
+  <tu tuid="A message is required">
+    <tuv xml:lang="he"><seg><![CDATA[נדרשת הודעה]]></seg></tuv>
+  </tu>
+  <tu tuid="A password recovery email has been sent to your address %1$s-js">
+    <tuv xml:lang="he"><seg><![CDATA[אימייל לאיפוס הסיסמה נשלח לכתובת האימייל %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="ADMINISTRATOR">
+    <tuv xml:lang="he"><seg><![CDATA[אדמינסטריטור]]></seg></tuv>
+  </tu>
+  <tu tuid="APP">
+    <tuv xml:lang="he"><seg><![CDATA[אפליקציה]]></seg></tuv>
+  </tu>
+  <tu tuid="APP-js">
+    <tuv xml:lang="he"><seg><![CDATA[אפילקציה]]></seg></tuv>
+  </tu>
+  <tu tuid="Accept Connection">
+    <tuv xml:lang="he"><seg><![CDATA[אישור קשר]]></seg></tuv>
+  </tu>
+  <tu tuid="Add links and files so you can access them from anywhere.-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסיפו לינקים וקבצים כדי שתוכלו לגשת אליהם מכל מקום]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-hi">
+    <tuv xml:lang="he"><seg><![CDATA[שלום]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-p2">
+    <tuv xml:lang="he"><seg><![CDATA[, מנהל ביה"ס שלך, מחק את ההודעה שלך ל- ]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-p3">
+    <tuv xml:lang="he"><seg><![CDATA[רצ"ב התוכן המקורי של ההודעה]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-p4">
+    <tuv xml:lang="he"><seg><![CDATA[נא להתקשר ל%1$s למידע נוסף על סיבת מחיקת ההודעה שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-p5">
+    <tuv xml:lang="he"><seg><![CDATA[לקבלת מידע נוסף לפשר מחיקת ההודעה שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-subject">
+    <tuv xml:lang="he"><seg><![CDATA[מנהל מחק הודעה]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-title">
+    <tuv xml:lang="he"><seg><![CDATA[הודעה שנמחקה]]></seg></tuv>
+  </tu>
+  <tu tuid="An email address is required">
+    <tuv xml:lang="he"><seg><![CDATA[נדרשת כתובת דואל]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p2">
+    <tuv xml:lang="he"><seg><![CDATA[סימן משתמש:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p3">
+    <tuv xml:lang="he"><seg><![CDATA[שם:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p4">
+    <tuv xml:lang="he"><seg><![CDATA[סוג משתמש:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p5">
+    <tuv xml:lang="he"><seg><![CDATA[כתובת משתמש:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p6">
+    <tuv xml:lang="he"><seg><![CDATA[משוב:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p7">
+    <tuv xml:lang="he"><seg><![CDATA[סוכן משתמש:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-sub">
+    <tuv xml:lang="he"><seg><![CDATA[יישום:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-title">
+    <tuv xml:lang="he"><seg><![CDATA[משוב ליישומי אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-devpub">
+    <tuv xml:lang="he"><seg><![CDATA[מפתח מוציא לאור:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p0">
+    <tuv xml:lang="he"><seg><![CDATA[מפתח מוציא לאור:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p1">
+    <tuv xml:lang="he"><seg><![CDATA[יישום:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p2">
+    <tuv xml:lang="he"><seg><![CDATA[זמן:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p3">
+    <tuv xml:lang="he"><seg><![CDATA[נדרש משתמש:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p4">
+    <tuv xml:lang="he"><seg><![CDATA[התקנת מספר מפתח:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p5">
+    <tuv xml:lang="he"><seg><![CDATA[התקנת URL:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p6">
+    <tuv xml:lang="he"><seg><![CDATA[התקנת חומרים:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p6a">
+    <tuv xml:lang="he"><seg><![CDATA[פרטי הכשל:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p6b">
+    <tuv xml:lang="he"><seg><![CDATA[התקנת חומרים:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p7">
+    <tuv xml:lang="he"><seg><![CDATA[סטטוס התשובה:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p8">
+    <tuv xml:lang="he"><seg><![CDATA[תוכן התשובה:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-title">
+    <tuv xml:lang="he"><seg><![CDATA[התראה של יישומי אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-p2">
+    <tuv xml:lang="he"><seg><![CDATA[תודה על ההרשמה שלך לפיתוח מקצועי של יישומי אדמודו! ניתן להפעיל את הוידאו וללמוד על שימוש יישומי אדמודו בכיתה שלך.]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-p3">
+    <tuv xml:lang="he"><seg><![CDATA[להתחיל]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-p4">
+    <tuv xml:lang="he"><seg><![CDATA[אם אתם חדשים באדמודו, צפו ב%1$sוובינר%2$s היכרות עם אדמודו לפני שאתם מתחילים. צריכים קבלה? הורידו עותק %3$sPDF%4$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-p4a">
+    <tuv xml:lang="he"><seg><![CDATA[אם אתם חדשים באדמודו, צפו  <a href="http://edmodointro.eventbrite.com/">בסרטון</a>מבוא לאדמודו לפני שתתחילו. זקוקים לקבלה? הורידו]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-p4b">
+    <tuv xml:lang="he"><seg><![CDATA[העתק.]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-p5">
+    <tuv xml:lang="he"><seg><![CDATA[קרדיט נוסף: הפיצו את הבשורה של אפליקציות אדמודו לפיתוח מקצועי %1$sבטוויטר%2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-sub">
+    <tuv xml:lang="he"><seg><![CDATA[שלום,]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-subject">
+    <tuv xml:lang="he"><seg><![CDATA[אישור הזמנה: אפליקציות אדמודו לפיתוח מקצועי]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-title">
+    <tuv xml:lang="he"><seg><![CDATA[אישור הזמנה]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-p2">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו מציע חבילת PD הדרכה שנועדה לסייע למורים למצוא דרכים חדשות ומרגשות לשימוש בתוכן דיגיטלי (יישומים) ככלים יומיומיים בכיתה שלהם ולתמוך בלמידה מעורבב. אני מעוניין להשתתף, ואני רוצה את אישורך להשתמש בכספי פיתוח מקצועיים כדי להירשם.]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-p2b">
+    <tuv xml:lang="he"><seg><![CDATA[החבילה כוללת:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-p3">
+    <tuv xml:lang="he"><seg><![CDATA[סרט הדרכה: מבוא לסוגים השונים של יישומים חינוכיים שמסבירים כיצד לשפר את ההוראה על ידי יצירת סביבת למידה מרתקת ואפקטיבית למאה ה -21 באמצעות יישומים אדמודו.]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-p4">
+    <tuv xml:lang="he"><seg><![CDATA[זיכוי בחנות אדמודו:  99$ זיכוי שאפשר להשתמש בו כדי לרכוש יישומים חינוכיים איכותיים העונים על צרכי ההוראה וניהול כיתה הספציפיים שלך.]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-p5">
+    <tuv xml:lang="he"><seg><![CDATA[גישה לEdmodo Apps Professional Learning Exchange (PLX): קבוצה של בוגרי עמיתים, חברי צוות אדמודו, ושותפים שאני מקבל הזדמנויות לבחון יישומי כונן בחינם, להשתתף בסמינרים חיים בלעדי בהנחיית שותפי יישום, ולברר כיצד לשלב בהצלחה Apps Edmodo לתכנית הלימודים שלי.]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-p6">
+    <tuv xml:lang="he"><seg><![CDATA[אתה יכול ללמוד עוד ב: %2$s Edmodo Apps %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-p7">
+    <tuv xml:lang="he"><seg><![CDATA[בברכה,]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-p8">
+    <tuv xml:lang="he"><seg><![CDATA[קרדיט נוסף: הפיצו את הבשורה של אפליקציות אדמודו לפיתוח מקצועי %1$sבטוויטר%2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-sub">
+    <tuv xml:lang="he"><seg><![CDATA[מנהל יקר,]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-subject">
+    <tuv xml:lang="he"><seg><![CDATA[סקירה]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-title">
+    <tuv xml:lang="he"><seg><![CDATA[יישומים אדמודו פיתוח מקצועי]]></seg></tuv>
+  </tu>
+  <tu tuid="Are you sure you want to delete the selected resource(s) from your Edmodo Backpack?-js">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים כי ברצונכם למחוק את המקור/ות הללו מתיק הגב של אדמודו?]]></seg></tuv>
+  </tu>
+  <tu tuid="Award Badge">
+    <tuv xml:lang="he"><seg><![CDATA[העניקו תג]]></seg></tuv>
+  </tu>
+  <tu tuid="BLOCKED">
+    <tuv xml:lang="he"><seg><![CDATA[אתה חסום לקבוצה זו]]></seg></tuv>
+  </tu>
+  <tu tuid="Back">
+    <tuv xml:lang="he"><seg><![CDATA[חזור]]></seg></tuv>
+  </tu>
+  <tu tuid="Back to Home">
+    <tuv xml:lang="he"><seg><![CDATA[חזרה לעמוד הבית]]></seg></tuv>
+  </tu>
+  <tu tuid="Back-js">
+    <tuv xml:lang="he"><seg><![CDATA[חזור]]></seg></tuv>
+  </tu>
+  <tu tuid="Backpack-js">
+    <tuv xml:lang="he"><seg><![CDATA[תיק גב]]></seg></tuv>
+  </tu>
+  <tu tuid="By clicking &#34;I did not sign up for this account&#34;, this Edmodo account will be permanently disabled.">
+    <tuv xml:lang="he"><seg><![CDATA[על ידי לחיצה על "אני לא רשמתי לחשבון זה," חשבון אדמודו זה יהיה נכים לצמיתות.]]></seg></tuv>
+  </tu>
+  <tu tuid="By clicking I did not sign up for this account, this Edmodo account will be permanently disabled.">
+    <tuv xml:lang="he"><seg><![CDATA[על ידי לחיצה על "אני לא רשמתי לחשבון זה," חשבון אדמודו זה יהיה נכים לצמיתות.]]></seg></tuv>
+  </tu>
+  <tu tuid="CAN_REQUEST">
+    <tuv xml:lang="he"><seg><![CDATA[מנהל הקבוצה חייב לאשר את בקשתך. לאחר האישור תהיה חבר בקבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="CC-data-you-can-use">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s  הנתונים שאתה באמת תשתמש]]></seg></tuv>
+  </tu>
+  <tu tuid="COMMUNITY-js">
+    <tuv xml:lang="he"><seg><![CDATA[קהילה]]></seg></tuv>
+  </tu>
+  <tu tuid="Cannot modify information which is controlled by Edmodo Sync.">
+    <tuv xml:lang="he"><seg><![CDATA[אין אפשרות לשנות את המידע הנמצא בשליטת Edmodo Sync.]]></seg></tuv>
+  </tu>
+  <tu tuid="Change my email address-js">
+    <tuv xml:lang="he"><seg><![CDATA[שינוי כתובת האימייל]]></seg></tuv>
+  </tu>
+  <tu tuid="Choose file-js">
+    <tuv xml:lang="he"><seg><![CDATA[בחירת קובץ]]></seg></tuv>
+  </tu>
+  <tu tuid="Click to disconnect from this teacher.">
+    <tuv xml:lang="he"><seg><![CDATA[לחצו להתנתק ממורה זה.]]></seg></tuv>
+  </tu>
+  <tu tuid="Community-js">
+    <tuv xml:lang="he"><seg><![CDATA[קהילה]]></seg></tuv>
+  </tu>
+  <tu tuid="Connect to send and share posts to %1$s">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו כדי לשלוח ולשתף פוסטים ל%1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="Connect to send and share posts with %1$s">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו כדי לשלוח ולשתף פוסטים ל%1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="Connection Success-subject">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s קיבל החיבור שלך באדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p1">
+    <tuv xml:lang="he"><seg><![CDATA[שלום]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p2">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s רוצה להתחבר אתך!]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p2p">
+    <tuv xml:lang="he"><seg><![CDATA[בינתיים, אתה ומוריך יכולים  <a href="https://support.edmodo.com/home#forums/20794185-create-a-group"> ליצור קבוצות</a>, <a href="https://support.edmodo.com/home#entries/21687999-add-content-to-your-library-teacher"> להוסיף משאבים לספריות שלך </a>, ו  <a href="https://support.edmodo.com/home#entries/21945320-connect-with-teachers-teacher"> להתחבר עם אנשי חינוך </a>על חשבונות אדמודו. ברגע שמשנה הוא הוקם, אתה יכול בקלות <a href="https://support.edmodo.com/home#entries/21705144-migrate-accounts-to-the-subdomain-admin"> להעביר את החשבונות שלך</a> עם קבוצות ומשאבים ללא פגע!]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p3">
+    <tuv xml:lang="he"><seg><![CDATA[חיבור עם מורי אדמודו אחרים מאפשר לך לשתף תוכן ולבנות רשת הלמידה המקצועית שלך.]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p4">
+    <tuv xml:lang="he"><seg><![CDATA[לאשר את הבקשה]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p5">
+    <tuv xml:lang="he"><seg><![CDATA[ניתן גם לראות <a href="%2$s">הפרופיל </a>של %1$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p5a">
+    <tuv xml:lang="he"><seg><![CDATA[ניתן גם לראות]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p5b">
+    <tuv xml:lang="he"><seg><![CDATA[של]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p5c">
+    <tuv xml:lang="he"><seg><![CDATA[פרופיל]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-subject">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s רוצה להתחבר אתך באדומודו]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-title">
+    <tuv xml:lang="he"><seg><![CDATA[הרשת שלך גודלת]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p1">
+    <tuv xml:lang="he"><seg><![CDATA[שלום]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p2">
+    <tuv xml:lang="he"><seg><![CDATA[אתם ו%1$s מקושרים עכשיו.]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p2a">
+    <tuv xml:lang="he"><seg><![CDATA[אתה ו]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p2b">
+    <tuv xml:lang="he"><seg><![CDATA[מקושרים עכשיו]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p3">
+    <tuv xml:lang="he"><seg><![CDATA[צפו בפרופיל של %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p3a">
+    <tuv xml:lang="he"><seg><![CDATA[צפייה]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p3b">
+    <tuv xml:lang="he"><seg><![CDATA[צפו בפרופיל של %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-title">
+    <tuv xml:lang="he"><seg><![CDATA[יש לך חיבור חדש!]]></seg></tuv>
+  </tu>
+  <tu tuid="Current Password">
+    <tuv xml:lang="he"><seg><![CDATA[סיסמא נוכחית]]></seg></tuv>
+  </tu>
+  <tu tuid="DAD">
+    <tuv xml:lang="he"><seg><![CDATA[אב]]></seg></tuv>
+  </tu>
+  <tu tuid="DR">
+    <tuv xml:lang="he"><seg><![CDATA[ד"ר]]></seg></tuv>
+  </tu>
+  <tu tuid="DR-js">
+    <tuv xml:lang="he"><seg><![CDATA[ד"ר]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p1">
+    <tuv xml:lang="he"><seg><![CDATA[שלום]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p10">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s התאמה אישית של דף %2$s שלך על ידי הוספת לוגו גלגול או חברה, הודעה לברכה, ותוכן לאוסף שלך למורים להוסיף לספריות שלהם.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p11">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s%2$s הגדר התראות %1$s כך שתדע כאשר משתמשים שולחים הודעות לקהילה שלך ושולחים לך הודעות פרטיות.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p12">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s שתפו רעיונות וטיפים %2$s לשילוב המוצר שלך לפעילויות בכיתה ולתקשר עם מורים על חוויותיהם]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p13">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s למידע נוסף %2$s על היכולות של דף ההפצה שלך כאן:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p14">
+    <tuv xml:lang="he"><seg><![CDATA[ברגע שדף ואוסף שלך מוגדרים, יש לבחור את תיבת "הציע לי" בעמודה השמאלית תחת הדמות שלך. הדף שלך עכשיו יהיה הציע למורים רלוונטיים באדמודו.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p15">
+    <tuv xml:lang="he"><seg><![CDATA[אם יש לכם שאלות, אנא שלח אימייל ל]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p2">
+    <tuv xml:lang="he"><seg><![CDATA[ברוכים הבאים לתכנית המפתחים של אדמודו. כתובת חשבון הסנדבוקס שלך לפתח יישומים עבור אדמודו היא:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p3">
+    <tuv xml:lang="he"><seg><![CDATA[אישורי ההפצה]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p4">
+    <tuv xml:lang="he"><seg><![CDATA[שם משתמש:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p5">
+    <tuv xml:lang="he"><seg><![CDATA[סיסמה:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p6">
+    <tuv xml:lang="he"><seg><![CDATA[להתחיל לבנות אפליקציות על פלטפורמת אדמודו:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p7">
+    <tuv xml:lang="he"><seg><![CDATA[התחבר לחשבון הסנדבוקס שלך עם אישורי ההפצה שלך ולחץ על משגר היישומים ממוקם בין החיפוש ולוח השנה בסרגל הניווט העליון]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p8">
+    <tuv xml:lang="he"><seg><![CDATA[סקור את ה- API, סנדבוקס, ותיעוד אינטגרציה ממוקם בחשבון הסנדבוקס שלך כדי ללמוד כיצד לבנות יישומים ולשלב אותם עם אדמודו בהצלחה רבה.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p9">
+    <tuv xml:lang="he"><seg><![CDATA[כמו כן, אנו ממליצים לך לתקשר עם משתמשי אדמודו באופן רחב יותר על קהילת ההפצה שלך, שבו אתה יכול לגשת דרך  %1$s %2$swww.edmodo.com עם אישורי ההפצה שלך.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-title">
+    <tuv xml:lang="he"><seg><![CDATA[ברוכים הבאים!]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p1">
+    <tuv xml:lang="he"><seg><![CDATA[שלום]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p10">
+    <tuv xml:lang="he"><seg><![CDATA[סקור ותעבוד מאתר המפתחים שלנו ב ]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p11">
+    <tuv xml:lang="he"><seg><![CDATA[(מידע זמין גם בחשבון ההפצה שלך).]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p12">
+    <tuv xml:lang="he"><seg><![CDATA[תבקש אישורי הלקוח (אפשר עד שלוש לפיתוח).]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p15">
+    <tuv xml:lang="he"><seg><![CDATA[שלב באמצעות משאבי API הזמינים אם תרצו.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p16">
+    <tuv xml:lang="he"><seg><![CDATA[לעקוב אחרי השלבים לעיל כדי לסדר את הקהילה שלך באדמודו גם כן.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p17">
+    <tuv xml:lang="he"><seg><![CDATA[כשתסיימו, תשלח מייל לapps@edmodo.com עם שורת הנושא "Edmodo Connect app ready for review". לאחר הבדיקה, תוכל להפוך את חנות אדמודו את הרישום שלך בזמן אמת.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p18">
+    <tuv xml:lang="he"><seg><![CDATA[אנא אל תהססו לפנות אלינו בapps@edmodo.com אם יש לך שאלות לאורך הדרך.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p2">
+    <tuv xml:lang="he"><seg><![CDATA[ברוכים הבאים לחווית ההפצה אדמודו! אנו שמחים שיש לך על Edmodo ואנו מצפים לעזור לך להתחבר עם מורי Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p3">
+    <tuv xml:lang="he"><seg><![CDATA[מידע חשבון ההפצה שלך -]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p4">
+    <tuv xml:lang="he"><seg><![CDATA[שם משתמש:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p45">
+    <tuv xml:lang="he"><seg><![CDATA[עבור לedmodo.com ולעקוב אחרי השלבים כדי לאפס את הסיסמה.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p5">
+    <tuv xml:lang="he"><seg><![CDATA[סיסמה:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p6">
+    <tuv xml:lang="he"><seg><![CDATA[השלבים הבאים כדי להפעיל את קהילת ההפצה (לא יצירת אפליקציה):]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p7">
+    <tuv xml:lang="he"><seg><![CDATA[סקור את מדריך הקהילה המצורף לגלות שיטות עבודה מומלצות.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p8">
+    <tuv xml:lang="he"><seg><![CDATA[ עם שורת הנושא apps@edmodo.comכאשר אתה מוכן, שלח מייל ל ]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmailNew-p9">
+    <tuv xml:lang="he"><seg><![CDATA[השלבים הבאים ליצירת אפליקציה:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p1">
+    <tuv xml:lang="he"><seg><![CDATA[שלום]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p10">
+    <tuv xml:lang="he"><seg><![CDATA[עיין ברשימת בדיקות הפיתוח כשאתה מפתח את האפליקציה שלך. הפריטים המפורטים ברשימה הם חלק מתהליך הבדיקה של צוותי היישום באדמודו.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p11">
+    <tuv xml:lang="he"><seg><![CDATA[תשלח מייל לapps@edmodo.com לאחר שפתחת וביסודיות נבדקת היישום שלך בחשבון הסנדבוקס שלך. צוות היישומים שלנו יבחן את היישום שלך לפני שהוא נותן לך גישה לסביבת ייצור אדמודו.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p12">
+    <tuv xml:lang="he"><seg><![CDATA[אנחנו שמחים שאתה איתנו.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p13">
+    <tuv xml:lang="he"><seg><![CDATA[צוות אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p2">
+    <tuv xml:lang="he"><seg><![CDATA[ברוכים הבאים לתכנית המפתחים של אדמודו. כתובת חשבון סנדבוקס שלך לפתח יישומים עבור אדמודו היא:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p4">
+    <tuv xml:lang="he"><seg><![CDATA[שם משתמש:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p5">
+    <tuv xml:lang="he"><seg><![CDATA[סיסמה:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p6">
+    <tuv xml:lang="he"><seg><![CDATA[להתחיל לבנות יישומים על פלטפורמת אדמודו:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p7">
+    <tuv xml:lang="he"><seg><![CDATA[היכנס לחשבון סנדבוקס שלך עם אישורי ההפצה שלך.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p8">
+    <tuv xml:lang="he"><seg><![CDATA[סקור את התוכן בסעיפי הסקירה ותיעוד API.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p9">
+    <tuv xml:lang="he"><seg><![CDATA[להוסיף את היישום שלך לחשבון הסנדבוקס שלך לבדיקה על ידי לחיצה על לוח מחוונים עמודת הניווט השמאלי.]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-title">
+    <tuv xml:lang="he"><seg><![CDATA[ברוכים הבאים!]]></seg></tuv>
+  </tu>
+  <tu tuid="District-funds">
+    <tuv xml:lang="he"><seg><![CDATA[קרנות מחוזי]]></seg></tuv>
+  </tu>
+  <tu tuid="Enter a different email address-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכניסו כתובת אימייל שונה]]></seg></tuv>
+  </tu>
+  <tu tuid="Enter a secondary email address-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכניסו כתובת אימייל נוספת]]></seg></tuv>
+  </tu>
+  <tu tuid="Enter your new email address-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכניסו כתובת אימייל חדשה]]></seg></tuv>
+  </tu>
+  <tu tuid="FLE1-js">
+    <tuv xml:lang="he"><seg><![CDATA[עליכם להעלות קובץ תמונה.]]></seg></tuv>
+  </tu>
+  <tu tuid="Files and Links sent to you or any of your groups will be accessible here.-js">
+    <tuv xml:lang="he"><seg><![CDATA[קבצים ולינקים שנשלחו אליכם או לכל אחת מהקבוצות שלכם יהיו נגישים כאן]]></seg></tuv>
+  </tu>
+  <tu tuid="ForgotPassword-subject">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו - איפוס סיסמה]]></seg></tuv>
+  </tu>
+  <tu tuid="ForgotPassword-title">
+    <tuv xml:lang="he"><seg><![CDATA[סיסמת אדמודו שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="ForwardingActivated-p1">
+    <tuv xml:lang="he"><seg><![CDATA[היקר/ה]]></seg></tuv>
+  </tu>
+  <tu tuid="Funding">
+    <tuv xml:lang="he"><seg><![CDATA[מימון]]></seg></tuv>
+  </tu>
+  <tu tuid="GRADED">
+    <tuv xml:lang="he"><seg><![CDATA[הועבר ציון]]></seg></tuv>
+  </tu>
+  <tu tuid="Google Docs-js">
+    <tuv xml:lang="he"><seg><![CDATA[גוגל דרייב]]></seg></tuv>
+  </tu>
+  <tu tuid="Great profile! Continue to build out your network.">
+    <tuv xml:lang="he"><seg><![CDATA[פרופיל מצוין! המשיכו לבנות את הרשת שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="GroupLocked-p9">
+    <tuv xml:lang="he"><seg><![CDATA[אם יש לכם שאלות אנא שלחו אימייל ל%1$ssupport@edmodo.com%2$]]></seg></tuv>
+  </tu>
+  <tu tuid="Groups">
+    <tuv xml:lang="he"><seg><![CDATA[קבוצות]]></seg></tuv>
+  </tu>
+  <tu tuid="Help Center">
+    <tuv xml:lang="he"><seg><![CDATA[מרכז עזרה]]></seg></tuv>
+  </tu>
+  <tu tuid="Hide">
+    <tuv xml:lang="he"><seg><![CDATA[הסתר]]></seg></tuv>
+  </tu>
+  <tu tuid="How to improve my profile?">
+    <tuv xml:lang="he"><seg><![CDATA[כיצד לשפר את הפרופיל שלכם?]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p10">
+    <tuv xml:lang="he"><seg><![CDATA[ערכו שינויים אלה ותקבלו אישור הפעלה בתוך %1$sיום עסקים אחד%2$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p10a">
+    <tuv xml:lang="he"><seg><![CDATA[כדי להוציא את בקשתכם מרשימת הההמתנה, אנא היכנסו לחשבון המורה באדמודו שלכם ולחצו על %1$s כדי להתחבר מחדש. אנא הקדישו מספר דקות במהלך ההרשמה כדי לוודא שאתם עומדים בכל הדרישות.]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p10b">
+    <tuv xml:lang="he"><seg><![CDATA[אנא ערכו שינויים אלה ותקבלו חדשות בנוגע להפעלת החשבון בתוך יום עסקים אחד.]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p11">
+    <tuv xml:lang="he"><seg><![CDATA[אם יש לכם שאלות אנא שלחו אימייל ל%1$sinstitutio@edmodo.com%2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p4">
+    <tuv xml:lang="he"><seg><![CDATA[מנהלים יכולים ליצור כתובת אינטרנט אחת בלבד לבית ספר או מחוז]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p8">
+    <tuv xml:lang="he"><seg><![CDATA[בחרו כתובת אינטרנט המשקפת את ה%1$sשם שלכם (לדוגמה: my%1$s.edmodo.com)]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p8a">
+    <tuv xml:lang="he"><seg><![CDATA[בקשתכם לכתובת אינטרנט ייחודית כוללת תווים מיוחדים כמו "_"." או "/"]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p8b">
+    <tuv xml:lang="he"><seg><![CDATA[כתובת האינטרנט הייחודית אינה מייצגת בבירור את שם בית הספר או המחוז שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p8c">
+    <tuv xml:lang="he"><seg><![CDATA[בית הספר/המחוז שהכנסתם מכיל ראשי תיבות. אנא הכניסו את השם המלא.]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p8d">
+    <tuv xml:lang="he"><seg><![CDATA[בקשת כתובת יחודית עם מאפייני מחוז כאשר יש לבקש מאפייני בית ספר.]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p8e">
+    <tuv xml:lang="he"><seg><![CDATA[הכנסתם מדינה בארצות הברית למרות שמדובר במוסד בינלאומי (אם מדובר במוסד בינלאומי, אנא השאירו את שדה "מדינה" ריק)]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p9">
+    <tuv xml:lang="he"><seg><![CDATA[התאימו את סוג הקהילה שלכם (לדוגמה %1$s) לבחירת כתובת האינטרנט שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="Invite other Teachers">
+    <tuv xml:lang="he"><seg><![CDATA[הזמינו מורים נוספים]]></seg></tuv>
+  </tu>
+  <tu tuid="Library Items">
+    <tuv xml:lang="he"><seg><![CDATA[פרטי ספריה]]></seg></tuv>
+  </tu>
+  <tu tuid="Library-js">
+    <tuv xml:lang="he"><seg><![CDATA[ספריה]]></seg></tuv>
+  </tu>
+  <tu tuid="MEMBER">
+    <tuv xml:lang="he"><seg><![CDATA[את/ה כבר חבר/ה בקבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="MOM">
+    <tuv xml:lang="he"><seg><![CDATA[אם]]></seg></tuv>
+  </tu>
+  <tu tuid="MR">
+    <tuv xml:lang="he"><seg><![CDATA[מר]]></seg></tuv>
+  </tu>
+  <tu tuid="MRS">
+    <tuv xml:lang="he"><seg><![CDATA[גברת]]></seg></tuv>
+  </tu>
+  <tu tuid="MS">
+    <tuv xml:lang="he"><seg><![CDATA[גברת]]></seg></tuv>
+  </tu>
+  <tu tuid="NONE">
+    <tuv xml:lang="he"><seg><![CDATA[[ כלום ]]]></seg></tuv>
+  </tu>
+  <tu tuid="NOT_GRADED">
+    <tuv xml:lang="he"><seg><![CDATA[לא הועבר ציון]]></seg></tuv>
+  </tu>
+  <tu tuid="NOT_TURNED_IN">
+    <tuv xml:lang="he"><seg><![CDATA[לא הוגש]]></seg></tuv>
+  </tu>
+  <tu tuid="OTHER">
+    <tuv xml:lang="he"><seg><![CDATA[אחר]]></seg></tuv>
+  </tu>
+  <tu tuid="PARENT-js">
+    <tuv xml:lang="he"><seg><![CDATA[הורה]]></seg></tuv>
+  </tu>
+  <tu tuid="PUBLISHER-js">
+    <tuv xml:lang="he"><seg><![CDATA[מוציא לאור]]></seg></tuv>
+  </tu>
+  <tu tuid="Please insert a new email.-js">
+    <tuv xml:lang="he"><seg><![CDATA[אנא הכניסו כתובת אימייל חדשה.]]></seg></tuv>
+  </tu>
+  <tu tuid="Post Attachments-js">
+    <tuv xml:lang="he"><seg><![CDATA[קבצים שצורפו לפוסטים]]></seg></tuv>
+  </tu>
+  <tu tuid="Posts and Replies">
+    <tuv xml:lang="he"><seg><![CDATA[פוסטים ותגובות]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-p20">
+    <tuv xml:lang="he"><seg><![CDATA[קבצים שצורפו לאימייל:]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-p21">
+    <tuv xml:lang="he"><seg><![CDATA[1. ברוכים הבאים לאדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail4-p1">
+    <tuv xml:lang="he"><seg><![CDATA[{FIRST_NAME} היקר/ה]]></seg></tuv>
+  </tu>
+  <tu tuid="REQUESTED">
+    <tuv xml:lang="he"><seg><![CDATA[נשלחה בקשתך להצטרף לקבוצה זו. מנהל הקבוצה צריך לאשר את בקשתך.]]></seg></tuv>
+  </tu>
+  <tu tuid="STUDENT">
+    <tuv xml:lang="he"><seg><![CDATA[תלמיד]]></seg></tuv>
+  </tu>
+  <tu tuid="STUDENT-js">
+    <tuv xml:lang="he"><seg><![CDATA[תלמיד]]></seg></tuv>
+  </tu>
+  <tu tuid="Select your school">
+    <tuv xml:lang="he"><seg><![CDATA[בחרו בית ספר]]></seg></tuv>
+  </tu>
+  <tu tuid="Sharing Score">
+    <tuv xml:lang="he"><seg><![CDATA[תוצאת שיתוף]]></seg></tuv>
+  </tu>
+  <tu tuid="SubdomainRejectEmail-p5">
+    <tuv xml:lang="he"><seg><![CDATA[לבית הספר או המחוז שלכם יש כבר כתובת ייחודית]]></seg></tuv>
+  </tu>
+  <tu tuid="SubdomainRejectEmail-p7a">
+    <tuv xml:lang="he"><seg><![CDATA[אתם עדיין יכולים לקבל את המאפיינים המצוינים של אדמודו בעזרת]]></seg></tuv>
+  </tu>
+  <tu tuid="Support Community">
+    <tuv xml:lang="he"><seg><![CDATA[תמיכה בקהילה]]></seg></tuv>
+  </tu>
+  <tu tuid="TEACHER">
+    <tuv xml:lang="he"><seg><![CDATA[מורה]]></seg></tuv>
+  </tu>
+  <tu tuid="TEACHER-js">
+    <tuv xml:lang="he"><seg><![CDATA[מורה]]></seg></tuv>
+  </tu>
+  <tu tuid="Teacher Connections">
+    <tuv xml:lang="he"><seg><![CDATA[קשרי מורה]]></seg></tuv>
+  </tu>
+  <tu tuid="There are currently no resources in this folder.-js">
+    <tuv xml:lang="he"><seg><![CDATA[אין כרגע כל מקורות בתיקיה זו]]></seg></tuv>
+  </tu>
+  <tu tuid="Upload Error-js">
+    <tuv xml:lang="he"><seg><![CDATA[שגיאת העלאה]]></seg></tuv>
+  </tu>
+  <tu tuid="Upload photo (Max. 10 MB)-js">
+    <tuv xml:lang="he"><seg><![CDATA[העלאת תמונה (מקסימום 10 מגה-בייט)]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail-footer-02">
+    <tuv xml:lang="he"><seg><![CDATA[זהו להיום! אנחנו מתרגשים שהצטרפת כמורה אדמודו.]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail2-ec">
+    <tuv xml:lang="he"><seg><![CDATA[קראו על %1$s רעיונות של מורי אדמודו %2$s מכל רחבי העולם!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail2-p6a">
+    <tuv xml:lang="he"><seg><![CDATA[למדו איך ליצור כיתת אונליין, להזמין ולהוסיף תלמידים, לאתר ולשתף מקורות, להתחבר למורים עמיתים, ועוד!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail3-ec">
+    <tuv xml:lang="he"><seg><![CDATA[מתן ציונים מעולם לא היה קל יותר, בדקו את %1$sספר הציונים של אדמודו%2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail4-ec">
+    <tuv xml:lang="he"><seg><![CDATA[%1$sבחני אדמודו%2$s הם דרך מצוינת לגרום לתלמידיכם להיות מעורבים יותר ולנהל משימות כיתה ושיעורי בית. %3$s צרו בוחן היום!%4$s]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail5-ec">
+    <tuv xml:lang="he"><seg><![CDATA[עשו זאת פשוט, חברו בין חשבון אדמודו שלכם ובין חשבון %1$sגוגל דרייב%2$s שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail6-ec">
+    <tuv xml:lang="he"><seg><![CDATA[ברגע שאתם מחוברים למורים אחרים, ביכולתכם ל%1$sשתף את הספריה שלכם%2$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail6-p2a">
+    <tuv xml:lang="he"><seg><![CDATA[זה הזמן להעשיר את רשת אדמודו שלכם!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail6-p2b">
+    <tuv xml:lang="he"><seg><![CDATA[%1$sקהילות אדמודו%2$s מספקות פורום בעל ערך לאיסוף פידבק מקצועי, להחלפת רעיונות ולשיתוף תוכן ושיעורים הניתנים לשילוב מיידי בתוכנית הלימודים הכיתתית שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail6-p4a">
+    <tuv xml:lang="he"><seg><![CDATA[בחרו באייקון "גילוי" מסרגל הניווט העליון. ]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail6-p4b">
+    <tuv xml:lang="he"><seg><![CDATA[לחצו על "קהילות" כדי לראות ולעקוב אחרי קהילות נושא.]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail7-ec">
+    <tuv xml:lang="he"><seg><![CDATA[ציינו בחגיגיות עבודה מצוינת. %1$sהעניקו תג%2$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail7-p5">
+    <tuv xml:lang="he"><seg><![CDATA[תנו שיעורי בית]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail8-ec">
+    <tuv xml:lang="he"><seg><![CDATA[אתם תמיד יכולים להפוך את התלמידים שלכם למעמד של %1$sקוראים בלבד%2$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail8-p4">
+    <tuv xml:lang="he"><seg><![CDATA[חברו את כל המכשירים שלכם ולמדו עוד מה ניתן לעשות עם %1$sמדריכי המובייל של אדמודו%2$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail9-ec">
+    <tuv xml:lang="he"><seg><![CDATA[גייסו מורים מבית הספר שלכם להצטרף לאדמודו. %1$sהזמינו מורה%2$s היום!]]></seg></tuv>
+  </tu>
+  <tu tuid="You currently have no Google docs.-js">
+    <tuv xml:lang="he"><seg><![CDATA[אין לכם כרגע כל מסמכי גוגל]]></seg></tuv>
+  </tu>
+  <tu tuid="You currently have no favorites.-js">
+    <tuv xml:lang="he"><seg><![CDATA[אין לכם כרגע מועדפים]]></seg></tuv>
+  </tu>
+  <tu tuid="You currently have no featured items.-js">
+    <tuv xml:lang="he"><seg><![CDATA[אין לכם כרגע כל פריטים מאופיינים]]></seg></tuv>
+  </tu>
+  <tu tuid="Your Current Photo-js">
+    <tuv xml:lang="he"><seg><![CDATA[התמונה הנוכחית שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="_all_status">
+    <tuv xml:lang="he"><seg><![CDATA[כל הסטטוסים]]></seg></tuv>
+  </tu>
+  <tu tuid="_graded">
+    <tuv xml:lang="he"><seg><![CDATA[ניתן ציון]]></seg></tuv>
+  </tu>
+  <tu tuid="_not_turned_in">
+    <tuv xml:lang="he"><seg><![CDATA[לא הוגש]]></seg></tuv>
+  </tu>
+  <tu tuid="_turned_in">
+    <tuv xml:lang="he"><seg><![CDATA[הוגשו]]></seg></tuv>
+  </tu>
+  <tu tuid="_turned_in-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוגשו]]></seg></tuv>
+  </tu>
+  <tu tuid="a-google-error">
+    <tuv xml:lang="he"><seg><![CDATA[איננו יכולים לאמת את חשבון הגוגל שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="a-group-of-people-js">
+    <tuv xml:lang="he"><seg><![CDATA[קבוצת אנשים]]></seg></tuv>
+  </tu>
+  <tu tuid="a-short-name-district">
+    <tuv xml:lang="he"><seg><![CDATA[שם קצר המתאר את המחוז שלכם. אנא אל תשתמשו בשמות פרטיים, שם זה אמור לייצג את המחוז כולו.]]></seg></tuv>
+  </tu>
+  <tu tuid="a-short-name-school">
+    <tuv xml:lang="he"><seg><![CDATA[שם קצר המתאר את בית הספר שלכם. אנא אל תשתמשו בשמות פרטיים, שם זה אמור לייצג את בית הספר כולו.]]></seg></tuv>
+  </tu>
+  <tu tuid="a-student-js">
+    <tuv xml:lang="he"><seg><![CDATA[תלמיד/ה]]></seg></tuv>
+  </tu>
+  <tu tuid="about">
+    <tuv xml:lang="he"><seg><![CDATA[אודות]]></seg></tuv>
+  </tu>
+  <tu tuid="about-all-initials">
+    <tuv xml:lang="he"><seg><![CDATA[אודות]]></seg></tuv>
+  </tu>
+  <tu tuid="about-edmodo">
+    <tuv xml:lang="he"><seg><![CDATA[אודות אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index">
+    <tuv xml:lang="he"><seg><![CDATA[אודות]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index-contact-us">
+    <tuv xml:lang="he"><seg><![CDATA[צור קשר]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index-page-content-story-header-members">
+    <tuv xml:lang="he"><seg><![CDATA[עוקבים]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index-page-content-team-header-join">
+    <tuv xml:lang="he"><seg><![CDATA[הצטרפו לאדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index-page-headline-header">
+    <tuv xml:lang="he"><seg><![CDATA[אודות אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index-title-js">
+    <tuv xml:lang="he"><seg><![CDATA[אודות]]></seg></tuv>
+  </tu>
+  <tu tuid="about-insights">
+    <tuv xml:lang="he"><seg><![CDATA[אודות תובנות]]></seg></tuv>
+  </tu>
+  <tu tuid="about-me">
+    <tuv xml:lang="he"><seg><![CDATA[אודותיי]]></seg></tuv>
+  </tu>
+  <tu tuid="about-name">
+    <tuv xml:lang="he"><seg><![CDATA[אודות %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="about-you">
+    <tuv xml:lang="he"><seg><![CDATA[אודותכם]]></seg></tuv>
+  </tu>
+  <tu tuid="about_quiz">
+    <tuv xml:lang="he"><seg><![CDATA[אודות המבחן]]></seg></tuv>
+  </tu>
+  <tu tuid="accelerate">
+    <tuv xml:lang="he"><seg><![CDATA[האיצו מטרות למידה]]></seg></tuv>
+  </tu>
+  <tu tuid="accelerate-desc">
+    <tuv xml:lang="he"><seg><![CDATA[פריסה וניהול קלים של נכסים דיגיטליים, מעקב אחר דפוסי שימוש והתקדמות תלמידים בבית הספר שלך או באזורך דרך לוח הניהול.]]></seg></tuv>
+  </tu>
+  <tu tuid="accept">
+    <tuv xml:lang="he"><seg><![CDATA[אישור]]></seg></tuv>
+  </tu>
+  <tu tuid="accept-request">
+    <tuv xml:lang="he"><seg><![CDATA[אישור בקשה]]></seg></tuv>
+  </tu>
+  <tu tuid="access">
+    <tuv xml:lang="he"><seg><![CDATA[גישה]]></seg></tuv>
+  </tu>
+  <tu tuid="access-2">
+    <tuv xml:lang="he"><seg><![CDATA[גישה]]></seg></tuv>
+  </tu>
+  <tu tuid="account-history">
+    <tuv xml:lang="he"><seg><![CDATA[היסטוריית חשבון]]></seg></tuv>
+  </tu>
+  <tu tuid="activate">
+    <tuv xml:lang="he"><seg><![CDATA[הפעל]]></seg></tuv>
+  </tu>
+  <tu tuid="activate-desc">
+    <tuv xml:lang="he"><seg><![CDATA[חברו את כל המורים, התלמידים, ההורים והמנהלים של בית הספר או המחוז שלכם בעזרת כתובת אינטרנט ייחודית ומאובטחת של אדמודו (כתובת לדוגמה: EdmodoHigh.edmodo.com)]]></seg></tuv>
+  </tu>
+  <tu tuid="activation-subject">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s הופעל]]></seg></tuv>
+  </tu>
+  <tu tuid="active">
+    <tuv xml:lang="he"><seg><![CDATA[פעיל]]></seg></tuv>
+  </tu>
+  <tu tuid="activity">
+    <tuv xml:lang="he"><seg><![CDATA[פעילות]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-history">
+    <tuv xml:lang="he"><seg><![CDATA[היסטוריית פעילות]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-js">
+    <tuv xml:lang="he"><seg><![CDATA[קהילה]]></seg></tuv>
+  </tu>
+  <tu tuid="actually-have-account">
+    <tuv xml:lang="he"><seg><![CDATA[למעשה, יש לי חשבון אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="add">
+    <tuv xml:lang="he"><seg><![CDATA[הוספת בית ספר]]></seg></tuv>
+  </tu>
+  <tu tuid="add-a-badge-to-group">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף תגיות לקבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="add-answer-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספת תשובה]]></seg></tuv>
+  </tu>
+  <tu tuid="add-comment-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף תגובה]]></seg></tuv>
+  </tu>
+  <tu tuid="add-connection-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף חיבור]]></seg></tuv>
+  </tu>
+  <tu tuid="add-content">
+    <tuv xml:lang="he"><seg><![CDATA[<a id="add-content-link" href="library/v2/">הוסיפו לינקים, הטמעות וקבצים ל</a>]]></seg></tuv>
+  </tu>
+  <tu tuid="add-donorschoose">
+    <tuv xml:lang="he"><seg><![CDATA[הוסיפו את פרויקט הDonorsChoose שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="add-file">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף קובץ]]></seg></tuv>
+  </tu>
+  <tu tuid="add-from-backpack-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה מתיק הגב]]></seg></tuv>
+  </tu>
+  <tu tuid="add-from-library-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה מספריה]]></seg></tuv>
+  </tu>
+  <tu tuid="add-gradebook-badge-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף תגיות לגיליון הציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="add-it-here">
+    <tuv xml:lang="he"><seg><![CDATA[הוסיפו זאת כאן]]></seg></tuv>
+  </tu>
+  <tu tuid="add-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף]]></seg></tuv>
+  </tu>
+  <tu tuid="add-post">
+    <tuv xml:lang="he"><seg><![CDATA[הוספת פוסט לספריה]]></seg></tuv>
+  </tu>
+  <tu tuid="add-prev-schools">
+    <tuv xml:lang="he"><seg><![CDATA[הוסיפו בתי ספר קודמים בהם לימדתם]]></seg></tuv>
+  </tu>
+  <tu tuid="add-previous-school-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספת בית ספר קודם]]></seg></tuv>
+  </tu>
+  <tu tuid="add-projects-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסיפו פרויקט DonorsChoose]]></seg></tuv>
+  </tu>
+  <tu tuid="add-quiz-gradebook">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה לספר ציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="add-school">
+    <tuv xml:lang="he"><seg><![CDATA[הוסיפו את בית הספר שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="add-school-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספת בית ספר]]></seg></tuv>
+  </tu>
+  <tu tuid="add-selected-members">
+    <tuv xml:lang="he"><seg><![CDATA[הוספת חברים נבחרים]]></seg></tuv>
+  </tu>
+  <tu tuid="add-student">
+    <tuv xml:lang="he"><seg><![CDATA[הוספת תלמיד]]></seg></tuv>
+  </tu>
+  <tu tuid="add-student-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספת תלמיד/ה]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-folder-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה לתיקיה]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-library">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה לספריה]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-library-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה לספריה]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-other-folders-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה לתיקיות אחרות]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-post">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה לפוסט]]></seg></tuv>
+  </tu>
+  <tu tuid="add-topic">
+    <tuv xml:lang="he"><seg><![CDATA[נושא]]></seg></tuv>
+  </tu>
+  <tu tuid="add2bp-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה לתיק גב]]></seg></tuv>
+  </tu>
+  <tu tuid="addOnLicensesDue-txt">
+    <tuv xml:lang="he"><seg><![CDATA[בגלל חברים נוספים, עליכם לרכוש רשיונות נוספים לאפליקציות המותקנות בקבוצות שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="add_all_members-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף את כל חברי הקבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="add_file-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף קובץ (100MB מקסימום)]]></seg></tuv>
+  </tu>
+  <tu tuid="add_members-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספת חברים]]></seg></tuv>
+  </tu>
+  <tu tuid="add_members_to_small_group-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספת חברים לקבוצה קטנה]]></seg></tuv>
+  </tu>
+  <tu tuid="add_new_question">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף שאלה ראשונה]]></seg></tuv>
+  </tu>
+  <tu tuid="add_new_question_blurb">
+    <tuv xml:lang="he"><seg><![CDATA[ליצירת מבחן כתוב שאלה ראשונה]]></seg></tuv>
+  </tu>
+  <tu tuid="add_question">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף שאלה]]></seg></tuv>
+  </tu>
+  <tu tuid="add_response-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף תגובה]]></seg></tuv>
+  </tu>
+  <tu tuid="add_to_gradebook">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה לספר הציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="add_to_gradebook-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוספה לספר הציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="added">
+    <tuv xml:lang="he"><seg><![CDATA[נוסף]]></seg></tuv>
+  </tu>
+  <tu tuid="added-js">
+    <tuv xml:lang="he"><seg><![CDATA[נוסף]]></seg></tuv>
+  </tu>
+  <tu tuid="added-post">
+    <tuv xml:lang="he"><seg><![CDATA[נוסף לספריה]]></seg></tuv>
+  </tu>
+  <tu tuid="added_by_me-js">
+    <tuv xml:lang="he"><seg><![CDATA[ספרייה]]></seg></tuv>
+  </tu>
+  <tu tuid="added_to_gradebook-js">
+    <tuv xml:lang="he"><seg><![CDATA[נוסף לספר הציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="address">
+    <tuv xml:lang="he"><seg><![CDATA[כתובת]]></seg></tuv>
+  </tu>
+  <tu tuid="address-error">
+    <tuv xml:lang="he"><seg><![CDATA[יש להכניס כתובת]]></seg></tuv>
+  </tu>
+  <tu tuid="address-title">
+    <tuv xml:lang="he"><seg><![CDATA[כתובת]]></seg></tuv>
+  </tu>
+  <tu tuid="admin-js">
+    <tuv xml:lang="he"><seg><![CDATA[מנהל]]></seg></tuv>
+  </tu>
+  <tu tuid="administrator-js">
+    <tuv xml:lang="he"><seg><![CDATA[מנהל]]></seg></tuv>
+  </tu>
+  <tu tuid="admins">
+    <tuv xml:lang="he"><seg><![CDATA[מנהלים]]></seg></tuv>
+  </tu>
+  <tu tuid="admirable">
+    <tuv xml:lang="he"><seg><![CDATA[ראוי להערצה]]></seg></tuv>
+  </tu>
+  <tu tuid="advanced_options">
+    <tuv xml:lang="he"><seg><![CDATA[אפשרויות מתקדמות]]></seg></tuv>
+  </tu>
+  <tu tuid="after-linking1">
+    <tuv xml:lang="he"><seg><![CDATA[אחרי חיבור החשבון שלכם, תוכלו להיכנס ל ]]></seg></tuv>
+  </tu>
+  <tu tuid="after-linking2">
+    <tuv xml:lang="he"><seg><![CDATA[ עם ה ]]></seg></tuv>
+  </tu>
+  <tu tuid="after-linking3">
+    <tuv xml:lang="he"><seg><![CDATA[כניסה.]]></seg></tuv>
+  </tu>
+  <tu tuid="after-submit">
+    <tuv xml:lang="he"><seg><![CDATA[אחרי שליחת הבקשה שלכם, אדמודו ייצרו עמכם קשר למידע כיצד להתחיל את קהילת בית הספר שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="age-10-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 10]]></seg></tuv>
+  </tu>
+  <tu tuid="age-11-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 11]]></seg></tuv>
+  </tu>
+  <tu tuid="age-12-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 12]]></seg></tuv>
+  </tu>
+  <tu tuid="age-13-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 13]]></seg></tuv>
+  </tu>
+  <tu tuid="age-14-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 14]]></seg></tuv>
+  </tu>
+  <tu tuid="age-15-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 15]]></seg></tuv>
+  </tu>
+  <tu tuid="age-16-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 16]]></seg></tuv>
+  </tu>
+  <tu tuid="age-17-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 17]]></seg></tuv>
+  </tu>
+  <tu tuid="age-18-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 18+]]></seg></tuv>
+  </tu>
+  <tu tuid="age-4-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 4]]></seg></tuv>
+  </tu>
+  <tu tuid="age-5-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 5]]></seg></tuv>
+  </tu>
+  <tu tuid="age-6-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 6]]></seg></tuv>
+  </tu>
+  <tu tuid="age-7-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 7]]></seg></tuv>
+  </tu>
+  <tu tuid="age-8-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 8]]></seg></tuv>
+  </tu>
+  <tu tuid="age-9-js">
+    <tuv xml:lang="he"><seg><![CDATA[גיל 9]]></seg></tuv>
+  </tu>
+  <tu tuid="agree">
+    <tuv xml:lang="he"><seg><![CDATA[את/ה מסכים/ה ל]]></seg></tuv>
+  </tu>
+  <tu tuid="agree-all">
+    <tuv xml:lang="he"><seg><![CDATA[אתם מסכימים ל%1$s שלנו ול%2$s שלנו]]></seg></tuv>
+  </tu>
+  <tu tuid="agree-student">
+    <tuv xml:lang="he"><seg><![CDATA[אתם והוריכם מסכימים ל%1$s שלנו ול%2$s שלנו.]]></seg></tuv>
+  </tu>
+  <tu tuid="alert">
+    <tuv xml:lang="he"><seg><![CDATA[התראה]]></seg></tuv>
+  </tu>
+  <tu tuid="alert-desc-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכניסו את האזהרה (מקסימום 140 תווים)...]]></seg></tuv>
+  </tu>
+  <tu tuid="alert-js">
+    <tuv xml:lang="he"><seg><![CDATA[התראה]]></seg></tuv>
+  </tu>
+  <tu tuid="alert-notnew-js">
+    <tuv xml:lang="he"><seg><![CDATA[התראה]]></seg></tuv>
+  </tu>
+  <tu tuid="alert-trans">
+    <tuv xml:lang="he"><seg><![CDATA[התראה]]></seg></tuv>
+  </tu>
+  <tu tuid="alerts">
+    <tuv xml:lang="he"><seg><![CDATA[התראות חדשות]]></seg></tuv>
+  </tu>
+  <tu tuid="alerts-filter-js">
+    <tuv xml:lang="he"><seg><![CDATA[התראות]]></seg></tuv>
+  </tu>
+  <tu tuid="algebra">
+    <tuv xml:lang="he"><seg><![CDATA[אלגברה]]></seg></tuv>
+  </tu>
+  <tu tuid="all">
+    <tuv xml:lang="he"><seg><![CDATA[הכל]]></seg></tuv>
+  </tu>
+  <tu tuid="all-authors-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכל]]></seg></tuv>
+  </tu>
+  <tu tuid="all-connections-js">
+    <tuv xml:lang="he"><seg><![CDATA[קשרים]]></seg></tuv>
+  </tu>
+  <tu tuid="all-folders-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכל]]></seg></tuv>
+  </tu>
+  <tu tuid="all-groups">
+    <tuv xml:lang="he"><seg><![CDATA[כל הקבוצות]]></seg></tuv>
+  </tu>
+  <tu tuid="all-groups-js">
+    <tuv xml:lang="he"><seg><![CDATA[כל הקבוצות]]></seg></tuv>
+  </tu>
+  <tu tuid="all-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכל]]></seg></tuv>
+  </tu>
+  <tu tuid="all-recipients">
+    <tuv xml:lang="he"><seg><![CDATA[כול סטטוס]]></seg></tuv>
+  </tu>
+  <tu tuid="all-time">
+    <tuv xml:lang="he"><seg><![CDATA[כל הזמן]]></seg></tuv>
+  </tu>
+  <tu tuid="all-types-js">
+    <tuv xml:lang="he"><seg><![CDATA[כל הסוגים]]></seg></tuv>
+  </tu>
+  <tu tuid="allDocs-js">
+    <tuv xml:lang="he"><seg><![CDATA[כל המסמכים]]></seg></tuv>
+  </tu>
+  <tu tuid="all_groups">
+    <tuv xml:lang="he"><seg><![CDATA[כל הקבוצות]]></seg></tuv>
+  </tu>
+  <tu tuid="all_status">
+    <tuv xml:lang="he"><seg><![CDATA[כל הסטטוסים]]></seg></tuv>
+  </tu>
+  <tu tuid="allowEditing-js">
+    <tuv xml:lang="he"><seg><![CDATA[אשרו עריכה]]></seg></tuv>
+  </tu>
+  <tu tuid="already-connected">
+    <tuv xml:lang="he"><seg><![CDATA[אתה מחובר למורה זה.]]></seg></tuv>
+  </tu>
+  <tu tuid="already-edmodian-prompt">
+    <tuv xml:lang="he"><seg><![CDATA[האם השתמשת באדמודו בעבר?]]></seg></tuv>
+  </tu>
+  <tu tuid="already-have-account-js">
+    <tuv xml:lang="he"><seg><![CDATA[כבר יש לכם חשבון אדמודו?]]></seg></tuv>
+  </tu>
+  <tu tuid="already-parent">
+    <tuv xml:lang="he"><seg><![CDATA[אתה כבר הורה של תלמיד זה]]></seg></tuv>
+  </tu>
+  <tu tuid="amount">
+    <tuv xml:lang="he"><seg><![CDATA[סכום]]></seg></tuv>
+  </tu>
+  <tu tuid="an-error">
+    <tuv xml:lang="he"><seg><![CDATA[בעיה לא ידועה התרחשה. אנא נסו שנית מאוחר יותר.]]></seg></tuv>
+  </tu>
+  <tu tuid="analytics">
+    <tuv xml:lang="he"><seg><![CDATA[סטטיסטיקות]]></seg></tuv>
+  </tu>
+  <tu tuid="analytics-2">
+    <tuv xml:lang="he"><seg><![CDATA[סטטיסטיקות]]></seg></tuv>
+  </tu>
+  <tu tuid="analytics-js">
+    <tuv xml:lang="he"><seg><![CDATA[סטטיסטיקות]]></seg></tuv>
+  </tu>
+  <tu tuid="analyze-activity">
+    <tuv xml:lang="he"><seg><![CDATA[נתח פעילות]]></seg></tuv>
+  </tu>
+  <tu tuid="and-more">
+    <tuv xml:lang="he"><seg><![CDATA[, ועוד]]></seg></tuv>
+  </tu>
+  <tu tuid="and-more-js">
+    <tuv xml:lang="he"><seg><![CDATA[ועוד]]></seg></tuv>
+  </tu>
+  <tu tuid="answer">
+    <tuv xml:lang="he"><seg><![CDATA[תשובה]]></seg></tuv>
+  </tu>
+  <tu tuid="answer-js">
+    <tuv xml:lang="he"><seg><![CDATA[תשובה #]]></seg></tuv>
+  </tu>
+  <tu tuid="answered">
+    <tuv xml:lang="he"><seg><![CDATA[שאלות שנענו]]></seg></tuv>
+  </tu>
+  <tu tuid="app-license">
+    <tuv xml:lang="he"><seg><![CDATA[רשיון אפליקציה]]></seg></tuv>
+  </tu>
+  <tu tuid="apply-js">
+    <tuv xml:lang="he"><seg><![CDATA[יישום]]></seg></tuv>
+  </tu>
+  <tu tuid="approve">
+    <tuv xml:lang="he"><seg><![CDATA[אשר]]></seg></tuv>
+  </tu>
+  <tu tuid="approvedAllConf">
+    <tuv xml:lang="he"><seg><![CDATA[כל ההודעות אושרו.]]></seg></tuv>
+  </tu>
+  <tu tuid="approvedAllErr">
+    <tuv xml:lang="he"><seg><![CDATA[אירעה שגיאה באישור כל ההודעות.]]></seg></tuv>
+  </tu>
+  <tu tuid="apps">
+    <tuv xml:lang="he"><seg><![CDATA[אפליקציות]]></seg></tuv>
+  </tu>
+  <tu tuid="archive">
+    <tuv xml:lang="he"><seg><![CDATA[שמור בארכיון]]></seg></tuv>
+  </tu>
+  <tu tuid="archive-group-prompt">
+    <tuv xml:lang="he"><seg><![CDATA[לשמור את {TITLE} בארכיון?]]></seg></tuv>
+  </tu>
+  <tu tuid="archive-js">
+    <tuv xml:lang="he"><seg><![CDATA[ארכיון]]></seg></tuv>
+  </tu>
+  <tu tuid="archive-question">
+    <tuv xml:lang="he"><seg><![CDATA[לשמור בארכיון את <strong>{GROUP_NAME}</strong>?]]></seg></tuv>
+  </tu>
+  <tu tuid="archive-small-group-js">
+    <tuv xml:lang="he"><seg><![CDATA[ארכיון קבוצה קטנה]]></seg></tuv>
+  </tu>
+  <tu tuid="archived">
+    <tuv xml:lang="he"><seg><![CDATA[ארכיון]]></seg></tuv>
+  </tu>
+  <tu tuid="archived-groups">
+    <tuv xml:lang="he"><seg><![CDATA[קבוצות בארכיון]]></seg></tuv>
+  </tu>
+  <tu tuid="archived-groups-js">
+    <tuv xml:lang="he"><seg><![CDATA[קבוצות ארכיון]]></seg></tuv>
+  </tu>
+  <tu tuid="archived-js">
+    <tuv xml:lang="he"><seg><![CDATA[ארכיון]]></seg></tuv>
+  </tu>
+  <tu tuid="archived_tags-js">
+    <tuv xml:lang="he"><seg><![CDATA[תגים שמורים]]></seg></tuv>
+  </tu>
+  <tu tuid="are-you-sure-report">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים כי ברצונכם לדווח על חשבון מורה זה?]]></seg></tuv>
+  </tu>
+  <tu tuid="are-you-sure-you-want-to-delete-this-grade">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתה בטוח שאתה מעוניין למחוק את הציון]]></seg></tuv>
+  </tu>
+  <tu tuid="are_you_sure_delete_msg-js">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתה בטוח שאתה מעוניין לבטל את שליחת המבחן]]></seg></tuv>
+  </tu>
+  <tu tuid="art">
+    <tuv xml:lang="he"><seg><![CDATA[אומנות]]></seg></tuv>
+  </tu>
+  <tu tuid="ask-teacher">
+    <tuv xml:lang="he"><seg><![CDATA[ולא הכנסת כתובת אימייל לאדמודו, שאל/י אחד מהמדריכים לאפס את סיסמתך. ]]></seg></tuv>
+  </tu>
+  <tu tuid="ask-us">
+    <tuv xml:lang="he"><seg><![CDATA[שאלו אותנו]]></seg></tuv>
+  </tu>
+  <tu tuid="ass-n-grading">
+    <tuv xml:lang="he"><seg><![CDATA[משימות וציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="assign_quiz">
+    <tuv xml:lang="he"><seg><![CDATA[העלה מבחן]]></seg></tuv>
+  </tu>
+  <tu tuid="assigned_by">
+    <tuv xml:lang="he"><seg><![CDATA[נערך על ידי]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment">
+    <tuv xml:lang="he"><seg><![CDATA[משימה]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-comments">
+    <tuv xml:lang="he"><seg><![CDATA[הערות למטלה]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-deleted">
+    <tuv xml:lang="he"><seg><![CDATA[המשימה נמחקה]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-description-js">
+    <tuv xml:lang="he"><seg><![CDATA[תיאור המשימה]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-due">
+    <tuv xml:lang="he"><seg><![CDATA[מועד המטלה]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-js">
+    <tuv xml:lang="he"><seg><![CDATA[מטלה]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-options">
+    <tuv xml:lang="he"><seg><![CDATA[אפשרויות משימה]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-post-success">
+    <tuv xml:lang="he"><seg><![CDATA[נשלחה תגובה למשימה שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-trans">
+    <tuv xml:lang="he"><seg><![CDATA[משימה]]></seg></tuv>
+  </tu>
+  <tu tuid="assignments">
+    <tuv xml:lang="he"><seg><![CDATA[משימות וציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="assignments-js">
+    <tuv xml:lang="he"><seg><![CDATA[מטלות]]></seg></tuv>
+  </tu>
+  <tu tuid="assignments-teacher">
+    <tuv xml:lang="he"><seg><![CDATA[משימות/מורה]]></seg></tuv>
+  </tu>
+  <tu tuid="associated-with-school">
+    <tuv xml:lang="he"><seg><![CDATA[אתם מקושרים כעת עם בית הספר הבא:]]></seg></tuv>
+  </tu>
+  <tu tuid="attach-js">
+    <tuv xml:lang="he"><seg><![CDATA[צרוף]]></seg></tuv>
+  </tu>
+  <tu tuid="attach-link-js">
+    <tuv xml:lang="he"><seg><![CDATA[צירוף קובץ]]></seg></tuv>
+  </tu>
+  <tu tuid="attach2-js">
+    <tuv xml:lang="he"><seg><![CDATA[צירוף קובץ]]></seg></tuv>
+  </tu>
+  <tu tuid="attach_link-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף קישור]]></seg></tuv>
+  </tu>
+  <tu tuid="attach_link_err_description_required-js">
+    <tuv xml:lang="he"><seg><![CDATA[יש להכניס תיאור קצר]]></seg></tuv>
+  </tu>
+  <tu tuid="attach_link_err_url_required-js">
+    <tuv xml:lang="he"><seg><![CDATA[חובה לצרף כתובת אינטרנט או קוד הטמעה]]></seg></tuv>
+  </tu>
+  <tu tuid="attachment-too-large-js">
+    <tuv xml:lang="he"><seg><![CDATA[לא ניתן לקבל קבצים הגדולים מ {{num}} מ"ב. אנא השתמשו בקבצים קטנים יותר או נסו לכווץ את הקובץ הנוכחי.]]></seg></tuv>
+  </tu>
+  <tu tuid="attachment-unknown-error-js">
+    <tuv xml:lang="he"><seg><![CDATA[שגיאה לא ידועה אירעה. אנא סרקו את הקבצים המצורפים ונסו שוב.]]></seg></tuv>
+  </tu>
+  <tu tuid="authGdocs-js">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו לגוגל דרייב]]></seg></tuv>
+  </tu>
+  <tu tuid="available">
+    <tuv xml:lang="he"><seg><![CDATA[פנוי]]></seg></tuv>
+  </tu>
+  <tu tuid="available-members">
+    <tuv xml:lang="he"><seg><![CDATA[חברים זמינים]]></seg></tuv>
+  </tu>
+  <tu tuid="avatar-alt">
+    <tuv xml:lang="he"><seg><![CDATA[האוואטר של %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="avatar-alt-2">
+    <tuv xml:lang="he"><seg><![CDATA[האוואטר של %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="average">
+    <tuv xml:lang="he"><seg><![CDATA[ממצוע]]></seg></tuv>
+  </tu>
+  <tu tuid="average_score">
+    <tuv xml:lang="he"><seg><![CDATA[תוצאה ממוצעת]]></seg></tuv>
+  </tu>
+  <tu tuid="avg_teacher_reaction">
+    <tuv xml:lang="he"><seg><![CDATA[ממוצע התגובה של המורה הוא %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="award-badge">
+    <tuv xml:lang="he"><seg><![CDATA[הענק תג]]></seg></tuv>
+  </tu>
+  <tu tuid="award-students">
+    <tuv xml:lang="he"><seg><![CDATA[והעניקו אותם לתלמידיכם]]></seg></tuv>
+  </tu>
+  <tu tuid="awarded-by">
+    <tuv xml:lang="he"><seg><![CDATA[הוענק על ידי]]></seg></tuv>
+  </tu>
+  <tu tuid="awarded-by-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוענק על ידי %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="awesome">
+    <tuv xml:lang="he"><seg><![CDATA[מגניב!]]></seg></tuv>
+  </tu>
+  <tu tuid="back">
+    <tuv xml:lang="he"><seg><![CDATA[חזור]]></seg></tuv>
+  </tu>
+  <tu tuid="back-2">
+    <tuv xml:lang="he"><seg><![CDATA[חזרה ל %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="back-step-1">
+    <tuv xml:lang="he"><seg><![CDATA[בחזרה לשלב 1]]></seg></tuv>
+  </tu>
+  <tu tuid="back-step-2">
+    <tuv xml:lang="he"><seg><![CDATA[בחזרה לשלב 2]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to">
+    <tuv xml:lang="he"><seg><![CDATA[בחזרה לאדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-previous">
+    <tuv xml:lang="he"><seg><![CDATA[חזור לעמוד הקודם]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-school-search">
+    <tuv xml:lang="he"><seg><![CDATA[בחזרה לחיפוש בתי ספר]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-search-schools">
+    <tuv xml:lang="he"><seg><![CDATA[בחזרה לחיפוש בתי ספר]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-spotlight">
+    <tuv xml:lang="he"><seg><![CDATA[בחזרה לspotlight]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-turned-in">
+    <tuv xml:lang="he"><seg><![CDATA[חזרה ל משימות שהוגשו]]></seg></tuv>
+  </tu>
+  <tu tuid="backpack">
+    <tuv xml:lang="he"><seg><![CDATA[תיק גב]]></seg></tuv>
+  </tu>
+  <tu tuid="backpack-items">
+    <tuv xml:lang="he"><seg><![CDATA[הכנס/י<br>לתרמיל]]></seg></tuv>
+  </tu>
+  <tu tuid="backpack-items-js">
+    <tuv xml:lang="he"><seg><![CDATA[פרטי תיק גב]]></seg></tuv>
+  </tu>
+  <tu tuid="backpack-js">
+    <tuv xml:lang="he"><seg><![CDATA[תיק גב]]></seg></tuv>
+  </tu>
+  <tu tuid="badge-awarded">
+    <tuv xml:lang="he"><seg><![CDATA[התג הוענק]]></seg></tuv>
+  </tu>
+  <tu tuid="badge-details-js">
+    <tuv xml:lang="he"><seg><![CDATA[פרטי תגיות]]></seg></tuv>
+  </tu>
+  <tu tuid="badge-js">
+    <tuv xml:lang="he"><seg><![CDATA[תג]]></seg></tuv>
+  </tu>
+  <tu tuid="badge_earned-suggestion">
+    <tuv xml:lang="he"><seg><![CDATA[שאל/י את המורה שלך כיצד להתחיל לאסוף תגים ב Edmodo!]]></seg></tuv>
+  </tu>
+  <tu tuid="badges">
+    <tuv xml:lang="he"><seg><![CDATA[תוויות]]></seg></tuv>
+  </tu>
+  <tu tuid="badges-js">
+    <tuv xml:lang="he"><seg><![CDATA[תוויות]]></seg></tuv>
+  </tu>
+  <tu tuid="basic-math">
+    <tuv xml:lang="he"><seg><![CDATA[מתמטיקה בסיסית]]></seg></tuv>
+  </tu>
+  <tu tuid="basic-science">
+    <tuv xml:lang="he"><seg><![CDATA[מדעים - בסיסי]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits">
+    <tuv xml:lang="he"><seg><![CDATA[מה זה?]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits-desc">
+    <tuv xml:lang="he"><seg><![CDATA[אנחנו מחפשים אנשים חכמים ויצירתיים אשר מוכנים לתת 100%. בתמורה, אנחנו נעניק לך הכנסה צדדית והטבות נפלאות.]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits1">
+    <tuv xml:lang="he"><seg><![CDATA[מיקום מצוין]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits1-desc">
+    <tuv xml:lang="he"><seg><![CDATA[יישומים אהובים, עכשיו עם יכולות משופרות. ]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits2">
+    <tuv xml:lang="he"><seg><![CDATA[משכורת ויושרה.]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits2-desc">
+    <tuv xml:lang="he"><seg><![CDATA[תכונות אהובות, עכשיו עם יכולות נוספות. תכונות אהובות, עכשיו עם יכולות נוספות. ]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits3">
+    <tuv xml:lang="he"><seg><![CDATA[רפואי, רפואת שיניים ורפואת עיניים]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits3-desc">
+    <tuv xml:lang="he"><seg><![CDATA[תכונות אהובות, עכשיו עם יכולות נוספות. תכונות אהובות, עכשיו עם יכולות נוספות. ]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits4">
+    <tuv xml:lang="he"><seg><![CDATA[תוכנית 401 (K)]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits4-desc">
+    <tuv xml:lang="he"><seg><![CDATA[תכונות אהובות, עכשיו עם יכולות נוספות. תכונות אהובות, עכשיו עם יכולות נוספות.]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits5">
+    <tuv xml:lang="he"><seg><![CDATA[חגים, חופשות וימי מחלה]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits5-desc">
+    <tuv xml:lang="he"><seg><![CDATA[תכונות אהובות, עכשיו עם יכולות נוספות. תכונות אהובות, עכשיו עם יכולות נוספות.]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits6">
+    <tuv xml:lang="he"><seg><![CDATA[כמות בלתי מוגבלת של חולצות T]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits6-desc">
+    <tuv xml:lang="he"><seg><![CDATA[תכונות אהובות, עכשיו עם יכולות נוספות. תכונות אהובות, עכשיו עם יכולות נוספות. ]]></seg></tuv>
+  </tu>
+  <tu tuid="billing-address">
+    <tuv xml:lang="he"><seg><![CDATA[כתובת למשלוח חיוב]]></seg></tuv>
+  </tu>
+  <tu tuid="biology">
+    <tuv xml:lang="he"><seg><![CDATA[ביולוגיה]]></seg></tuv>
+  </tu>
+  <tu tuid="blog">
+    <tuv xml:lang="he"><seg><![CDATA[בלוג]]></seg></tuv>
+  </tu>
+  <tu tuid="blog-trans">
+    <tuv xml:lang="he"><seg><![CDATA[בלוג]]></seg></tuv>
+  </tu>
+  <tu tuid="bored">
+    <tuv xml:lang="he"><seg><![CDATA[משועמם]]></seg></tuv>
+  </tu>
+  <tu tuid="brbr">
+    <tuv xml:lang="he"><seg><![CDATA[לא הועלו כלל ציונים למשימות]]></seg></tuv>
+  </tu>
+  <tu tuid="browse">
+    <tuv xml:lang="he"><seg><![CDATA[דפדוף]]></seg></tuv>
+  </tu>
+  <tu tuid="browse-communities-js">
+    <tuv xml:lang="he"><seg><![CDATA[דפדפו בקהילות]]></seg></tuv>
+  </tu>
+  <tu tuid="browse-find-resources">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s כדי למצוא מקורות ולהתחבר עם מורים אחרים]]></seg></tuv>
+  </tu>
+  <tu tuid="browse-topics">
+    <tuv xml:lang="he"><seg><![CDATA[דפדוף בנושאים]]></seg></tuv>
+  </tu>
+  <tu tuid="build-your-network">
+    <tuv xml:lang="he"><seg><![CDATA[בנו את הרשת שלכם, %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="build-your-profile">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s בנו את הפרופיל שלכם%2$s והתחברו למורים אחרים כדי לראות מה הם מלמדים]]></seg></tuv>
+  </tu>
+  <tu tuid="builds">
+    <tuv xml:lang="he"><seg><![CDATA[הקימו קהילות מעורבות ודינמיות]]></seg></tuv>
+  </tu>
+  <tu tuid="by-js">
+    <tuv xml:lang="he"><seg><![CDATA[על ידי]]></seg></tuv>
+  </tu>
+  <tu tuid="by-me">
+    <tuv xml:lang="he"><seg><![CDATA[על ידי]]></seg></tuv>
+  </tu>
+  <tu tuid="by_me-js">
+    <tuv xml:lang="he"><seg><![CDATA[על ידי]]></seg></tuv>
+  </tu>
+  <tu tuid="by_students-js">
+    <tuv xml:lang="he"><seg><![CDATA[על ידי תלמידים]]></seg></tuv>
+  </tu>
+  <tu tuid="by_teachers-js">
+    <tuv xml:lang="he"><seg><![CDATA[על ידי מורים]]></seg></tuv>
+  </tu>
+  <tu tuid="calendar">
+    <tuv xml:lang="he"><seg><![CDATA[לוח שנה]]></seg></tuv>
+  </tu>
+  <tu tuid="cancel">
+    <tuv xml:lang="he"><seg><![CDATA[בטל]]></seg></tuv>
+  </tu>
+  <tu tuid="cancel-js">
+    <tuv xml:lang="he"><seg><![CDATA[בטל]]></seg></tuv>
+  </tu>
+  <tu tuid="cancel-request">
+    <tuv xml:lang="he"><seg><![CDATA[ביטול בקשה]]></seg></tuv>
+  </tu>
+  <tu tuid="canceled-credit">
+    <tuv xml:lang="he"><seg><![CDATA[ביטול רכישת זיכוי בחנות - ]]></seg></tuv>
+  </tu>
+  <tu tuid="card-number">
+    <tuv xml:lang="he"><seg><![CDATA[מספר כרטיס]]></seg></tuv>
+  </tu>
+  <tu tuid="card-verfication">
+    <tuv xml:lang="he"><seg><![CDATA[אימות כרטיס]]></seg></tuv>
+  </tu>
+  <tu tuid="career-change">
+    <tuv xml:lang="he"><seg><![CDATA[לשנות את אופן שאני אוהב ללמוד]]></seg></tuv>
+  </tu>
+  <tu tuid="career-choose">
+    <tuv xml:lang="he"><seg><![CDATA[בחר/י את מטרת הקריירה שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="career-choose-other">
+    <tuv xml:lang="he"><seg><![CDATA[בחר/י קריירה שונה]]></seg></tuv>
+  </tu>
+  <tu tuid="career-goal">
+    <tuv xml:lang="he"><seg><![CDATA[מטרה מקצועית]]></seg></tuv>
+  </tu>
+  <tu tuid="career-goal-js">
+    <tuv xml:lang="he"><seg><![CDATA[מטרת הקריירה]]></seg></tuv>
+  </tu>
+  <tu tuid="career-suggestion">
+    <tuv xml:lang="he"><seg><![CDATA[הגדר/י את מטרת הקרירה למטה]]></seg></tuv>
+  </tu>
+  <tu tuid="change-like-learn">
+    <tuv xml:lang="he"><seg><![CDATA[שנה/י את כיצד אני אוהב/ת ללמוד]]></seg></tuv>
+  </tu>
+  <tu tuid="change-password-js">
+    <tuv xml:lang="he"><seg><![CDATA[שינוי סיסמה]]></seg></tuv>
+  </tu>
+  <tu tuid="change-profile-picture-js">
+    <tuv xml:lang="he"><seg><![CDATA[שינוי תמונת פרופיל]]></seg></tuv>
+  </tu>
+  <tu tuid="change-quote">
+    <tuv xml:lang="he"><seg><![CDATA[בחר/י ציטוט אחר]]></seg></tuv>
+  </tu>
+  <tu tuid="change-school">
+    <tuv xml:lang="he"><seg><![CDATA[שינוי בית ספר]]></seg></tuv>
+  </tu>
+  <tu tuid="change-url">
+    <tuv xml:lang="he"><seg><![CDATA[שינוי כתובת האינטרנט שלי]]></seg></tuv>
+  </tu>
+  <tu tuid="check-back-soon">
+    <tuv xml:lang="he"><seg><![CDATA[חזרו אלינו בקרוב!]]></seg></tuv>
+  </tu>
+  <tu tuid="check-group-alt">
+    <tuv xml:lang="he"><seg><![CDATA[הצבע הנבחר]]></seg></tuv>
+  </tu>
+  <tu tuid="check-in-another">
+    <tuv xml:lang="he"><seg><![CDATA[היכנסו לנושא אחר]]></seg></tuv>
+  </tu>
+  <tu tuid="check-in-js">
+    <tuv xml:lang="he"><seg><![CDATA[צ'ק-אין]]></seg></tuv>
+  </tu>
+  <tu tuid="check-more-suggestions">
+    <tuv xml:lang="he"><seg><![CDATA[היכנסו לנושאים שלמעלה כדי לקבל הצעות נוספות]]></seg></tuv>
+  </tu>
+  <tu tuid="check-out">
+    <tuv xml:lang="he"><seg><![CDATA[קראו מה אחרים אומרים על אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="checkin-get-great">
+    <tuv xml:lang="he"><seg><![CDATA[היכנסו לנושא שאתם מלמדים וקבלו המלצות תוכן מצוינות שתוכלו לשתף עם התלמידים והעמיתים בלחיצה אחת!]]></seg></tuv>
+  </tu>
+  <tu tuid="checking">
+    <tuv xml:lang="he"><seg><![CDATA[בבדיקה]]></seg></tuv>
+  </tu>
+  <tu tuid="chemistry">
+    <tuv xml:lang="he"><seg><![CDATA[כימיה]]></seg></tuv>
+  </tu>
+  <tu tuid="chinese-mandarin">
+    <tuv xml:lang="he"><seg><![CDATA[סינית]]></seg></tuv>
+  </tu>
+  <tu tuid="choose">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו]]></seg></tuv>
+  </tu>
+  <tu tuid="choose-communities">
+    <tuv xml:lang="he"><seg><![CDATA[לחצו על הקהילות שמעניינות אתכם כדי להביא דיונים רלוונטיים היישר אל עמוד הבית שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="choose-day-js">
+    <tuv xml:lang="he"><seg><![CDATA[בחירת יום...]]></seg></tuv>
+  </tu>
+  <tu tuid="choose-file">
+    <tuv xml:lang="he"><seg><![CDATA[בחירת קובץ]]></seg></tuv>
+  </tu>
+  <tu tuid="choose-one">
+    <tuv xml:lang="he"><seg><![CDATA[בחר אחד]]></seg></tuv>
+  </tu>
+  <tu tuid="choose-time-js">
+    <tuv xml:lang="he"><seg><![CDATA[בחירת זמן...]]></seg></tuv>
+  </tu>
+  <tu tuid="city">
+    <tuv xml:lang="he"><seg><![CDATA[עיר]]></seg></tuv>
+  </tu>
+  <tu tuid="city-error">
+    <tuv xml:lang="he"><seg><![CDATA[יש להכניס עיר]]></seg></tuv>
+  </tu>
+  <tu tuid="claim">
+    <tuv xml:lang="he"><seg><![CDATA[טענה]]></seg></tuv>
+  </tu>
+  <tu tuid="claim-button">
+    <tuv xml:lang="he"><seg><![CDATA[הרשמה]]></seg></tuv>
+  </tu>
+  <tu tuid="class-builder">
+    <tuv xml:lang="he"><seg><![CDATA[בניית כיתה]]></seg></tuv>
+  </tu>
+  <tu tuid="class-builder-description">
+    <tuv xml:lang="he"><seg><![CDATA[אם לפחות 30 תלמידים יצטרפו לקבוצות שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="classmate">
+    <tuv xml:lang="he"><seg><![CDATA[חבר לכיתה]]></seg></tuv>
+  </tu>
+  <tu tuid="classmates">
+    <tuv xml:lang="he"><seg><![CDATA[חברים לכיתה]]></seg></tuv>
+  </tu>
+  <tu tuid="classmates-js">
+    <tuv xml:lang="he"><seg><![CDATA[חברים לכיתה]]></seg></tuv>
+  </tu>
+  <tu tuid="classroom-materials">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו מספקת למורים ולתלמידים דרך נוחה ובטוחה לפרסם חומרי לימודי, לשתף קישורים וסרטונים, ולגשת לשיעורי בית, ציונים, והודעות בית ספריות.]]></seg></tuv>
+  </tu>
+  <tu tuid="classroom-part">
+    <tuv xml:lang="he"><seg><![CDATA[עקוב אחר ההשתתפויות בשיעור ובבית הספר]]></seg></tuv>
+  </tu>
+  <tu tuid="classroom-ready">
+    <tuv xml:lang="he"><seg><![CDATA[הכיתה שלכם מוכנה לתלמדים!]]></seg></tuv>
+  </tu>
+  <tu tuid="clear-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקה]]></seg></tuv>
+  </tu>
+  <tu tuid="clear_grade">
+    <tuv xml:lang="he"><seg><![CDATA[נקה ציון]]></seg></tuv>
+  </tu>
+  <tu tuid="close">
+    <tuv xml:lang="he"><seg><![CDATA[לסגירת ההודעה]]></seg></tuv>
+  </tu>
+  <tu tuid="close-2">
+    <tuv xml:lang="he"><seg><![CDATA[לסגירת ההודעה]]></seg></tuv>
+  </tu>
+  <tu tuid="close-js">
+    <tuv xml:lang="he"><seg><![CDATA[סגור]]></seg></tuv>
+  </tu>
+  <tu tuid="close-search">
+    <tuv xml:lang="he"><seg><![CDATA[סגור חיפוש]]></seg></tuv>
+  </tu>
+  <tu tuid="co-teacher">
+    <tuv xml:lang="he"><seg><![CDATA[מורה-שותף]]></seg></tuv>
+  </tu>
+  <tu tuid="co-teacher-js">
+    <tuv xml:lang="he"><seg><![CDATA[מורה-שותף]]></seg></tuv>
+  </tu>
+  <tu tuid="collab-v-classroom">
+    <tuv xml:lang="he"><seg><![CDATA[שתפו רעיונות, קבצים ומשימות]]></seg></tuv>
+  </tu>
+  <tu tuid="collaborate-share-discuss">
+    <tuv xml:lang="he"><seg><![CDATA[התחבר, שתף פעולה, נהל דיון]]></seg></tuv>
+  </tu>
+  <tu tuid="collection">
+    <tuv xml:lang="he"><seg><![CDATA[אוסף]]></seg></tuv>
+  </tu>
+  <tu tuid="collection-js">
+    <tuv xml:lang="he"><seg><![CDATA[אוסף]]></seg></tuv>
+  </tu>
+  <tu tuid="color-selector">
+    <tuv xml:lang="he"><seg><![CDATA[בחירת צבע]]></seg></tuv>
+  </tu>
+  <tu tuid="columns-include">
+    <tuv xml:lang="he"><seg><![CDATA[טורים לכלול:]]></seg></tuv>
+  </tu>
+  <tu tuid="comic">
+    <tuv xml:lang="he"><seg><![CDATA[קומיקס]]></seg></tuv>
+  </tu>
+  <tu tuid="coming-due-js">
+    <tuv xml:lang="he"><seg><![CDATA[תאריך ההגשה הבא]]></seg></tuv>
+  </tu>
+  <tu tuid="comm-type">
+    <tuv xml:lang="he"><seg><![CDATA[סוג קהילה:]]></seg></tuv>
+  </tu>
+  <tu tuid="commented-on-assignment">
+    <tuv xml:lang="he"><seg><![CDATA[העיר/ה על משימה]]></seg></tuv>
+  </tu>
+  <tu tuid="comments">
+    <tuv xml:lang="he"><seg><![CDATA[תגובות]]></seg></tuv>
+  </tu>
+  <tu tuid="comments-maintenance">
+    <tuv xml:lang="he"><seg><![CDATA[התגובות ברגע זה תחת עבודת אחזקה. הפעולה שביקשתם אינה זמינה כרגע.]]></seg></tuv>
+  </tu>
+  <tu tuid="comments_blurb">
+    <tuv xml:lang="he"><seg><![CDATA[תלמידים שעשו מבחן יכלו לראות תגובות רק לאחר שנכנסו לראות את תוצאות המבחן שלהם]]></seg></tuv>
+  </tu>
+  <tu tuid="communities">
+    <tuv xml:lang="he"><seg><![CDATA[קהילות]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-DISTRICT">
+    <tuv xml:lang="he"><seg><![CDATA[מחוז]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-PUBLISHER">
+    <tuv xml:lang="he"><seg><![CDATA[מוציא לאור]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-SCHOOL">
+    <tuv xml:lang="he"><seg><![CDATA[בית ספר]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-SUBJECT_COMMUNITY">
+    <tuv xml:lang="he"><seg><![CDATA[נושא]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-community">
+    <tuv xml:lang="he"><seg><![CDATA[קהילה]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-index">
+    <tuv xml:lang="he"><seg><![CDATA[קהילות]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-js">
+    <tuv xml:lang="he"><seg><![CDATA[קהילות]]></seg></tuv>
+  </tu>
+  <tu tuid="community">
+    <tuv xml:lang="he"><seg><![CDATA[קהילה]]></seg></tuv>
+  </tu>
+  <tu tuid="community-avatar">
+    <tuv xml:lang="he"><seg><![CDATA[האוואטר של הקהילה]]></seg></tuv>
+  </tu>
+  <tu tuid="community-js">
+    <tuv xml:lang="he"><seg><![CDATA[קהילה]]></seg></tuv>
+  </tu>
+  <tu tuid="community-member">
+    <tuv xml:lang="he"><seg><![CDATA[חבר קהילה]]></seg></tuv>
+  </tu>
+  <tu tuid="community-member-description">
+    <tuv xml:lang="he"><seg><![CDATA[עקבו אחרי קהילת נושא]]></seg></tuv>
+  </tu>
+  <tu tuid="company-desc">
+    <tuv xml:lang="he"><seg><![CDATA[תיאור החברה/ארגון]]></seg></tuv>
+  </tu>
+  <tu tuid="computer-science">
+    <tuv xml:lang="he"><seg><![CDATA[מדעי המחשב]]></seg></tuv>
+  </tu>
+  <tu tuid="computer-technology-js">
+    <tuv xml:lang="he"><seg><![CDATA[מדעי המחשב]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm">
+    <tuv xml:lang="he"><seg><![CDATA[לאשר את הדוא"ל]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-assignment-warning-js">
+    <tuv xml:lang="he"><seg><![CDATA[לא מומלץ למחוק משימה. פעולה זו תמחק את כל עבודות וציוני התלמידים ואינה ניתנת לביטול.]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-js">
+    <tuv xml:lang="he"><seg><![CDATA[אישור]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-quiz-warning-js">
+    <tuv xml:lang="he"><seg><![CDATA[לא מומלץ למחוק בוחן. פעולה זו תמחק את כל עבודות וציוני התלמידים ואינה ניתנת לביטול.]]></seg></tuv>
+  </tu>
+  <tu tuid="confirmation-subject-district">
+    <tuv xml:lang="he"><seg><![CDATA[אישור הרשמה: צעדים אחרונים כדי להפעיל את אדמודו למחוז שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="confirmation-subject-school">
+    <tuv xml:lang="he"><seg><![CDATA[אישור הרשמה: שלבים אחרונים בהפעלה של אדמודו לבית הספר שלך.]]></seg></tuv>
+  </tu>
+  <tu tuid="congrats">
+    <tuv xml:lang="he"><seg><![CDATA[מזל טוב]]></seg></tuv>
+  </tu>
+  <tu tuid="congratulations-build-network">
+    <tuv xml:lang="he"><seg><![CDATA[פרופיל מצוין! המשיכו לבנות את הרשת שלכם באמצעות יצירת קשר עם מורים נוספים]]></seg></tuv>
+  </tu>
+  <tu tuid="congratulations-js">
+    <tuv xml:lang="he"><seg><![CDATA[כל הכבוד!]]></seg></tuv>
+  </tu>
+  <tu tuid="connect">
+    <tuv xml:lang="he"><seg><![CDATA[התחבר]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-2">
+    <tuv xml:lang="he"><seg><![CDATA[התחבר ]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-desc">
+    <tuv xml:lang="he"><seg><![CDATA[המלצות על מקורות וקשרים חינוכיים.]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-description">
+    <tuv xml:lang="he"><seg><![CDATA[להלן רשימה של מורים אשר אומתו במחוז שלך. ברגע שכל אחד ממורים אלו יתחבר איתך, תוכל/י גם להיות מאומת.]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-long">
+    <tuv xml:lang="he"><seg><![CDATA[התחבר למקורות]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-other-teacher">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו למורה אחר]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-support-ambassadors">
+    <tuv xml:lang="he"><seg><![CDATA[צרו קשר עם שגרירי התמיכה של אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-teachers">
+    <tuv xml:lang="he"><seg><![CDATA[חברו מורים, תלמידים והורים, באופן בטוח ובזמן אמת]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-with-teachers">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו למורים]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-with-teachers-js">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו למורים]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-with-user-to">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו כדי לפרסם פוסטים ולשתף]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-your-institution">
+    <tuv xml:lang="he"><seg><![CDATA[חברו את בית הספר או המחוז שלכם לקהילת אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="connected">
+    <tuv xml:lang="he"><seg><![CDATA[מחובר]]></seg></tuv>
+  </tu>
+  <tu tuid="connected-description">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו עם לפחות 10 מורים באדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="connection">
+    <tuv xml:lang="he"><seg><![CDATA[קשר]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-hub-description">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו לפחות עם 20 מורים באדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-removed">
+    <tuv xml:lang="he"><seg><![CDATA[הקשר הוסר]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-request">
+    <tuv xml:lang="he"><seg><![CDATA[בקשת קשר]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-request-explanation">
+    <tuv xml:lang="he"><seg><![CDATA[מורה זה ביקש מכם להתחבר. אשרו או דחו בקשה זו.]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-requested-js">
+    <tuv xml:lang="he"><seg><![CDATA[צורך בחיבור]]></seg></tuv>
+  </tu>
+  <tu tuid="connections">
+    <tuv xml:lang="he"><seg><![CDATA[קשרים]]></seg></tuv>
+  </tu>
+  <tu tuid="connections-are-teaching">
+    <tuv xml:lang="he"><seg><![CDATA[המורים הקשורים אלי מלמדים]]></seg></tuv>
+  </tu>
+  <tu tuid="connections-js">
+    <tuv xml:lang="he"><seg><![CDATA[קשרים]]></seg></tuv>
+  </tu>
+  <tu tuid="connections-receivers">
+    <tuv xml:lang="he"><seg><![CDATA[קשרים]]></seg></tuv>
+  </tu>
+  <tu tuid="contact">
+    <tuv xml:lang="he"><seg><![CDATA[פרטי יצירת קשר]]></seg></tuv>
+  </tu>
+  <tu tuid="contact-edmodo">
+    <tuv xml:lang="he"><seg><![CDATA[צור קשר עם אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="contact-us-all-initials">
+    <tuv xml:lang="he"><seg><![CDATA[צור קשר]]></seg></tuv>
+  </tu>
+  <tu tuid="contact-us-first-letter">
+    <tuv xml:lang="he"><seg><![CDATA[צרו קשר]]></seg></tuv>
+  </tu>
+  <tu tuid="contributers">
+    <tuv xml:lang="he"><seg><![CDATA[תורמים]]></seg></tuv>
+  </tu>
+  <tu tuid="correct">
+    <tuv xml:lang="he"><seg><![CDATA[נכון]]></seg></tuv>
+  </tu>
+  <tu tuid="correct_answer">
+    <tuv xml:lang="he"><seg><![CDATA[תשובה נכונה]]></seg></tuv>
+  </tu>
+  <tu tuid="correct_answer-js">
+    <tuv xml:lang="he"><seg><![CDATA[תשובה נכונה]]></seg></tuv>
+  </tu>
+  <tu tuid="couldnt-find-school">
+    <tuv xml:lang="he"><seg><![CDATA[לא מוצאים את בית הספר שלכם?]]></seg></tuv>
+  </tu>
+  <tu tuid="country">
+    <tuv xml:lang="he"><seg><![CDATA[מדינה]]></seg></tuv>
+  </tu>
+  <tu tuid="create">
+    <tuv xml:lang="he"><seg><![CDATA[יצירה]]></seg></tuv>
+  </tu>
+  <tu tuid="create-a-new-edmodo-account">
+    <tuv xml:lang="he"><seg><![CDATA[יצירת חשבון אדמודו חדש]]></seg></tuv>
+  </tu>
+  <tu tuid="create-badges">
+    <tuv xml:lang="he"><seg><![CDATA[צרו תגים]]></seg></tuv>
+  </tu>
+  <tu tuid="create-first-group">
+    <tuv xml:lang="he"><seg><![CDATA[יצירת קבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="create-folder-js">
+    <tuv xml:lang="he"><seg><![CDATA[צור תיקיה]]></seg></tuv>
+  </tu>
+  <tu tuid="create-grade-js">
+    <tuv xml:lang="he"><seg><![CDATA[צור ציון חדש]]></seg></tuv>
+  </tu>
+  <tu tuid="create-group-js">
+    <tuv xml:lang="he"><seg><![CDATA[יצירת קבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="create-js">
+    <tuv xml:lang="he"><seg><![CDATA[יצירה]]></seg></tuv>
+  </tu>
+  <tu tuid="create-small-group-js">
+    <tuv xml:lang="he"><seg><![CDATA[צור קבוצה קטנה]]></seg></tuv>
+  </tu>
+  <tu tuid="create-your-account">
+    <tuv xml:lang="he"><seg><![CDATA[יצירת חשבון]]></seg></tuv>
+  </tu>
+  <tu tuid="create-your-address">
+    <tuv xml:lang="he"><seg><![CDATA[צרו כתובת אדמודו עבור בית הספר או המחוז שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="createAquiz-js">
+    <tuv xml:lang="he"><seg><![CDATA[יצירת בוחן]]></seg></tuv>
+  </tu>
+  <tu tuid="createFolderErrMsg-js">
+    <tuv xml:lang="he"><seg><![CDATA[תיקיה בשם זה מופיעה כבר]]></seg></tuv>
+  </tu>
+  <tu tuid="created">
+    <tuv xml:lang="he"><seg><![CDATA[ביטול]]></seg></tuv>
+  </tu>
+  <tu tuid="creating">
+    <tuv xml:lang="he"><seg><![CDATA[יצירת אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="creating-desc">
+    <tuv xml:lang="he"><seg><![CDATA[ניק בורג וג'ף אוהרה, מייסדים משותפים של אדמודו,דיברו על ייסוד אדמודו ועל העתיד שלו.]]></seg></tuv>
+  </tu>
+  <tu tuid="creative-arts-js">
+    <tuv xml:lang="he"><seg><![CDATA[אומנות]]></seg></tuv>
+  </tu>
+  <tu tuid="credit-description">
+    <tuv xml:lang="he"><seg><![CDATA[נשתמש בפרטים כדי לאמת את שמכם וכתובתכם ולא נאחסן את מספר הכרטיס שלכם. אדמודו מתייחסים לאבטחת המשתמשים ברצינות. עיינו במדיניות הפרטיות שלנו.]]></seg></tuv>
+  </tu>
+  <tu tuid="credit-or-debit">
+    <tuv xml:lang="he"><seg><![CDATA[כרטיס אשראי או כרטיס דביט. (מיידי וחינם)]]></seg></tuv>
+  </tu>
+  <tu tuid="currentGoogleAccount-js">
+    <tuv xml:lang="he"><seg><![CDATA[חשבון גוגל נוכחי]]></seg></tuv>
+  </tu>
+  <tu tuid="currently-teaching">
+    <tuv xml:lang="he"><seg><![CDATA[מלמד/ת כעת]]></seg></tuv>
+  </tu>
+  <tu tuid="currently-viewing">
+    <tuv xml:lang="he"><seg><![CDATA[כרגע צופה]]></seg></tuv>
+  </tu>
+  <tu tuid="customize">
+    <tuv xml:lang="he"><seg><![CDATA[התאמה אישית של מאפיינים לבית הספר שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="dad">
+    <tuv xml:lang="he"><seg><![CDATA[אב]]></seg></tuv>
+  </tu>
+  <tu tuid="dance">
+    <tuv xml:lang="he"><seg><![CDATA[ריקוד]]></seg></tuv>
+  </tu>
+  <tu tuid="dashboard">
+    <tuv xml:lang="he"><seg><![CDATA[לוח הבקרה]]></seg></tuv>
+  </tu>
+  <tu tuid="date-js">
+    <tuv xml:lang="he"><seg><![CDATA[תאריך]]></seg></tuv>
+  </tu>
+  <tu tuid="date-posted-js">
+    <tuv xml:lang="he"><seg><![CDATA[פורסם במועד]]></seg></tuv>
+  </tu>
+  <tu tuid="decline">
+    <tuv xml:lang="he"><seg><![CDATA[דחייה]]></seg></tuv>
+  </tu>
+  <tu tuid="delete">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקה]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-folder-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת תיקיה]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-folder-prompt-js">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים כי ברצונכם למחוק תיקיה זו?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-grade-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחק ציון]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-group-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת קבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-group-message">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת קבוצה קטנה מסירה את כל החברים בקבוצה זו.<br> כל ההודעות שנשלחו בקבוצה זו יימחקו. <br> פעולה זו אינה ניתנת לביטול.]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-group-prompt">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים כי ברצונכם למחוק קבוצה קטנה זו?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-group-prompt-js">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתה בטוח שאתה רוצה למחוק את הקבוצה הקטנה ?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקה]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-member">
+    <tuv xml:lang="he"><seg><![CDATA[למחוק את {MEMBER_NAME} ?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-msg-confirm-assignment-js">
+    <tuv xml:lang="he"><seg><![CDATA[זהירות! אתם בטוחים כי ברצונכם למחוק הודעה זו?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-msg-confirm-js">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים כי ברצונכם למחוק הודעה זו?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-msg-title-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת הודעה]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-post">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת פוסט]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-reply">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת תגובה]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-resource-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת מקורות]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-resources-prompt-js">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים שברצונכם למחוק מקורות אלה?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-school-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת בית ספר ]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-school-msg">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת בית ספר מסירה אותו מן המחוז. פעולה זו אינה ניתנת לביטול]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-school-question">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים כי ברצונכם למחוק בית ספר זה?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-small-group-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחק קבוצה קטנה]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-tag-confirm">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים כי ברצונכם למחוק תג זה?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-title-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחק תג]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-topic-confirm">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים כי ברצונכם למחוק נושא זה?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-topic-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת נושא]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-user-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת משתמש]]></seg></tuv>
+  </tu>
+  <tu tuid="deleteQuizConf-js">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים שברצונכם למחוק בוחן זה?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete_quiz-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחיקת בוחן]]></seg></tuv>
+  </tu>
+  <tu tuid="deny">
+    <tuv xml:lang="he"><seg><![CDATA[דחה]]></seg></tuv>
+  </tu>
+  <tu tuid="deny-js">
+    <tuv xml:lang="he"><seg><![CDATA[דחה]]></seg></tuv>
+  </tu>
+  <tu tuid="description">
+    <tuv xml:lang="he"><seg><![CDATA[תיאור]]></seg></tuv>
+  </tu>
+  <tu tuid="description-2">
+    <tuv xml:lang="he"><seg><![CDATA[תיאור]]></seg></tuv>
+  </tu>
+  <tu tuid="description-of-webpage-js">
+    <tuv xml:lang="he"><seg><![CDATA[תיאור קצר של עמוד האינטרנט.]]></seg></tuv>
+  </tu>
+  <tu tuid="description-required-js">
+    <tuv xml:lang="he"><seg><![CDATA[חובה להכניס תיאור קצר.]]></seg></tuv>
+  </tu>
+  <tu tuid="details">
+    <tuv xml:lang="he"><seg><![CDATA[פרטים]]></seg></tuv>
+  </tu>
+  <tu tuid="developer">
+    <tuv xml:lang="he"><seg><![CDATA[מפתח]]></seg></tuv>
+  </tu>
+  <tu tuid="did-you-mean-desc">
+    <tuv xml:lang="he"><seg><![CDATA[הנה מספר בתי ספר הקיימים כבר באדמודו ודומים לבית הספר אותו הכנסתם:]]></seg></tuv>
+  </tu>
+  <tu tuid="did-you-mean-title">
+    <tuv xml:lang="he"><seg><![CDATA[האם התכוונתם לאחד מבתי הספר הללו?]]></seg></tuv>
+  </tu>
+  <tu tuid="different-district">
+    <tuv xml:lang="he"><seg><![CDATA[בחרו שם מחוז אחר]]></seg></tuv>
+  </tu>
+  <tu tuid="different-school">
+    <tuv xml:lang="he"><seg><![CDATA[בחרו שם בית ספר אחר]]></seg></tuv>
+  </tu>
+  <tu tuid="direct">
+    <tuv xml:lang="he"><seg><![CDATA[כוון]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-js">
+    <tuv xml:lang="he"><seg><![CDATA[ישיר]]></seg></tuv>
+  </tu>
+  <tu tuid="disconnectAccount-js">
+    <tuv xml:lang="he"><seg><![CDATA[ניתוק חשבון]]></seg></tuv>
+  </tu>
+  <tu tuid="disconnectGoogleAccount-js">
+    <tuv xml:lang="he"><seg><![CDATA[ניתוק גוגל דרייב]]></seg></tuv>
+  </tu>
+  <tu tuid="discover">
+    <tuv xml:lang="he"><seg><![CDATA[גילוי]]></seg></tuv>
+  </tu>
+  <tu tuid="discover-communities">
+    <tuv xml:lang="he"><seg><![CDATA[גלו קהילות חדשות]]></seg></tuv>
+  </tu>
+  <tu tuid="district">
+    <tuv xml:lang="he"><seg><![CDATA[מחוז]]></seg></tuv>
+  </tu>
+  <tu tuid="district-features-sign-up">
+    <tuv xml:lang="he"><seg><![CDATA[הרשמה למאפייני מחוז]]></seg></tuv>
+  </tu>
+  <tu tuid="district-name">
+    <tuv xml:lang="he"><seg><![CDATA[שם מחוז]]></seg></tuv>
+  </tu>
+  <tu tuid="district-office">
+    <tuv xml:lang="he"><seg><![CDATA[משרד המחוז]]></seg></tuv>
+  </tu>
+  <tu tuid="district-possibly-institutionalized">
+    <tuv xml:lang="he"><seg><![CDATA[בית הספר כבר נרשם לקבלת כתובת ייחודית, אנא כתבו לנו ל %1$s למידע נוסף.]]></seg></tuv>
+  </tu>
+  <tu tuid="district-subdomain">
+    <tuv xml:lang="he"><seg><![CDATA[כתובת מחוז]]></seg></tuv>
+  </tu>
+  <tu tuid="district-summary">
+    <tuv xml:lang="he"><seg><![CDATA[סיכום מחוז]]></seg></tuv>
+  </tu>
+  <tu tuid="dnd_hint-js">
+    <tuv xml:lang="he"><seg><![CDATA[רמז: גרור וזרוק פריטים כדי לסדר אותם מחדש בתיקייה.]]></seg></tuv>
+  </tu>
+  <tu tuid="doc-viewer">
+    <tuv xml:lang="he"><seg><![CDATA[מציג קבצים]]></seg></tuv>
+  </tu>
+  <tu tuid="docsCollections-js">
+    <tuv xml:lang="he"><seg><![CDATA[אוספי מסמכים]]></seg></tuv>
+  </tu>
+  <tu tuid="done-list">
+    <tuv xml:lang="he"><seg><![CDATA[חשוב על זה כרשימה "הסיום" שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="dont-miss">
+    <tuv xml:lang="he"><seg><![CDATA[אל תחמיצו]]></seg></tuv>
+  </tu>
+  <tu tuid="dont-store">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו לא שומר את הסיסמה שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="dont-worry">
+    <tuv xml:lang="he"><seg><![CDATA[אל דאגה, תוכלו למצוא זאת בשלב הבא.]]></seg></tuv>
+  </tu>
+  <tu tuid="downgrade-to-school-admin">
+    <tuv xml:lang="he"><seg><![CDATA[האם ברצונך ליטול מ{USER} הרשאת מנהל בית הספר {INSTITUTION}?]]></seg></tuv>
+  </tu>
+  <tu tuid="downgrade-to-teacher">
+    <tuv xml:lang="he"><seg><![CDATA[האם ברצונך ליטול מ{USER} הרשאת מורה רגיל?]]></seg></tuv>
+  </tu>
+  <tu tuid="download-all">
+    <tuv xml:lang="he"><seg><![CDATA[הורדת כל הקבצים]]></seg></tuv>
+  </tu>
+  <tu tuid="download-file">
+    <tuv xml:lang="he"><seg><![CDATA[הורדת קובץ]]></seg></tuv>
+  </tu>
+  <tu tuid="download-file-js">
+    <tuv xml:lang="he"><seg><![CDATA[הורדת קובץ]]></seg></tuv>
+  </tu>
+  <tu tuid="download-js">
+    <tuv xml:lang="he"><seg><![CDATA[הורדה]]></seg></tuv>
+  </tu>
+  <tu tuid="drama">
+    <tuv xml:lang="he"><seg><![CDATA[דרמה]]></seg></tuv>
+  </tu>
+  <tu tuid="drivers-education">
+    <tuv xml:lang="he"><seg><![CDATA[לימודי נהיגה]]></seg></tuv>
+  </tu>
+  <tu tuid="drop-down-no-groups">
+    <tuv xml:lang="he"><seg><![CDATA[אין קבוצות]]></seg></tuv>
+  </tu>
+  <tu tuid="due">
+    <tuv xml:lang="he"><seg><![CDATA[עד]]></seg></tuv>
+  </tu>
+  <tu tuid="due-date">
+    <tuv xml:lang="he"><seg><![CDATA[זמן הגשה %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="due-date-err-js">
+    <tuv xml:lang="he"><seg><![CDATA[עליכם להכניס תאריך יעד]]></seg></tuv>
+  </tu>
+  <tu tuid="due-date-js">
+    <tuv xml:lang="he"><seg><![CDATA[עד לתאריך: {DUE_DATE}]]></seg></tuv>
+  </tu>
+  <tu tuid="due-date-past-err-js">
+    <tuv xml:lang="he"><seg><![CDATA[תאריך היעד אינו יכול להיות בעבר]]></seg></tuv>
+  </tu>
+  <tu tuid="due-js">
+    <tuv xml:lang="he"><seg><![CDATA[לתאריך]]></seg></tuv>
+  </tu>
+  <tu tuid="due-on">
+    <tuv xml:lang="he"><seg><![CDATA[תאריך יעד]]></seg></tuv>
+  </tu>
+  <tu tuid="due_date">
+    <tuv xml:lang="he"><seg><![CDATA[תאריך הגשה {1}]]></seg></tuv>
+  </tu>
+  <tu tuid="dup_fav_folder_err-js">
+    <tuv xml:lang="he"><seg><![CDATA[לא ניתן לתת לתיקיה את השם "Favorites".]]></seg></tuv>
+  </tu>
+  <tu tuid="duplicate-error">
+    <tuv xml:lang="he"><seg><![CDATA[יש נושא אחר עם שם זהה]]></seg></tuv>
+  </tu>
+  <tu tuid="duplicate-names-js">
+    <tuv xml:lang="he"><seg><![CDATA[לא ניתן לתת שמות זהים לתיקיות]]></seg></tuv>
+  </tu>
+  <tu tuid="earned">
+    <tuv xml:lang="he"><seg><![CDATA[הרוויח]]></seg></tuv>
+  </tu>
+  <tu tuid="economics">
+    <tuv xml:lang="he"><seg><![CDATA[כלכלה]]></seg></tuv>
+  </tu>
+  <tu tuid="edit">
+    <tuv xml:lang="he"><seg><![CDATA[ערוך]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-grade-js">
+    <tuv xml:lang="he"><seg><![CDATA[ערוך ציון]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-js">
+    <tuv xml:lang="he"><seg><![CDATA[עריכה]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-post">
+    <tuv xml:lang="he"><seg><![CDATA[עריכת פוסט]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-profile">
+    <tuv xml:lang="he"><seg><![CDATA[עריכת הפרופיל שלי]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-relation-js">
+    <tuv xml:lang="he"><seg><![CDATA[עריכת היחס]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-reply">
+    <tuv xml:lang="he"><seg><![CDATA[עריכת תגובה]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-tag-js">
+    <tuv xml:lang="he"><seg><![CDATA[ערוך תג]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-topic-js">
+    <tuv xml:lang="he"><seg><![CDATA[עורך נושא]]></seg></tuv>
+  </tu>
+  <tu tuid="editName-js">
+    <tuv xml:lang="he"><seg><![CDATA[עריכת שם]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-ambassador">
+    <tuv xml:lang="he"><seg><![CDATA[שגריר תמיכה]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-apps-picked">
+    <tuv xml:lang="he"><seg><![CDATA[אפליקציות אדמודו שנבחרו ממש עבורכם]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-connects">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו מסייע לחבר את כל הלומדים עם האנשים והמקורות הנחוצים למימוש מלוא הפוטנציאל שלהם.]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-description">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו היא הרשת החברתית-לימודית המובילה לחינוך בית ספרי.]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-features">
+    <tuv xml:lang="he"><seg><![CDATA[מאפייני אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-features-js">
+    <tuv xml:lang="he"><seg><![CDATA[מאפייני אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-for">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו ל%1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-staff">
+    <tuv xml:lang="he"><seg><![CDATA[צוות אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-support-ambassador">
+    <tuv xml:lang="he"><seg><![CDATA[שגריר תמיכה של אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-support-ambassador-description">
+    <tuv xml:lang="he"><seg><![CDATA[הוכשר בתמיכת אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-training">
+    <tuv xml:lang="he"><seg><![CDATA[הכשרת אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-welcome">
+    <tuv xml:lang="he"><seg><![CDATA[ברוכים הבאים לאדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodocon-attendee">
+    <tuv xml:lang="he"><seg><![CDATA[משתתף בכנס אדמודוקון 2011]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodocon-attendee-description">
+    <tuv xml:lang="he"><seg><![CDATA[השתתפו ב EdmodoCon 2011]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodocon-presenter">
+    <tuv xml:lang="he"><seg><![CDATA[מציג בכנס אדמודוקון 2011]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodocon-presenter-description">
+    <tuv xml:lang="he"><seg><![CDATA[הציגו ב EdmodoCon 2011]]></seg></tuv>
+  </tu>
+  <tu tuid="email">
+    <tuv xml:lang="he"><seg><![CDATA[כתובת אימייל]]></seg></tuv>
+  </tu>
+  <tu tuid="email-address-invite">
+    <tuv xml:lang="he"><seg><![CDATA[אנא הכניסו כתובות אימייל חוקיות ולחצו הזמינו!]]></seg></tuv>
+  </tu>
+  <tu tuid="email-admin">
+    <tuv xml:lang="he"><seg><![CDATA[שלחו אימייל ל%1$s לצורך קבלת קוד בית ספר]]></seg></tuv>
+  </tu>
+  <tu tuid="email-doesnt-exist">
+    <tuv xml:lang="he"><seg><![CDATA[כתובת האימייל לא נמצאה.]]></seg></tuv>
+  </tu>
+  <tu tuid="email-info">
+    <tuv xml:lang="he"><seg><![CDATA[הכניסו את כתובת האי-מייל המקושרת עם חשבון המורה שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="email-js">
+    <tuv xml:lang="he"><seg><![CDATA[כתובת אימייל]]></seg></tuv>
+  </tu>
+  <tu tuid="email-not-exists">
+    <tuv xml:lang="he"><seg><![CDATA[לא נמצאה כתובת מייל מתאימה במערכת שלנו.]]></seg></tuv>
+  </tu>
+  <tu tuid="email-not-recognizable">
+    <tuv xml:lang="he"><seg><![CDATA[כתובת האימייל אינה חוקית]]></seg></tuv>
+  </tu>
+  <tu tuid="email-us">
+    <tuv xml:lang="he"><seg><![CDATA[שלח לנו אימייל]]></seg></tuv>
+  </tu>
+  <tu tuid="email-us-desc">
+    <tuv xml:lang="he"><seg><![CDATA[לפניות ספציפיות:]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-task">
+    <tuv xml:lang="he"><seg><![CDATA[משימה:]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-time">
+    <tuv xml:lang="he"><seg><![CDATA[זמן:]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-time-2min">
+    <tuv xml:lang="he"><seg><![CDATA[2 דקות]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-time-5min">
+    <tuv xml:lang="he"><seg><![CDATA[5 דקות]]></seg></tuv>
+  </tu>
+  <tu tuid="embed">
+    <tuv xml:lang="he"><seg><![CDATA[הטמע]]></seg></tuv>
+  </tu>
+  <tu tuid="embed-js">
+    <tuv xml:lang="he"><seg><![CDATA[מדיה]]></seg></tuv>
+  </tu>
+  <tu tuid="empFolderMsg-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסיפו קבצים ולינקים לתיקייה זו מתוך ה%1$s, %2$s או %3$s שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="empFolderMsgBP-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסיפו קבצים ולינקים לתיקייה זו מתוך ה%1$s או %2$s שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="empFolderMsgPub-js">
+    <tuv xml:lang="he"><seg><![CDATA[הוסיפו קבצים ולינקים לתיקייה זו מתוך ה%1$s שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="employee-student-id">
+    <tuv xml:lang="he"><seg><![CDATA[ID של עובד/תלמיד]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-desc-error">
+    <tuv xml:lang="he"><seg><![CDATA[עליכם להכניס תיאור]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-error">
+    <tuv xml:lang="he"><seg><![CDATA[אנא תן שם לנושא זה]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-msg-error">
+    <tuv xml:lang="he"><seg><![CDATA[ההודעה שלכם ריקה!]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-name">
+    <tuv xml:lang="he"><seg><![CDATA[אנא הכניסו את שמכם]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-response-js">
+    <tuv xml:lang="he"><seg><![CDATA[התגובה שלך ריקה]]></seg></tuv>
+  </tu>
+  <tu tuid="end_preview">
+    <tuv xml:lang="he"><seg><![CDATA[סיים הצגה מקדימה]]></seg></tuv>
+  </tu>
+  <tu tuid="engage">
+    <tuv xml:lang="he"><seg><![CDATA[רתום אותי!]]></seg></tuv>
+  </tu>
+  <tu tuid="engage-desc">
+    <tuv xml:lang="he"><seg><![CDATA[מצא תובנות איך משתמשים מפעילים ומשתמשים באפליקאציות כדי להתאימם לחווית הלימוד בכיתה]]></seg></tuv>
+  </tu>
+  <tu tuid="engage-desc-2">
+    <tuv xml:lang="he"><seg><![CDATA[מצא תובנות איך משתמשים מפעילים ומשתמשים באפליקאציות כדי להתאימם לחווית הלימוד בכיתה]]></seg></tuv>
+  </tu>
+  <tu tuid="engage-long">
+    <tuv xml:lang="he"><seg><![CDATA[רתום תלמידים]]></seg></tuv>
+  </tu>
+  <tu tuid="engage-long-desc">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו עוצבה על מנת להלהיב את התלמידים ללמידה בסביבה מוכרת. באדמודו, מורים יכולים להמשיך דיונים שהתחילו בכיתה - אונליין, לתת סקרים על מנת לבדוק את הבנת התלמידים, ולהעניק תגים לתלמידים מסוימים בהתבסס על ביצועיהם או התנהגותם.]]></seg></tuv>
+  </tu>
+  <tu tuid="engagement">
+    <tuv xml:lang="he"><seg><![CDATA[מדוד את מידת המעורבות והסתגלות %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="english">
+    <tuv xml:lang="he"><seg><![CDATA[אנגלית]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-about-js">
+    <tuv xml:lang="he"><seg><![CDATA[כתבו משהו על עצמכם...]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-as-guest">
+    <tuv xml:lang="he"><seg><![CDATA[כניסה כאורח]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-assignment-js">
+    <tuv xml:lang="he"><seg><![CDATA[כותרת משימה]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-description-here-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכנס תיאור כאן]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-district-credentials-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכניסו את אישורי בית הספר שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-donorschoose">
+    <tuv xml:lang="he"><seg><![CDATA[הכניסו את ה- DonorsChoose Teacher ID שלכם כאן:]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-folder-name-js">
+    <tuv xml:lang="he"><seg><![CDATA[בבקשה הכנס שם תיקיה]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-institution-credentials-js">
+    <tuv xml:lang="he"><seg><![CDATA[אנא הכניסו אישורי מוסד]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-ur-email">
+    <tuv xml:lang="he"><seg><![CDATA[הכניסו את כתובת האימייל שלכם כדי לקבל סיסמה חדשה.]]></seg></tuv>
+  </tu>
+  <tu tuid="enterDesc-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכנס תיאור כאן...]]></seg></tuv>
+  </tu>
+  <tu tuid="environmental-science">
+    <tuv xml:lang="he"><seg><![CDATA[מדעי הסביבה]]></seg></tuv>
+  </tu>
+  <tu tuid="err_invalidQuiz">
+    <tuv xml:lang="he"><seg><![CDATA[יש טעויות בכתיבת המבחן , תקן תקלות והגש את המבחן]]></seg></tuv>
+  </tu>
+  <tu tuid="error-1">
+    <tuv xml:lang="he"><seg><![CDATA[שם המשתמש לא נמצא]]></seg></tuv>
+  </tu>
+  <tu tuid="error-1-js">
+    <tuv xml:lang="he"><seg><![CDATA[לא נמצא שם משתמש]]></seg></tuv>
+  </tu>
+  <tu tuid="error-3">
+    <tuv xml:lang="he"><seg><![CDATA[שם משתמש או סיסמה שגויים]]></seg></tuv>
+  </tu>
+  <tu tuid="error-3-js">
+    <tuv xml:lang="he"><seg><![CDATA[שם משתמש או סיסמה שגויים]]></seg></tuv>
+  </tu>
+  <tu tuid="error-5-js">
+    <tuv xml:lang="he"><seg><![CDATA[קוד מוסד שגוי]]></seg></tuv>
+  </tu>
+  <tu tuid="error-6-js">
+    <tuv xml:lang="he"><seg><![CDATA[היכנסו עם כתובת בית הספר או המחוז שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="error-8-js">
+    <tuv xml:lang="he"><seg><![CDATA[קוד קבוצה שגוי]]></seg></tuv>
+  </tu>
+  <tu tuid="error-error">
+    <tuv xml:lang="he"><seg><![CDATA[הדף לא נמצא]]></seg></tuv>
+  </tu>
+  <tu tuid="error-js">
+    <tuv xml:lang="he"><seg><![CDATA[שם משתמש ו/או סיסמה שגויים]]></seg></tuv>
+  </tu>
+  <tu tuid="error-no-description-js">
+    <tuv xml:lang="he"><seg><![CDATA[חובה להכניס תיאור.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-no-links-and-files-js">
+    <tuv xml:lang="he"><seg><![CDATA[לא ניתן לשלוח לינקים וקבצים בבת אחת.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-no-receivers-js">
+    <tuv xml:lang="he"><seg><![CDATA[חובה לבחור בני אדם או קבוצות כדי להגיע למקורות אלה.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-no-resources-selected-js">
+    <tuv xml:lang="he"><seg><![CDATA[חובה לבחור מקורות.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-sending-multi-links-js">
+    <tuv xml:lang="he"><seg><![CDATA[ניתן לשלוח לינק אחד בכל פעם.]]></seg></tuv>
+  </tu>
+  <tu tuid="errorCreatingFolder-js">
+    <tuv xml:lang="he"><seg><![CDATA[שגיאה ביצירת תיקיה]]></seg></tuv>
+  </tu>
+  <tu tuid="esl">
+    <tuv xml:lang="he"><seg><![CDATA[אנגלית]]></seg></tuv>
+  </tu>
+  <tu tuid="european-history">
+    <tuv xml:lang="he"><seg><![CDATA[היסטוריה אירופאית]]></seg></tuv>
+  </tu>
+  <tu tuid="event">
+    <tuv xml:lang="he"><seg><![CDATA[ארוע]]></seg></tuv>
+  </tu>
+  <tu tuid="events">
+    <tuv xml:lang="he"><seg><![CDATA[הארועים שעומדים להרחש]]></seg></tuv>
+  </tu>
+  <tu tuid="everyone">
+    <tuv xml:lang="he"><seg><![CDATA[כל אחד]]></seg></tuv>
+  </tu>
+  <tu tuid="everyone-connections">
+    <tuv xml:lang="he"><seg><![CDATA[כולם (כל הקבוצות והקשרים)]]></seg></tuv>
+  </tu>
+  <tu tuid="everything">
+    <tuv xml:lang="he"><seg><![CDATA[הכל]]></seg></tuv>
+  </tu>
+  <tu tuid="everything-js">
+    <tuv xml:lang="he"><seg><![CDATA[הכל]]></seg></tuv>
+  </tu>
+  <tu tuid="example">
+    <tuv xml:lang="he"><seg><![CDATA[צרו כתובת אינטרנט של אדמודו לבית הספר או המחוז שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-14-js">
+    <tuv xml:lang="he"><seg><![CDATA[הראתה תקלה , נסה שוב]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-26-js">
+    <tuv xml:lang="he"><seg><![CDATA[מבחן עם שם זהה כבר נמצא במערכת . בקשה שנה שם .]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-3-js">
+    <tuv xml:lang="he"><seg><![CDATA[זמן הגשת המבחן חלף]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-30-js">
+    <tuv xml:lang="he"><seg><![CDATA[המבחן נעול - לא ניתן לקיים את המבחן ]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-8-js">
+    <tuv xml:lang="he"><seg><![CDATA[המבחן שעשית אולי נמחק]]></seg></tuv>
+  </tu>
+  <tu tuid="existing-edmodo-credentials">
+    <tuv xml:lang="he"><seg><![CDATA[כבר יש לי חשבון אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="exists">
+    <tuv xml:lang="he"><seg><![CDATA[כבר קיים]]></seg></tuv>
+  </tu>
+  <tu tuid="export">
+    <tuv xml:lang="he"><seg><![CDATA[לכידת נתונים ]]></seg></tuv>
+  </tu>
+  <tu tuid="export-codes">
+    <tuv xml:lang="he"><seg><![CDATA[ייצוא קוד מוסד]]></seg></tuv>
+  </tu>
+  <tu tuid="export-parent-codes">
+    <tuv xml:lang="he"><seg><![CDATA[ייצוא קוד הורים]]></seg></tuv>
+  </tu>
+  <tu tuid="facilitate">
+    <tuv xml:lang="he"><seg><![CDATA[התחבר למורים, תלמידים, הורים באופן בטוח וזמן אמת]]></seg></tuv>
+  </tu>
+  <tu tuid="failed-to-connect">
+    <tuv xml:lang="he"><seg><![CDATA[קשר נכשל]]></seg></tuv>
+  </tu>
+  <tu tuid="false-js">
+    <tuv xml:lang="he"><seg><![CDATA[שקר]]></seg></tuv>
+  </tu>
+  <tu tuid="favorite-quote">
+    <tuv xml:lang="he"><seg><![CDATA[ציטוט אהוב]]></seg></tuv>
+  </tu>
+  <tu tuid="favorite_quote-suggestion">
+    <tuv xml:lang="he"><seg><![CDATA[הוסף/י ציטוט האוהב למטה]]></seg></tuv>
+  </tu>
+  <tu tuid="favorites">
+    <tuv xml:lang="he"><seg><![CDATA[מועדפים]]></seg></tuv>
+  </tu>
+  <tu tuid="favorites-js">
+    <tuv xml:lang="he"><seg><![CDATA[מועדפים]]></seg></tuv>
+  </tu>
+  <tu tuid="favs_info-js">
+    <tuv xml:lang="he"><seg><![CDATA[המועדפים מוצגים בפרופיל שלך, כך שתוכל לשתף את מקורותיך עם מורים אחרים.]]></seg></tuv>
+  </tu>
+  <tu tuid="fb-request-sent">
+    <tuv xml:lang="he"><seg><![CDATA[בקשה נשלחה]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-1">
+    <tuv xml:lang="he"><seg><![CDATA[עודדו השתתפות כיתתית! מערכת ההודעות של אדמודו היא דרך פשוטה עבור מורים ותלמידים להישאר מחוברים]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-10">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו נותנת לתלמידים את האפשרות ליצור פוסטים ציבוריים ונגישים מכל רחבי הרשת.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-11">
+    <tuv xml:lang="he"><seg><![CDATA[רשמו את הקבוצות שלכם לערוצי RSS חינוכיים וצפו בפוסטים מופיעים ישירות בערוץ ההודעות.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-12">
+    <tuv xml:lang="he"><seg><![CDATA[מציג הקבצים מאפשר לכם לצפות ולהדפיס קבצים בדפדפן שלכם, מבלי שתצטרכו להוריד את הקובץ.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-2">
+    <tuv xml:lang="he"><seg><![CDATA[קודים קבוצתיים שומרים על זהותו של התלמיד ומספקים למשתמשים סביבה בטוחה ומאובטחת]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-3">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו מספק למורים דרך פשוטה לשליחת משימות, הערות וציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-4">
+    <tuv xml:lang="he"><seg><![CDATA[העלו קבצים, מערכי שיעור, תמונות וווידאו כדי לשתף אותם עם תלמידיכם או עם מורים אחרים.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-5">
+    <tuv xml:lang="he"><seg><![CDATA[לוח השנה הוא דרך פשוטה לשיתוף אירועים עם הכיתה שלכם ולצפייה במועדי הגשה למשימות.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-6">
+    <tuv xml:lang="he"><seg><![CDATA[קבלו התראות בטוויטר או בהודעת טקסט על פוסטים נבחרים ותגובות.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-7">
+    <tuv xml:lang="he"><seg><![CDATA[גישה ממכשירים ניידים מאפשרת לכם לפרסם פוסטים או להגיב למישהו בקלות או להישאר מחובר עם כל הפעילות הקבוצתית.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-8">
+    <tuv xml:lang="he"><seg><![CDATA[שתפו קישורים לאתרים או העתיקו והדביקו קוד הטמעה בקלות ובמהירות.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-9">
+    <tuv xml:lang="he"><seg><![CDATA[סקרים מאפשרים לכם לפרסם שאלות לקבוצות אדמודו שלכם ולקבל פידבק מהיר מהתלמידים שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="features">
+    <tuv xml:lang="he"><seg><![CDATA[אפליקציות מותאמות]]></seg></tuv>
+  </tu>
+  <tu tuid="features-all-initials">
+    <tuv xml:lang="he"><seg><![CDATA[מאפיינים]]></seg></tuv>
+  </tu>
+  <tu tuid="features-first-letter">
+    <tuv xml:lang="he"><seg><![CDATA[מאפיינים]]></seg></tuv>
+  </tu>
+  <tu tuid="feed-js">
+    <tuv xml:lang="he"><seg><![CDATA[הזנות]]></seg></tuv>
+  </tu>
+  <tu tuid="feed-removed">
+    <tuv xml:lang="he"><seg><![CDATA[ישנם שגיאות רבות מדי באחד או יותר מהפידים אליהם נרשמתם והם הוסרו.]]></seg></tuv>
+  </tu>
+  <tu tuid="feed-trans">
+    <tuv xml:lang="he"><seg><![CDATA[פיד]]></seg></tuv>
+  </tu>
+  <tu tuid="feeds">
+    <tuv xml:lang="he"><seg><![CDATA[הזנות]]></seg></tuv>
+  </tu>
+  <tu tuid="feeds-2">
+    <tuv xml:lang="he"><seg><![CDATA[הזנות]]></seg></tuv>
+  </tu>
+  <tu tuid="feeds-js">
+    <tuv xml:lang="he"><seg><![CDATA[פידים]]></seg></tuv>
+  </tu>
+  <tu tuid="file">
+    <tuv xml:lang="he"><seg><![CDATA[קובץ]]></seg></tuv>
+  </tu>
+  <tu tuid="file-added-js">
+    <tuv xml:lang="he"><seg><![CDATA[קובץ נוסף]]></seg></tuv>
+  </tu>
+  <tu tuid="file-already-attached-js">
+    <tuv xml:lang="he"><seg><![CDATA[כבר הוספתם קובץ זה]]></seg></tuv>
+  </tu>
+  <tu tuid="file-js">
+    <tuv xml:lang="he"><seg><![CDATA[קובץ]]></seg></tuv>
+  </tu>
+  <tu tuid="file-type-not-valid-js">
+    <tuv xml:lang="he"><seg><![CDATA[הקובץ שהעליתם אינו חוקי. אנא העלו קובץ עם אחת הסיומות הבאות: {{types}}]]></seg></tuv>
+  </tu>
+  <tu tuid="filename">
+    <tuv xml:lang="he"><seg><![CDATA[קודי הורים]]></seg></tuv>
+  </tu>
+  <tu tuid="files">
+    <tuv xml:lang="he"><seg><![CDATA[קבצים]]></seg></tuv>
+  </tu>
+  <tu tuid="files-2">
+    <tuv xml:lang="he"><seg><![CDATA[תיקיות]]></seg></tuv>
+  </tu>
+  <tu tuid="files-js">
+    <tuv xml:lang="he"><seg><![CDATA[קבצים]]></seg></tuv>
+  </tu>
+  <tu tuid="fill-form">
+    <tuv xml:lang="he"><seg><![CDATA[השלימו את הטופס למטה]]></seg></tuv>
+  </tu>
+  <tu tuid="fill-out">
+    <tuv xml:lang="he"><seg><![CDATA[אנא מלאו או תקנו את כל השדות.]]></seg></tuv>
+  </tu>
+  <tu tuid="fill_blank_blurb_2">
+    <tuv xml:lang="he"><seg><![CDATA[הנבחנים ידרשו לענות בסדר הנכון על השאלות ]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-by">
+    <tuv xml:lang="he"><seg><![CDATA[סינון לפי]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-by-group">
+    <tuv xml:lang="he"><seg><![CDATA[סנן על פי קבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-by-type-js">
+    <tuv xml:lang="he"><seg><![CDATA[סינון לפי סוג]]></seg></tuv>
+  </tu>
+  <tu tuid="filters">
+    <tuv xml:lang="he"><seg><![CDATA[מסננים]]></seg></tuv>
+  </tu>
+  <tu tuid="filters-js">
+    <tuv xml:lang="he"><seg><![CDATA[מסננים]]></seg></tuv>
+  </tu>
+  <tu tuid="find-content">
+    <tuv xml:lang="he"><seg><![CDATA[מצא תוכן]]></seg></tuv>
+  </tu>
+  <tu tuid="find-more-in-store">
+    <tuv xml:lang="he"><seg><![CDATA[מצא עוד בחנות]]></seg></tuv>
+  </tu>
+  <tu tuid="find-more-resources">
+    <tuv xml:lang="he"><seg><![CDATA[מצאו מקורות נוספים ב]]></seg></tuv>
+  </tu>
+  <tu tuid="find-new-connections">
+    <tuv xml:lang="he"><seg><![CDATA[מצאו קשרים נוספים]]></seg></tuv>
+  </tu>
+  <tu tuid="find-new-connections-js">
+    <tuv xml:lang="he"><seg><![CDATA[מצאו קשרים נוספים]]></seg></tuv>
+  </tu>
+  <tu tuid="find-your-school">
+    <tuv xml:lang="he"><seg><![CDATA[מצאו את בית הספר שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="findOutHow-js">
+    <tuv xml:lang="he"><seg><![CDATA[גלו איך]]></seg></tuv>
+  </tu>
+  <tu tuid="finding-connections">
+    <tuv xml:lang="he"><seg><![CDATA[חיפוש קשרים...]]></seg></tuv>
+  </tu>
+  <tu tuid="first">
+    <tuv xml:lang="he"><seg><![CDATA[ראשון]]></seg></tuv>
+  </tu>
+  <tu tuid="first-name">
+    <tuv xml:lang="he"><seg><![CDATA[שם פרטי]]></seg></tuv>
+  </tu>
+  <tu tuid="first-school-user">
+    <tuv xml:lang="he"><seg><![CDATA[המשתמש הראשון של אדמודו בבית הספר]]></seg></tuv>
+  </tu>
+  <tu tuid="first-school-user-description">
+    <tuv xml:lang="he"><seg><![CDATA[היו המורים הראשונים בבית הספר שיצטרפו לאדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="flag-user-confirm-msg-js">
+    <tuv xml:lang="he"><seg><![CDATA[תודה שהתראת על חשבון המורה הזה. אנו נבחן את תקפות החשבון וננקט בפעולות הנאותות.]]></seg></tuv>
+  </tu>
+  <tu tuid="flag-user-js">
+    <tuv xml:lang="he"><seg><![CDATA[דווח על חשבון מורה]]></seg></tuv>
+  </tu>
+  <tu tuid="flagging-instructions-js">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתה בטוח שאתה רוצה לדווח על חשבון המורה הזה]]></seg></tuv>
+  </tu>
+  <tu tuid="folder-js">
+    <tuv xml:lang="he"><seg><![CDATA[תיקיה]]></seg></tuv>
+  </tu>
+  <tu tuid="folder-name-js">
+    <tuv xml:lang="he"><seg><![CDATA[שם התיקיה]]></seg></tuv>
+  </tu>
+  <tu tuid="folder-options-js">
+    <tuv xml:lang="he"><seg><![CDATA[אפשרויות תיקיה]]></seg></tuv>
+  </tu>
+  <tu tuid="folder-settings-js">
+    <tuv xml:lang="he"><seg><![CDATA[הגדרות תיקיה]]></seg></tuv>
+  </tu>
+  <tu tuid="folderUpdated-js">
+    <tuv xml:lang="he"><seg><![CDATA[תיקיה מעודכנת]]></seg></tuv>
+  </tu>
+  <tu tuid="folder_sharing-js">
+    <tuv xml:lang="he"><seg><![CDATA[שיתוף תיקיה]]></seg></tuv>
+  </tu>
+  <tu tuid="folders-js">
+    <tuv xml:lang="he"><seg><![CDATA[תיקיות]]></seg></tuv>
+  </tu>
+  <tu tuid="follow">
+    <tuv xml:lang="he"><seg><![CDATA[מעקב]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-a">
+    <tuv xml:lang="he"><seg><![CDATA[עקבו אחרי]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-communities">
+    <tuv xml:lang="he"><seg><![CDATA[עקבו אחרי קהילות]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-js">
+    <tuv xml:lang="he"><seg><![CDATA[עקוב]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-publisher">
+    <tuv xml:lang="he"><seg><![CDATA[עקבו אחרי מוציא לאור זה]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-this-publisher">
+    <tuv xml:lang="he"><seg><![CDATA[עקבו אחרי מוציא לאור זה]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-this-topic">
+    <tuv xml:lang="he"><seg><![CDATA[עקוב אחר נושא זה]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-topic-default-description">
+    <tuv xml:lang="he"><seg><![CDATA[כדי לקבל הצעות רלוונטיות ב %1$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="following">
+    <tuv xml:lang="he"><seg><![CDATA[עוקב]]></seg></tuv>
+  </tu>
+  <tu tuid="following-community">
+    <tuv xml:lang="he"><seg><![CDATA[1% עוקבים]]></seg></tuv>
+  </tu>
+  <tu tuid="following-js">
+    <tuv xml:lang="he"><seg><![CDATA[עוקב]]></seg></tuv>
+  </tu>
+  <tu tuid="forget-password">
+    <tuv xml:lang="he"><seg><![CDATA[שכחתם סיסמה?]]></seg></tuv>
+  </tu>
+  <tu tuid="forgot-password">
+    <tuv xml:lang="he"><seg><![CDATA[שכחתם סיסמה?]]></seg></tuv>
+  </tu>
+  <tu tuid="form-subtext">
+    <tuv xml:lang="he"><seg><![CDATA[הירשמו כאן להוספת שם בית הספר או המחוז שלכם לכתובת אינטרנט של אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="form-title">
+    <tuv xml:lang="he"><seg><![CDATA[התאמה אישית של אדמודו לבית הספר או המחוז שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="found-no-similar-schools">
+    <tuv xml:lang="he"><seg><![CDATA[לא מצאנו בית ספר דומה לזה שהכנסתם]]></seg></tuv>
+  </tu>
+  <tu tuid="found-similar-school">
+    <tuv xml:lang="he"><seg><![CDATA[מצאנו בית ספר דומה לבית ספר שהכנסתם]]></seg></tuv>
+  </tu>
+  <tu tuid="found-similar-schools">
+    <tuv xml:lang="he"><seg><![CDATA[מצאנו בתי ספר דומים לזה שהכנסתם]]></seg></tuv>
+  </tu>
+  <tu tuid="free-communication">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו מספקת תקשורת כיתתית חינמית למורים, תלמידים ומנהלים על גבי רשת חברתית מאובטחת]]></seg></tuv>
+  </tu>
+  <tu tuid="french">
+    <tuv xml:lang="he"><seg><![CDATA[צרפתית]]></seg></tuv>
+  </tu>
+  <tu tuid="friendly-list-js">
+    <tuv xml:lang="he"><seg><![CDATA[רשימת חברים להדפסה]]></seg></tuv>
+  </tu>
+  <tu tuid="full-site">
+    <tuv xml:lang="he"><seg><![CDATA[האתר המלא]]></seg></tuv>
+  </tu>
+  <tu tuid="funded">
+    <tuv xml:lang="he"><seg><![CDATA[מומן]]></seg></tuv>
+  </tu>
+  <tu tuid="further-questions">
+    <tuv xml:lang="he"><seg><![CDATA[אם יש לכם שאלות נוספות צרו קשר בכתובת ]]></seg></tuv>
+  </tu>
+  <tu tuid="gDocsAuthErr-js">
+    <tuv xml:lang="he"><seg><![CDATA[אירעה תקלה בנסיון להתחבר לגוגל דרייב. ייתכן כי חשבון הגוגל שלך מקושר כבר לחשבון אדמודו אחר - חשבונות גוגל יכולים להיות מקושרים לחשבון אדמודו אחד בכל פעם. אם ברצונכם לקשר את חשבון הגוגל שלכם לחשבון אדמודו אחר, עליכם לבטל את הגישה לאדמודו מחשבון הגוגל שלכם, ואז להתחבר מחדש לחשבון דרך אדמודו. אם עדיין יש לכם בעיות להעניק הרשאה לאדמודו מחשבון הגוגל שלכם אנא פנו לתמיכה.]]></seg></tuv>
+  </tu>
+  <tu tuid="gDocsRemoveConf1-js">
+    <tuv xml:lang="he"><seg><![CDATA[האם אתם בטוחים כי ברצונכם לנתק חשבון זה?]]></seg></tuv>
+  </tu>
+  <tu tuid="gDocsRemoveConf2-js">
+    <tuv xml:lang="he"><seg><![CDATA[ניתוק גוגל דרייב בוצע בהצלחה.]]></seg></tuv>
+  </tu>
+  <tu tuid="gDocsRemoveErr-js">
+    <tuv xml:lang="he"><seg><![CDATA[אירעה תקלה בהסרת מידע גוגל דרייב שלך. אנא צור קשר עם התמיכה.]]></seg></tuv>
+  </tu>
+  <tu tuid="gbook">
+    <tuv xml:lang="he"><seg><![CDATA[בחזרה לספר הציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="gdErr400-js">
+    <tuv xml:lang="he"><seg><![CDATA[אירעה שגיאה בחיבור לחשבון הגוגל שלכם. אם ניתקתם את ההרשאה בחשבון הגוגל שלכם לחצו %1$s כדי לנתק את אדמודו. זה יאפשר לכם להתחבר מאוחר יותר.]]></seg></tuv>
+  </tu>
+  <tu tuid="gdErr403-js">
+    <tuv xml:lang="he"><seg><![CDATA[אירעה שגיאה בהשגת מידע מגוגל דרייב]]></seg></tuv>
+  </tu>
+  <tu tuid="gdocs-js">
+    <tuv xml:lang="he"><seg><![CDATA[גוגל דרייב]]></seg></tuv>
+  </tu>
+  <tu tuid="gdocsError-js">
+    <tuv xml:lang="he"><seg><![CDATA[שגיאת גוגל דרייב]]></seg></tuv>
+  </tu>
+  <tu tuid="generate-page">
+    <tuv xml:lang="he"><seg><![CDATA[יצירת דף]]></seg></tuv>
+  </tu>
+  <tu tuid="gentle-empty-msg-error">
+    <tuv xml:lang="he"><seg><![CDATA[אזהרה: התגובה ריקה. אנא לחצו על "הגשת משימה" שוב כדי לשלוח ללא תגובה.]]></seg></tuv>
+  </tu>
+  <tu tuid="geography">
+    <tuv xml:lang="he"><seg><![CDATA[גיאוגרפיה]]></seg></tuv>
+  </tu>
+  <tu tuid="geometry">
+    <tuv xml:lang="he"><seg><![CDATA[גיאומטריה]]></seg></tuv>
+  </tu>
+  <tu tuid="german">
+    <tuv xml:lang="he"><seg><![CDATA[גרמנית]]></seg></tuv>
+  </tu>
+  <tu tuid="get-connected">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו]]></seg></tuv>
+  </tu>
+  <tu tuid="get-connected-dot">
+    <tuv xml:lang="he"><seg><![CDATA[התחברו]]></seg></tuv>
+  </tu>
+  <tu tuid="get-profile-url">
+    <tuv xml:lang="he"><seg><![CDATA[קבלו כתובת אינטרנט לפרופיל שלכם:]]></seg></tuv>
+  </tu>
+  <tu tuid="get-started-adding-badges">
+    <tuv xml:lang="he"><seg><![CDATA[התחל ביצירת תגיות באמצעות לחיצה על הסימן בממוקם בפינה השמאלית העליונה]]></seg></tuv>
+  </tu>
+  <tu tuid="get-started-footer">
+    <tuv xml:lang="he"><seg><![CDATA[מוכן לשחרר עוד מכוחת העל שלך? בקר ב%1$sמרכז העזרה%2$s לתמיכה ו%3$s משאבים להשקת כיתה%4$s]]></seg></tuv>
+  </tu>
+  <tu tuid="get-started-title-js">
+    <tuv xml:lang="he"><seg><![CDATA[התחל לעבוד!]]></seg></tuv>
+  </tu>
+  <tu tuid="get-started-upload">
+    <tuv xml:lang="he"><seg><![CDATA[כדי להתחיל, העלו תמונת פרופיל. ניתן לשנות זאת מתי שתרצו.]]></seg></tuv>
+  </tu>
+  <tu tuid="get-verified">
+    <tuv xml:lang="he"><seg><![CDATA[קבל אימות]]></seg></tuv>
+  </tu>
+  <tu tuid="go-back">
+    <tuv xml:lang="he"><seg><![CDATA[או חזרו ל ]]></seg></tuv>
+  </tu>
+  <tu tuid="go-back-2">
+    <tuv xml:lang="he"><seg><![CDATA[או חזרו ל ]]></seg></tuv>
+  </tu>
+  <tu tuid="go-back-home">
+    <tuv xml:lang="he"><seg><![CDATA[חזרה לעמוד הבית]]></seg></tuv>
+  </tu>
+  <tu tuid="go-to-homepage">
+    <tuv xml:lang="he"><seg><![CDATA[לך לעמוד הבית שלי]]></seg></tuv>
+  </tu>
+  <tu tuid="good-news">
+    <tuv xml:lang="he"><seg><![CDATA[חדשות טובות! המחוז שלכם התחבר לאדמודו על מנת לספק גישה נוחה יותר לחשבונכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="google-map-it">
+    <tuv xml:lang="he"><seg><![CDATA[מצא בגוגל מפות]]></seg></tuv>
+  </tu>
+  <tu tuid="google-sign-up-js">
+    <tuv xml:lang="he"><seg><![CDATA[כניסה דרך גוגל]]></seg></tuv>
+  </tu>
+  <tu tuid="googlefolders-js">
+    <tuv xml:lang="he"><seg><![CDATA[תיקיות גוגל]]></seg></tuv>
+  </tu>
+  <tu tuid="government">
+    <tuv xml:lang="he"><seg><![CDATA[ממשלה]]></seg></tuv>
+  </tu>
+  <tu tuid="grade">
+    <tuv xml:lang="he"><seg><![CDATA[ציון]]></seg></tuv>
+  </tu>
+  <tu tuid="grade-comments-js">
+    <tuv xml:lang="he"><seg><![CDATA[תגובות לציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="grade-js">
+    <tuv xml:lang="he"><seg><![CDATA[שכבת לימוד חדשה]]></seg></tuv>
+  </tu>
+  <tu tuid="grade-notification">
+    <tuv xml:lang="he"><seg><![CDATA[התראת ציון]]></seg></tuv>
+  </tu>
+  <tu tuid="grade-posted">
+    <tuv xml:lang="he"><seg><![CDATA[הציון נשלח]]></seg></tuv>
+  </tu>
+  <tu tuid="grade_quiz">
+    <tuv xml:lang="he"><seg><![CDATA[ציון המבחן]]></seg></tuv>
+  </tu>
+  <tu tuid="gradebook">
+    <tuv xml:lang="he"><seg><![CDATA[ספר ציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="gradebook-js">
+    <tuv xml:lang="he"><seg><![CDATA[ספר ציונים]]></seg></tuv>
+  </tu>
+  <tu tuid="graded">
+    <tuv xml:lang="he"><seg><![CDATA[צויננו]]></seg></tuv>
+  </tu>
+  <tu tuid="graded-js">
+    <tuv xml:lang="he"><seg><![CDATA[התקבל ציון]]></seg></tuv>
+  </tu>
+  <tu tuid="grades">
+    <tuv xml:lang="he"><seg><![CDATA[ציונים חדשים]]></seg></tuv>
+  </tu>
+  <tu tuid="group">
+    <tuv xml:lang="he"><seg><![CDATA[קבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="group-code">
+    <tuv xml:lang="he"><seg><![CDATA[קוד הצטרפות לקבוצה הוא : ]]></seg></tuv>
+  </tu>
+  <tu tuid="group-code-js">
+    <tuv xml:lang="he"><seg><![CDATA[קוד קבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="group-code-required">
+    <tuv xml:lang="he"><seg><![CDATA[נדרש קוד קבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="group-code-trans">
+    <tuv xml:lang="he"><seg><![CDATA[קוד קבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="group-created-js">
+    <tuv xml:lang="he"><seg><![CDATA[הקבוצה נוצרה בהצלחה]]></seg></tuv>
+  </tu>
+  <tu tuid="group-deactivated">
+    <tuv xml:lang="he"><seg><![CDATA[ פעילותה של קבוצה זו הופסקה. כדי להפעיל מחדש את הקבוצה, אנא בחרו את בית הספר שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="group-joined-js">
+    <tuv xml:lang="he"><seg><![CDATA[ההצטרפות לקבוצה בוצעה בהצלחה]]></seg></tuv>
+  </tu>
+  <tu tuid="group-js">
+    <tuv xml:lang="he"><seg><![CDATA[קבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="group-license">
+    <tuv xml:lang="he"><seg><![CDATA[רשיון קבוצתי]]></seg></tuv>
+  </tu>
+  <tu tuid="group-name-repeated">
+    <tuv xml:lang="he"><seg><![CDATA[אתם כבר חברים בקבוצה זו]]></seg></tuv>
+  </tu>
+  <tu tuid="group-no-access-deleted">
+    <tuv xml:lang="he"><seg><![CDATA[אין לכם הרשאה לצפות בקבוצה זו או שהיא נמחקה.]]></seg></tuv>
+  </tu>
+  <tu tuid="group-not-institutional-js">
+    <tuv xml:lang="he"><seg><![CDATA[אתם משתמשים בגירסה המוסדית של אדמודו, והקבוצה אליה אתם מנסים להצטרף אינה שייכת לגירסה זו]]></seg></tuv>
+  </tu>
+  <tu tuid="group-parents">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s הורים]]></seg></tuv>
+  </tu>
+  <tu tuid="group-progress">
+    <tuv xml:lang="he"><seg><![CDATA[התקדמות הקבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="group-progress-js">
+    <tuv xml:lang="he"><seg><![CDATA[התקדמות הקבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="group-queue">
+    <tuv xml:lang="he"><seg><![CDATA[צורפתם לתור לאישור.]]></seg></tuv>
+  </tu>
+  <tu tuid="group-trans">
+    <tuv xml:lang="he"><seg><![CDATA[קבוצות]]></seg></tuv>
+  </tu>
+  <tu tuid="groupLocked">
+    <tuv xml:lang="he"><seg><![CDATA[הקבוצה אליה אתם מנסים להצטרף נעולה.]]></seg></tuv>
+  </tu>
+  <tu tuid="group_notification_settings">
+    <tuv xml:lang="he"><seg><![CDATA[הגדרת התראות קבוצתיות]]></seg></tuv>
+  </tu>
+  <tu tuid="groups">
+    <tuv xml:lang="he"><seg><![CDATA[קבוצות]]></seg></tuv>
+  </tu>
+  <tu tuid="groups-js">
+    <tuv xml:lang="he"><seg><![CDATA[קבוצות]]></seg></tuv>
+  </tu>
+  <tu tuid="guide">
+    <tuv xml:lang="he"><seg><![CDATA[עזרה]]></seg></tuv>
+  </tu>
+  <tu tuid="guide-index">
+    <tuv xml:lang="he"><seg><![CDATA[מדריך]]></seg></tuv>
+  </tu>
+  <tu tuid="guides">
+    <tuv xml:lang="he"><seg><![CDATA[מדריכים]]></seg></tuv>
+  </tu>
+  <tu tuid="hands-on">
+    <tuv xml:lang="he"><seg><![CDATA[ביצוע]]></seg></tuv>
+  </tu>
+  <tu tuid="happy">
+    <tuv xml:lang="he"><seg><![CDATA[שמח]]></seg></tuv>
+  </tu>
+  <tu tuid="has-district-features">
+    <tuv xml:lang="he"><seg><![CDATA[כבר קיימים מאפייני מחוז]]></seg></tuv>
+  </tu>
+  <tu tuid="has-no-classmates">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s אין חברים לכיתה]]></seg></tuv>
+  </tu>
+  <tu tuid="has-no-connections">
+    <tuv xml:lang="he"><seg><![CDATA[אין קשרים]]></seg></tuv>
+  </tu>
+  <tu tuid="has-no-groups">
+    <tuv xml:lang="he"><seg><![CDATA[אינך שייך לאף קבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="has-no-shared-connections">
+    <tuv xml:lang="he"><seg><![CDATA[אין קשרים משותפים]]></seg></tuv>
+  </tu>
+  <tu tuid="has-no-teachers">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ללא מורים]]></seg></tuv>
+  </tu>
+  <tu tuid="has-requested-connection">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s ביקש להתחבר עמכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="has-requested-connection-details">
+    <tuv xml:lang="he"><seg><![CDATA[אשרו או דחו את הבקשה שלמעלה]]></seg></tuv>
+  </tu>
+  <tu tuid="has-school-features">
+    <tuv xml:lang="he"><seg><![CDATA[כבר קיימים מאפייני בית ספר;]]></seg></tuv>
+  </tu>
+  <tu tuid="health-education">
+    <tuv xml:lang="he"><seg><![CDATA[בריאות]]></seg></tuv>
+  </tu>
+  <tu tuid="health-pe-js">
+    <tuv xml:lang="he"><seg><![CDATA[חינוך גופני]]></seg></tuv>
+  </tu>
+  <tu tuid="help">
+    <tuv xml:lang="he"><seg><![CDATA[עזרה?]]></seg></tuv>
+  </tu>
+  <tu tuid="help-center">
+    <tuv xml:lang="he"><seg><![CDATA[מרכז התמיכה של אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="helps-connect">
+    <tuv xml:lang="he"><seg><![CDATA[אדמודו מסייעת לכל הלומדים ליצור קשר עם אנשים ומקורות הנחוצים להם למימוש הפוטנציאל שלהם.]]></seg></tuv>
+  </tu>
+  <tu tuid="here-js">
+    <tuv xml:lang="he"><seg><![CDATA[כאן]]></seg></tuv>
+  </tu>
+  <tu tuid="hi-user-js">
+    <tuv xml:lang="he"><seg><![CDATA[היי, %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="hide">
+    <tuv xml:lang="he"><seg><![CDATA[הסתר]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-all-comm-posts-js">
+    <tuv xml:lang="he"><seg><![CDATA[הסתר את הפוסטים של {COMMUNITY_NAME} מהפוסטים האחרונים שלי]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-all-conn-posts-js">
+    <tuv xml:lang="he"><seg><![CDATA[הסתרת הפוסטים של {CONNECTION_NAME} מהפוסטים האחרונים שלי]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-all-js">
+    <tuv xml:lang="he"><seg><![CDATA[הסתר הכל]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-archived-js">
+    <tuv xml:lang="he"><seg><![CDATA[- הסתרת קבוצת ארכיון]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-comm-post-title-js">
+    <tuv xml:lang="he"><seg><![CDATA[הסתרת פוסט קהילה]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-conn-post-title-js">
+    <tuv xml:lang="he"><seg><![CDATA[מחקו פוסט מקשר זה]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-from-spotlight">
+    <tuv xml:lang="he"><seg><![CDATA[אל תציג התראות]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-full-post-js">
+    <tuv xml:lang="he"><seg><![CDATA[הצג פחות]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-js">
+    <tuv xml:lang="he"><seg><![CDATA[הסתר]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-message">
+    <tuv xml:lang="he"><seg><![CDATA[הסתרת הודעה זו]]></seg></tuv>
+  </tu>
+  <tu tuid="high_scores">
+    <tuv xml:lang="he"><seg><![CDATA[ציונים גבוהים]]></seg></tuv>
+  </tu>
+  <tu tuid="higher-ed">
+    <tuv xml:lang="he"><seg><![CDATA[השכלה גבוהה]]></seg></tuv>
+  </tu>
+  <tu tuid="higher-ed-js">
+    <tuv xml:lang="he"><seg><![CDATA[השכלה גבוהה]]></seg></tuv>
+  </tu>
+  <tu tuid="higher-education">
+    <tuv xml:lang="he"><seg><![CDATA[השכלה על-תיכונית]]></seg></tuv>
+  </tu>
+  <tu tuid="higher-education-js">
+    <tuv xml:lang="he"><seg><![CDATA[השכלה על-תיכונית]]></seg></tuv>
+  </tu>
+  <tu tuid="hint-js">
+    <tuv xml:lang="he"><seg><![CDATA[רמז]]></seg></tuv>
+  </tu>
+  <tu tuid="hint_reorder">
+    <tuv xml:lang="he"><seg><![CDATA[רמז: גרור מספר שאלה למיקום הנכון]]></seg></tuv>
+  </tu>
+  <tu tuid="history">
+    <tuv xml:lang="he"><seg><![CDATA[היסטוריה]]></seg></tuv>
+  </tu>
+  <tu tuid="hoffman">
+    <tuv xml:lang="he"><seg><![CDATA[ריד הופמן באדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="hoffman-desc">
+    <tuv xml:lang="he"><seg><![CDATA[ריד הופמן, חבר מועצת המנהלים של אדמודו ומשקיע, מדברת עם כתבת רשת בלומברג, אמילי צ'נג על רשתות חברתיות ואדמודו.]]></seg></tuv>
+  </tu>
+  <tu tuid="hold-subject">
+    <tuv xml:lang="he"><seg><![CDATA[בקשתך למאפייני אדמודו בהמתנה - הירשמו שוב כדי להשלים את ההפעלה]]></seg></tuv>
+  </tu>
+  <tu tuid="home">
+    <tuv xml:lang="he"><seg><![CDATA[בית]]></seg></tuv>
+  </tu>
+  <tu tuid="home-school-js">
+    <tuv xml:lang="he"><seg><![CDATA[בית ספר ביתי]]></seg></tuv>
+  </tu>
+  <tu tuid="home-trans">
+    <tuv xml:lang="he"><seg><![CDATA[בית]]></seg></tuv>
+  </tu>
+  <tu tuid="http-or-embed-required-js">
+    <tuv xml:lang="he"><seg><![CDATA[חובה להכניס כתובת אינטרנט או קוד הטמעה.]]></seg></tuv>
+  </tu>
+  <tu tuid="http_or_embed-js">
+    <tuv xml:lang="he"><seg><![CDATA[http:// או <embed>]]></seg></tuv>
+  </tu>
+  <tu tuid="i-am">
+    <tuv xml:lang="he"><seg><![CDATA[אני]]></seg></tuv>
+  </tu>
+  <tu tuid="if-teaching-topic">
+    <tuv xml:lang="he"><seg><![CDATA[אם אתם מלמדים נושא זה.]]></seg></tuv>
+  </tu>
+  <tu tuid="if-ure-student">
+    <tuv xml:lang="he"><seg><![CDATA[אם את/ה תלמיד/ה]]></seg></tuv>
+  </tu>
+  <tu tuid="if-you-have-account">
+    <tuv xml:lang="he"><seg><![CDATA[אם כבר יש לכם חשבון אדמודו, הכניסו את שם המשתמש והסיסמה למטה והחשבון יתמזג עם חשבון בית הספר שלכם]]></seg></tuv>
+  </tu>
+  <tu tuid="image-too-big">
+    <tuv xml:lang="he"><seg><![CDATA[התמונה שאתם מנסים להעלות גדולה מדי. גודל מקסימלי 10 מגה-בייט]]></seg></tuv>
+  </tu>
+  <tu tuid="implementation-webinars">
+    <tuv xml:lang="he"><seg><![CDATA[סמינרים מקוונים להטמעה בבתי ספר ומחוזות]]></seg></tuv>
+  </tu>
+  <tu tuid="inbox">
+    <tuv xml:lang="he"><seg><![CDATA[דואר נכנס]]></seg></tuv>
+  </tu>
+  <tu tuid="incorrect">
+    <tuv xml:lang="he"><seg><![CDATA[לא נכון]]></seg></tuv>
+  </tu>
+  <tu tuid="incorrect_answer">
+    <tuv xml:lang="he"><seg><![CDATA[תשובה לא נכונה]]></seg></tuv>
+  </tu>
+  <tu tuid="incorrect_answer-js">
+    <tuv xml:lang="he"><seg><![CDATA[תשובה שגויה]]></seg></tuv>
+  </tu>
+  <tu tuid="info-js">
+    <tuv xml:lang="he"><seg><![CDATA[אודות]]></seg></tuv>
+  </tu>
+  <tu tuid="insights">
+    <tuv xml:lang="he"><seg><![CDATA[תובנות]]></seg></tuv>
+  </tu>
+  <tu tuid="insights-summary-1">
+    <tuv xml:lang="he"><seg><![CDATA[תובנות מאפשר לכם לראות את טרנדים וסיכומים, המבוססים על האופן שבו אתם והתלמידים שלכם מגיבים לפוסטים, משימות, בחנים ועוד.]]></seg></tuv>
+  </tu>
+  <tu tuid="insights-summary-2">
+    <tuv xml:lang="he"><seg><![CDATA[הפרצופים הגדולים מצד שמאל מראים לכם את מצב הרוח הכללי של הכיתות שלכם בהתבסס על תגובותיהם האישיות. הפרצופים הקטנים מייצגים את התגובות הפופולריות ביותר בקבוצות שלכם.]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-all">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-name">
+    <tuv xml:lang="he"><seg><![CDATA[שם]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-parents">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s (הורים)]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-parents-for-parent">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s הורים]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-vip">
+    <tuv xml:lang="he"><seg><![CDATA[%1$s (מורים ומנהלים)]]></seg></tuv>
+  </tu>
+  <tu tuid="installed-apps">
+    <tuv xml:lang="he"><seg><![CDATA[אפליקציות מותקנות]]></seg></tuv>
+  </tu>
+  <tu tuid="institution-id">
+    <tuv xml:lang="he"><seg><![CDATA[הכניסו את קוד בית הספר ובחרו סוג:]]></seg></tuv>
+  </tu>
+  <tu tuid="institutional-features">
+    <tuv xml:lang="he"><seg><![CDATA[לאדמודודו יש מאפיינים מוסדיים לבתי ספר ומחוזות, הנגישים חינם למנהלים.]]></seg></tuv>
+  </tu>
+  <tu tuid="institutionalized">
+    <tuv xml:lang="he"><seg><![CDATA[למוסד שבחרתם יש כבר כתובת ייחודית. אנא צרו קשר עם הנהלת בית הספר כדי שתוכלו להתחבר היום!]]></seg></tuv>
+  </tu>
+  <tu tuid="institutionalized-school">
+    <tuv xml:lang="he"><seg><![CDATA[בית הספר שבחרתם שייך למחוז אשר כבר יש לו גירסה מוסדית. אנא צרו קשר עם מנהל בית הספר כדי להתחבר עוד היום!]]></seg></tuv>
+  </tu>
+  <tu tuid="institutionalized-title-js">
+    <tuv xml:lang="he"><seg><![CDATA[למוסד יש כתובת ייחודית]]></seg></tuv>
+  </tu>
+  <tu tuid="institutions">
+    <tuv xml:lang="he"><seg><![CDATA[מוסדות]]></seg></tuv>
+  </tu>
+  <tu tuid="instructions">
+    <tuv xml:lang="he"><seg><![CDATA[הוראות]]></seg></tuv>
+  </tu>
+  <tu tuid="instructions_blurb_result">
+    <tuv xml:lang="he"><seg><![CDATA[ברכות ! סיימת את המבחן. בחן בצד שמאל את התוצאות שלך]]></seg></tuv>
+  </tu>
+  <tu tuid="instructions_blurb_start">
+    <tuv xml:lang="he"><seg><![CDATA[ענה על כל השאלות משמאל , כאשר סיימת את כל השאלות לחץ על שלח מבחן]]></seg></tuv>
+  </tu>
+  <tu tuid="instructions_txt">
+    <tuv xml:lang="he"><seg><![CDATA[התאם אות לתשובה המתאימה]]></seg></tuv>
+  </tu>
+  <tu tuid="interested-premium">
+    <tuv xml:lang="he"><seg><![CDATA[הירשמו חינם למאפייני בית ספר ומחוז]]></seg></tuv>
+  </tu>
+  <tu tuid="interesting">
+    <tuv xml:lang="he"><seg><![CDATA[מעניין!]]></seg></tuv>
+  </tu>
+  <tu tuid="intro-iphone">
+    <tuv xml:lang="he"><seg><![CDATA[מציגים את אפליקציית האייפון של אדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="introducing-snapshot">
+    <tuv xml:lang="he"><seg><![CDATA[מבט על ההיכרות]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid">
+    <tuv xml:lang="he"><seg><![CDATA[קוד שגוי]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-code-js">
+    <tuv xml:lang="he"><seg><![CDATA[הקוד שהכנסת שגוי]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-district-credentials">
+    <tuv xml:lang="he"><seg><![CDATA[אישור מחוז שגוי]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-email">
+    <tuv xml:lang="he"><seg><![CDATA[לא כתובת אימייל חוקית]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-emails">
+    <tuv xml:lang="he"><seg><![CDATA[כתובות אימייל לא חוקיות]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-group">
+    <tuv xml:lang="he"><seg><![CDATA[אתה לא משוייך לקבוצה זו]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-id">
+    <tuv xml:lang="he"><seg><![CDATA[הכנסתם ID שגוי]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-institution-credentials">
+    <tuv xml:lang="he"><seg><![CDATA[אישור מוסד שגוי.]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-name">
+    <tuv xml:lang="he"><seg><![CDATA[שם זה אינו פנוי]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-password">
+    <tuv xml:lang="he"><seg><![CDATA[חובה למלא לפחות 4 תווים]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-phone">
+    <tuv xml:lang="he"><seg><![CDATA[מספר הטלפון חייב להיות בן 10 ספרות, מספרים בלבד.]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-school">
+    <tuv xml:lang="he"><seg><![CDATA[אין לך הרשאה לצפייה בסטטיסטיקות של בית ספר זה]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-school-code">
+    <tuv xml:lang="he"><seg><![CDATA[קוד בית ספר אינו חוקי]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-school-generic">
+    <tuv xml:lang="he"><seg><![CDATA[אין לך הרשאה לצפות בבית ספר זה]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-username">
+    <tuv xml:lang="he"><seg><![CDATA[ללא רווחים או תווים מיוחדים]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-username-or-password">
+    <tuv xml:lang="he"><seg><![CDATA[שם משתמש או סיסמא לא תקינים]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid2">
+    <tuv xml:lang="he"><seg><![CDATA[קוד בית ספר אינו חוקי]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid3">
+    <tuv xml:lang="he"><seg><![CDATA[קוד קבוצה אינו חוקי]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid4">
+    <tuv xml:lang="he"><seg><![CDATA[קוד הורה אינו חוקי]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid_folder_name_char-js">
+    <tuv xml:lang="he"><seg><![CDATA[בשם התיקייה ישנם תווים לא תקניים]]></seg></tuv>
+  </tu>
+  <tu tuid="invitations-description-plural">
+    <tuv xml:lang="he"><seg><![CDATA[הזמנתם %1$s%2$s מורים אחרים להתחבר. ברגע שאחד מהם יקבל את הזמנתכם, גם חשבונכם יאושר.]]></seg></tuv>
+  </tu>
+  <tu tuid="invitations-description-singular">
+    <tuv xml:lang="he"><seg><![CDATA[הזמנתם מורה אחר להתחבר. ברגע שהזמנתכם תתקבל, גם חשבונכם יאושר.]]></seg></tuv>
+  </tu>
+  <tu tuid="invitations-sent">
+    <tuv xml:lang="he"><seg><![CDATA[הזמנות נשלחו!]]></seg></tuv>
+  </tu>
+  <tu tuid="invite">
+    <tuv xml:lang="he"><seg><![CDATA[הזמינו!]]></seg></tuv>
+  </tu>
+  <tu tuid="invite-a-teacher">
+    <tuv xml:lang="he"><seg><![CDATA[הזמינו מורה]]></seg></tuv>
+  </tu>
+  <tu tuid="invite-other-teachers">
+    <tuv xml:lang="he"><seg><![CDATA[הזמינו מורים אחרים]]></seg></tuv>
+  </tu>
+  <tu tuid="invite-students-join">
+    <tuv xml:lang="he"><seg><![CDATA[הזמינו תלמידים להצטרף לקבוצה בעזרת קוד הקבוצה:]]></seg></tuv>
+  </tu>
+  <tu tuid="invite-students-join_2">
+    <tuv xml:lang="he"><seg><![CDATA[הזמינו תלמידים להצטרף בעזרת קוד הקבוצה <strong>הזמני </strong>:]]></seg></tuv>
+  </tu>
+  <tu tuid="invite-teachers">
+    <tuv xml:lang="he"><seg><![CDATA[הזמינו מורים]]></seg></tuv>
+  </tu>
+  <tu tuid="italian">
+    <tuv xml:lang="he"><seg><![CDATA[איטלקית]]></seg></tuv>
+  </tu>
+  <tu tuid="item-js">
+    <tuv xml:lang="he"><seg><![CDATA[פריט]]></seg></tuv>
+  </tu>
+  <tu tuid="japanese">
+    <tuv xml:lang="he"><seg><![CDATA[יפנית]]></seg></tuv>
+  </tu>
+  <tu tuid="job-title">
+    <tuv xml:lang="he"><seg><![CDATA[הגדרת תפקיד:]]></seg></tuv>
+  </tu>
+  <tu tuid="jobs">
+    <tuv xml:lang="he"><seg><![CDATA[עבודות]]></seg></tuv>
+  </tu>
+  <tu tuid="join">
+    <tuv xml:lang="he"><seg><![CDATA[הצטרפות]]></seg></tuv>
+  </tu>
+  <tu tuid="join-community-js">
+    <tuv xml:lang="he"><seg><![CDATA[הצטרפו לקבוצה]]></seg></tuv>
+  </tu>
+  <tu tuid="join-edmodo">
+    <tuv xml:lang="he"><seg><![CDATA[הצטרפו לאדמודו]]></seg></tuv>
+  </tu>
+  <tu tuid="join-edmodo-desc">
+    <tuv xml:lang="he"><seg><![CDATA[הצוות הקטן שלנו גדל במהירות. נשמח לעזרתך כדי להפוך את אדמודו למיוחד באמת.]]></seg></tuv>
+  </tu>
+  <tu tuid="join-group-js">
     <tuv xml:lang="he"><seg><![CDATA[הצטרפות לקבוצה]]></seg></tuv>
   </tu>
   <tu tuid="join-groups">
@@ -3445,39 +6985,6 @@
   </tu>
   <tu tuid="view-post">
     <tuv xml:lang="he"><seg><![CDATA[צפייה בלינק שבפוסט]]></seg></tuv>
-  </tu>
-  <tu tuid="view-public-profile">
-    <tuv xml:lang="he"><seg><![CDATA[צפייה בפרופיל הציבורי שלי]]></seg></tuv>
-  </tu>
-  <tu tuid="view-student-turn-ins-js">
-    <tuv xml:lang="he"><seg><![CDATA[הגשות תלמידים]]></seg></tuv>
-  </tu>
-  <tu tuid="view-submission-js">
-    <tuv xml:lang="he"><seg><![CDATA[תוצאות בוחן]]></seg></tuv>
-  </tu>
-  <tu tuid="view-the-topic-page">
-    <tuv xml:lang="he"><seg><![CDATA[צפו בדף הנושא של %1$s]]></seg></tuv>
-  </tu>
-  <tu tuid="view-work">
-    <tuv xml:lang="he"><seg><![CDATA[צפה בעבודה]]></seg></tuv>
-  </tu>
-  <tu tuid="view_history-js">
-    <tuv xml:lang="he"><seg><![CDATA[הצגת היסטוריה]]></seg></tuv>
-  </tu>
-  <tu tuid="view_results">
-    <tuv xml:lang="he"><seg><![CDATA[צפה בתוצאות]]></seg></tuv>
-  </tu>
-  <tu tuid="visit-us">
-    <tuv xml:lang="he"><seg><![CDATA[בקרו אותנו]]></seg></tuv>
-  </tu>
-  <tu tuid="visits">
-    <tuv xml:lang="he"><seg><![CDATA[ביקורים]]></seg></tuv>
-  </tu>
-  <tu tuid="visually">
-    <tuv xml:lang="he"><seg><![CDATA[ויזואלי]]></seg></tuv>
-  </tu>
-  <tu tuid="vocational-studies-js">
-    <tuv xml:lang="he"><seg><![CDATA[לימודים מקצועיים]]></seg></tuv>
   </tu>
     </body>
     </tmx>
