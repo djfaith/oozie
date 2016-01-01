@@ -2,7 +2,4618 @@
     <!DOCTYPE tmx SYSTEM "tmx14.dtd">
     <tmx version="1.4">
     <header srclang="nl" datatype="plaintext" o-encoding="UTF-8" creationtoolversion="1.0" adminlang="en" o-tmf="none" segtype="phrase"/>
-    <body>  <tu tuid="join-group-js">
+    <body>  <tu tuid="-edmodo-is-trusted-by-educators-because-its">
+    <tuv xml:lang="nl"><seg><![CDATA[, Edmodo wordt vertrouwd door opvoedkundigen omdat het:]]></seg></tuv>
+  </tu>
+  <tu tuid="-or">
+    <tuv xml:lang="nl"><seg><![CDATA[, of]]></seg></tuv>
+  </tu>
+  <tu tuid="-sales">
+    <tuv xml:lang="nl"><seg><![CDATA[— Verkoop]]></seg></tuv>
+  </tu>
+  <tu tuid="-snapshot-for-schools">
+    <tuv xml:lang="nl"><seg><![CDATA[* snapshot voor scholen]]></seg></tuv>
+  </tu>
+  <tu tuid="-they-characterize-the">
+    <tuv xml:lang="nl"><seg><![CDATA[; ze karakteriseren de]]></seg></tuv>
+  </tu>
+  <tu tuid="...that you plan to complete in the future">
+    <tuv xml:lang="nl"><seg><![CDATA[... die u in de toekomst wil vervolledigen]]></seg></tuv>
+  </tu>
+  <tu tuid="/home">
+    <tuv xml:lang="nl"><seg><![CDATA[terug naar begin]]></seg></tuv>
+  </tu>
+  <tu tuid="1-collection-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Collecties <span>- 1</span>]]></seg></tuv>
+  </tu>
+  <tu tuid="1-hour-ago-js">
+    <tuv xml:lang="nl"><seg><![CDATA[1 uur geleden]]></seg></tuv>
+  </tu>
+  <tu tuid="1-minute-ago-js">
+    <tuv xml:lang="nl"><seg><![CDATA[1 minuut geleden]]></seg></tuv>
+  </tu>
+  <tu tuid="1-new-notification">
+    <tuv xml:lang="nl"><seg><![CDATA[U heeft 1 nieuwe notificatie]]></seg></tuv>
+  </tu>
+  <tu tuid="1-other-joined">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s en %3$s1%4$s ander hebben zich aangesloten bij %2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="1-others-like-this">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s en 1 ander volgt dit]]></seg></tuv>
+  </tu>
+  <tu tuid="1-second-ago-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Nu net]]></seg></tuv>
+  </tu>
+  <tu tuid="10-paid-holidays-and-unlimited-vacation-time">
+    <tuv xml:lang="nl"><seg><![CDATA[10 betaalde vakanties en ongelimiteerde vakantietijd]]></seg></tuv>
+  </tu>
+  <tu tuid="10th-js">
+    <tuv xml:lang="nl"><seg><![CDATA[10de]]></seg></tuv>
+  </tu>
+  <tu tuid="11th-js">
+    <tuv xml:lang="nl"><seg><![CDATA[11de]]></seg></tuv>
+  </tu>
+  <tu tuid="1200-park-place-suite-400">
+    <tuv xml:lang="nl"><seg><![CDATA[Park Place 1200, suite 400]]></seg></tuv>
+  </tu>
+  <tu tuid="12th-js">
+    <tuv xml:lang="nl"><seg><![CDATA[12de]]></seg></tuv>
+  </tu>
+  <tu tuid="15-discount">
+    <tuv xml:lang="nl"><seg><![CDATA[15% korting]]></seg></tuv>
+  </tu>
+  <tu tuid="1st-js">
+    <tuv xml:lang="nl"><seg><![CDATA[1ste]]></seg></tuv>
+  </tu>
+  <tu tuid="1yr-contract">
+    <tuv xml:lang="nl"><seg><![CDATA[éénjarig contract]]></seg></tuv>
+  </tu>
+  <tu tuid="2nd-js">
+    <tuv xml:lang="nl"><seg><![CDATA[2de]]></seg></tuv>
+  </tu>
+  <tu tuid="2yr-contract">
+    <tuv xml:lang="nl"><seg><![CDATA[tweejarig contract]]></seg></tuv>
+  </tu>
+  <tu tuid="30-under-30">
+    <tuv xml:lang="nl"><seg><![CDATA["30 onder 30"]]></seg></tuv>
+  </tu>
+  <tu tuid="3rd-js">
+    <tuv xml:lang="nl"><seg><![CDATA[3de]]></seg></tuv>
+  </tu>
+  <tu tuid="3yr-contract">
+    <tuv xml:lang="nl"><seg><![CDATA[drie- of meerjarig contract]]></seg></tuv>
+  </tu>
+  <tu tuid="40-under-40">
+    <tuv xml:lang="nl"><seg><![CDATA["40 onder 40"]]></seg></tuv>
+  </tu>
+  <tu tuid="4th-js">
+    <tuv xml:lang="nl"><seg><![CDATA[4de]]></seg></tuv>
+  </tu>
+  <tu tuid="500-students-or-more">
+    <tuv xml:lang="nl"><seg><![CDATA[500 studenten of meer]]></seg></tuv>
+  </tu>
+  <tu tuid="5th-js">
+    <tuv xml:lang="nl"><seg><![CDATA[5de]]></seg></tuv>
+  </tu>
+  <tu tuid="6th-js">
+    <tuv xml:lang="nl"><seg><![CDATA[6de]]></seg></tuv>
+  </tu>
+  <tu tuid="7th-js">
+    <tuv xml:lang="nl"><seg><![CDATA[7de]]></seg></tuv>
+  </tu>
+  <tu tuid="8th-js">
+    <tuv xml:lang="nl"><seg><![CDATA[8ste]]></seg></tuv>
+  </tu>
+  <tu tuid="9th-js">
+    <tuv xml:lang="nl"><seg><![CDATA[9de]]></seg></tuv>
+  </tu>
+  <tu tuid="?-chars">
+    <tuv xml:lang="nl"><seg><![CDATA[Moet %1$d+ tekens bevatten]]></seg></tuv>
+  </tu>
+  <tu tuid="?-exact-chars">
+    <tuv xml:lang="nl"><seg><![CDATA[Moet %1$d tekens bevatten]]></seg></tuv>
+  </tu>
+  <tu tuid="A message is required">
+    <tuv xml:lang="nl"><seg><![CDATA[Een boodschap is vereist]]></seg></tuv>
+  </tu>
+  <tu tuid="A password recovery email has been sent to your address %1$s-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een mail met wachtwoord-herstel instructies is verstuurd naar %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="Accept Connection">
+    <tuv xml:lang="nl"><seg><![CDATA[Accepteer Verbinding]]></seg></tuv>
+  </tu>
+  <tu tuid="Add links and files so you can access them from anywhere.-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg links en bestanden toe die je van overal kunt bekijken.]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-hi">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[, je schooladministrator, heeft je bericht verwijderd aan ]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[De originele inhoud van het bericht staat hieronder:]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Contacteer %1$s voor meer informatie over het verwijderen van je bericht.]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[voor meer informatie waarom je post is verwijderd]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Admin verwijderde bericht]]></seg></tuv>
+  </tu>
+  <tu tuid="AdminDeletedPost-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijderde Berichten]]></seg></tuv>
+  </tu>
+  <tu tuid="An email address is required">
+    <tuv xml:lang="nl"><seg><![CDATA[Een e-mailadres is verplicht]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikerstoken:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[Naam:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikerstype:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikers e-mailadres:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-p7">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikersagent:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-sub">
+    <tuv xml:lang="nl"><seg><![CDATA[Programma:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppFeedbackEmail-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo apps feedback]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Programma:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[Tijd:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppInstallationFailureEmail-p6a">
+    <tuv xml:lang="nl"><seg><![CDATA[Foutenrapport:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[Bedankt voor je registratie voor de Professionele Edmodo App ontwikkeling. Je kunt nu de video starten en leren hoe je Edmodo apps gebruikt in je klas.]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[Aan de slag]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-p4a">
+    <tuv xml:lang="nl"><seg><![CDATA[Als je nieuw ben op Edmodo, zorg dat je de introductie van Edmodo <a href="http://edmodointro.eventbrite.com/">webinar</a> ziet voordat je aan de slag gaat.]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-p4b">
+    <tuv xml:lang="nl"><seg><![CDATA[kopieer.]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdConfirmation-sub">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo,]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-p2b">
+    <tuv xml:lang="nl"><seg><![CDATA[Dit pakket bevat:]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-p7">
+    <tuv xml:lang="nl"><seg><![CDATA[Hoogachtend,]]></seg></tuv>
+  </tu>
+  <tu tuid="AppsPdOverview-sub">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste Directeur,]]></seg></tuv>
+  </tu>
+  <tu tuid="Are you sure you want to delete the selected resource(s) from your Edmodo Backpack?-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Weet je zeker dat je de geselecteerde bron(nen) wilt verwijderen uit je Edmodo Rugtas?]]></seg></tuv>
+  </tu>
+  <tu tuid="Award Badge">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge toewijzen]]></seg></tuv>
+  </tu>
+  <tu tuid="BLOCKED">
+    <tuv xml:lang="nl"><seg><![CDATA[U werd uitgesloten van deze groep]]></seg></tuv>
+  </tu>
+  <tu tuid="Back">
+    <tuv xml:lang="nl"><seg><![CDATA[Terug]]></seg></tuv>
+  </tu>
+  <tu tuid="Back to Home">
+    <tuv xml:lang="nl"><seg><![CDATA[Terug naar Home]]></seg></tuv>
+  </tu>
+  <tu tuid="Back-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Terug]]></seg></tuv>
+  </tu>
+  <tu tuid="CAN_REQUEST">
+    <tuv xml:lang="nl"><seg><![CDATA[De eigenaar van deze groep moet uw verzoek goedkeuren, daarna wordt u lid van deze groep.]]></seg></tuv>
+  </tu>
+  <tu tuid="COMMUNITY-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="Choose file-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Kies bestand]]></seg></tuv>
+  </tu>
+  <tu tuid="Click to disconnect from this teacher.">
+    <tuv xml:lang="nl"><seg><![CDATA[Click om de verbinding met deze docent te verbreken.]]></seg></tuv>
+  </tu>
+  <tu tuid="Community-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="Connect to send and share posts to %1$s">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind om posts te sturen en delen naar %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="Connection Success-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s heeft uw aanmelding bij Edmodo aanvaard]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hoi]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Bevestig Verzoek]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p5a">
+    <tuv xml:lang="nl"><seg><![CDATA[Je kunt dit ook bekijken]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-p5c">
+    <tuv xml:lang="nl"><seg><![CDATA[profiel]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s wil zich aanmelden bij Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionRequest-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Je Netwerk is aan het Groeien]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hoi!]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p2a">
+    <tuv xml:lang="nl"><seg><![CDATA[Jij en]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p2b">
+    <tuv xml:lang="nl"><seg><![CDATA[zijn nu verbonden.]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[Bekijk %1$s's profiel]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p3a">
+    <tuv xml:lang="nl"><seg><![CDATA[Bekijk]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-p3b">
+    <tuv xml:lang="nl"><seg><![CDATA['s Profiel]]></seg></tuv>
+  </tu>
+  <tu tuid="ConnectionSuccess-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Je hebt een nieuwe verbinding!]]></seg></tuv>
+  </tu>
+  <tu tuid="DAD">
+    <tuv xml:lang="nl"><seg><![CDATA[Vader]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p10">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$sMaak je eigen pagina%2$s door een avatar of een bedrijfslogo, een welkomspost of inhoud toe te voegen]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p15">
+    <tuv xml:lang="nl"><seg><![CDATA[Als u vragen hebt, mail naar]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikersnaam:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Wachtwoord:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperApprovalEmail-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Welkom!]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p12">
+    <tuv xml:lang="nl"><seg><![CDATA[We zijn enthousiast dat we jou erbij hebben, Het Edmodo Team]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p13">
+    <tuv xml:lang="nl"><seg><![CDATA[Het Edmodo Team]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikersnaam:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Wachtwoord:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-p6">
+    <tuv xml:lang="nl"><seg><![CDATA[Om te starten met het maken van apps op het Edmodo Platform:]]></seg></tuv>
+  </tu>
+  <tu tuid="DeveloperSandboxApprovalEmail-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Welkom!]]></seg></tuv>
+  </tu>
+  <tu tuid="Enter new email address-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voer een nieuw email-adres in]]></seg></tuv>
+  </tu>
+  <tu tuid="ExpiringLicense-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo,]]></seg></tuv>
+  </tu>
+  <tu tuid="ExpiringLicense-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[We hopen dat je van het gebruik van Edmodo apps in je klas hebt genoten en we willen je waarschuwen voor {REMAINING_TEXT}]]></seg></tuv>
+  </tu>
+  <tu tuid="FEED-ALREADY-EXISTS">
+    <tuv xml:lang="nl"><seg><![CDATA[Deze groep heeft al een abonnement op die feed.]]></seg></tuv>
+  </tu>
+  <tu tuid="ForgotPassword-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo {FIRST_NAME},]]></seg></tuv>
+  </tu>
+  <tu tuid="ForgotPassword-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo - wachtwoord reset]]></seg></tuv>
+  </tu>
+  <tu tuid="ForgotPassword-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Je Edmodo Wachtwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="ForwardingActivated-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste {FIRST_NAME},]]></seg></tuv>
+  </tu>
+  <tu tuid="ForwardingActivated-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[IP forward toegestaan]]></seg></tuv>
+  </tu>
+  <tu tuid="ForwardingActivated-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Toegekend!]]></seg></tuv>
+  </tu>
+  <tu tuid="Funding">
+    <tuv xml:lang="nl"><seg><![CDATA[Financiering]]></seg></tuv>
+  </tu>
+  <tu tuid="GRADED">
+    <tuv xml:lang="nl"><seg><![CDATA[Becijferd]]></seg></tuv>
+  </tu>
+  <tu tuid="Great profile! Continue to build out your network.">
+    <tuv xml:lang="nl"><seg><![CDATA[Mooi profiel! Ga door met het uitbouwen van je netwerk.]]></seg></tuv>
+  </tu>
+  <tu tuid="Group Code">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepscode]]></seg></tuv>
+  </tu>
+  <tu tuid="GroupLocked-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo,]]></seg></tuv>
+  </tu>
+  <tu tuid="GroupLocked-p8">
+    <tuv xml:lang="nl"><seg><![CDATA[Leer Meer]]></seg></tuv>
+  </tu>
+  <tu tuid="GroupLocked-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Je Groep is GESLOTEN]]></seg></tuv>
+  </tu>
+  <tu tuid="GroupLockedWarning-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo,]]></seg></tuv>
+  </tu>
+  <tu tuid="GroupLockedWarning-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepscode:]]></seg></tuv>
+  </tu>
+  <tu tuid="GroupLockedWarning-p6">
+    <tuv xml:lang="nl"><seg><![CDATA[Deel deze groepscode alleen met de leerlingen uit je klas]]></seg></tuv>
+  </tu>
+  <tu tuid="GroupLockedWarning-p9">
+    <tuv xml:lang="nl"><seg><![CDATA[Log in op Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="GroupLockedWarning-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Let op: Je Edmodo Groep %1$s zal gesloten worden op %2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="Groups">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="Help Center">
+    <tuv xml:lang="nl"><seg><![CDATA[Helpcenter]]></seg></tuv>
+  </tu>
+  <tu tuid="Hide">
+    <tuv xml:lang="nl"><seg><![CDATA[Verberg]]></seg></tuv>
+  </tu>
+  <tu tuid="How to improve my profile?">
+    <tuv xml:lang="nl"><seg><![CDATA[Hoe mijn profiel te verbeteren?]]></seg></tuv>
+  </tu>
+  <tu tuid="How-did-you-find-out-about-the-Edmodo-Apps-PD-program">
+    <tuv xml:lang="nl"><seg><![CDATA[Hoe ben je in aanraking gekomen met het Edmodo Apps PD programma]]></seg></tuv>
+  </tu>
+  <tu tuid="How-did-you-pay-for-the-program">
+    <tuv xml:lang="nl"><seg><![CDATA[Hoe heb je voor het programma betaald?]]></seg></tuv>
+  </tu>
+  <tu tuid="I did not sign up for this account">
+    <tuv xml:lang="nl"><seg><![CDATA[Ik heb me niet aangemeld voor dit account]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[Bedankt voor het verzoeken van een Edmodo subdomein voor jouw]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-p7">
+    <tuv xml:lang="nl"><seg><![CDATA[Als je vragen hebt, mail gerust <a href="mailto:institutions@edmodo.com">institutions@edmodo.com</a>]]></seg></tuv>
+  </tu>
+  <tu tuid="InstitutionHoldEmail-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw Edmodo functieaanvraag staat "on hold" - Meldt u aan om de activatie te vervolledigen]]></seg></tuv>
+  </tu>
+  <tu tuid="Invite other Teachers">
+    <tuv xml:lang="nl"><seg><![CDATA[Nodig andere docenten uit]]></seg></tuv>
+  </tu>
+  <tu tuid="Invites-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo, geweldige docent!]]></seg></tuv>
+  </tu>
+  <tu tuid="Invites-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[{INVITER_NAME} heeft je uitgenodigd om deel te nemen aan Edmodo.]]></seg></tuv>
+  </tu>
+  <tu tuid="Invites-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo is een gratis, beschermd, sociaal platform voor docenten, leerlingen & ouders.]]></seg></tuv>
+  </tu>
+  <tu tuid="Invites-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Beheer eenvoudig cijfers, 'post' toetsen, videos, opdrachten en meer.]]></seg></tuv>
+  </tu>
+  <tu tuid="Invites-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind met andere docenten en laat je netwerk groepen, veel plezier!]]></seg></tuv>
+  </tu>
+  <tu tuid="Invites-p6">
+    <tuv xml:lang="nl"><seg><![CDATA[Accepteer uitnodiging]]></seg></tuv>
+  </tu>
+  <tu tuid="Invites-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s nodigde u uit voor Edmodo!]]></seg></tuv>
+  </tu>
+  <tu tuid="Invites-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Je bent uitgenodigd!]]></seg></tuv>
+  </tu>
+  <tu tuid="JoinRequest-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste]]></seg></tuv>
+  </tu>
+  <tu tuid="JoinRequest-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[heeft verzocht zich aan te sluiten bij]]></seg></tuv>
+  </tu>
+  <tu tuid="JoinRequest-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[Bekijk Verzoek]]></seg></tuv>
+  </tu>
+  <tu tuid="JoinRequest-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Er is een nieuwe aanmelding voor uw Edmodogroep!]]></seg></tuv>
+  </tu>
+  <tu tuid="LOCKED">
+    <tuv xml:lang="nl"><seg><![CDATA[GESLOTEN]]></seg></tuv>
+  </tu>
+  <tu tuid="Library Items">
+    <tuv xml:lang="nl"><seg><![CDATA[Bibliotheek Items]]></seg></tuv>
+  </tu>
+  <tu tuid="MEMBER">
+    <tuv xml:lang="nl"><seg><![CDATA[U bent al lid van deze groep]]></seg></tuv>
+  </tu>
+  <tu tuid="MOM">
+    <tuv xml:lang="nl"><seg><![CDATA[Moeder]]></seg></tuv>
+  </tu>
+  <tu tuid="MR">
+    <tuv xml:lang="nl"><seg><![CDATA[dhr.]]></seg></tuv>
+  </tu>
+  <tu tuid="MR-js">
+    <tuv xml:lang="nl"><seg><![CDATA[dhr.]]></seg></tuv>
+  </tu>
+  <tu tuid="MRS">
+    <tuv xml:lang="nl"><seg><![CDATA[mevr.]]></seg></tuv>
+  </tu>
+  <tu tuid="MRS-js">
+    <tuv xml:lang="nl"><seg><![CDATA[mevr.]]></seg></tuv>
+  </tu>
+  <tu tuid="MS">
+    <tuv xml:lang="nl"><seg><![CDATA[mej.]]></seg></tuv>
+  </tu>
+  <tu tuid="MS-js">
+    <tuv xml:lang="nl"><seg><![CDATA[mej.]]></seg></tuv>
+  </tu>
+  <tu tuid="Make %1$s my primary email address">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak van %1$s mijn primair e-mailadres]]></seg></tuv>
+  </tu>
+  <tu tuid="More">
+    <tuv xml:lang="nl"><seg><![CDATA[Meer]]></seg></tuv>
+  </tu>
+  <tu tuid="NONE">
+    <tuv xml:lang="nl"><seg><![CDATA[[ selecteer ]]]></seg></tuv>
+  </tu>
+  <tu tuid="NOT_GRADED">
+    <tuv xml:lang="nl"><seg><![CDATA[Niet becijferd]]></seg></tuv>
+  </tu>
+  <tu tuid="NOT_TURNED_IN">
+    <tuv xml:lang="nl"><seg><![CDATA[Niet ingeleverd]]></seg></tuv>
+  </tu>
+  <tu tuid="New Small Group">
+    <tuv xml:lang="nl"><seg><![CDATA[Nieuwe Kleine Groep]]></seg></tuv>
+  </tu>
+  <tu tuid="NewGroupMember-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo {FIRST_NAME},]]></seg></tuv>
+  </tu>
+  <tu tuid="NewGroupMember-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[{NEW_MEMBER} heeft zich aangesloten bij {GROUP_NAME}.]]></seg></tuv>
+  </tu>
+  <tu tuid="NewGroupMember-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[Bekijk Profiel]]></seg></tuv>
+  </tu>
+  <tu tuid="NewGroupMember-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw Edmodogroep heeft een nieuw lid!]]></seg></tuv>
+  </tu>
+  <tu tuid="NewGroupMember-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Ontmoet Je Nieuwe Lid!]]></seg></tuv>
+  </tu>
+  <tu tuid="Not your Edmodo account?">
+    <tuv xml:lang="nl"><seg><![CDATA[Niet jouw Edmodo account?]]></seg></tuv>
+  </tu>
+  <tu tuid="Notifications-btn">
+    <tuv xml:lang="nl"><seg><![CDATA[Bekijk op Emdodo]]></seg></tuv>
+  </tu>
+  <tu tuid="OTHER">
+    <tuv xml:lang="nl"><seg><![CDATA[andere]]></seg></tuv>
+  </tu>
+  <tu tuid="Other Groups">
+    <tuv xml:lang="nl"><seg><![CDATA[Andere Groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="PARENT">
+    <tuv xml:lang="nl"><seg><![CDATA[Ouder]]></seg></tuv>
+  </tu>
+  <tu tuid="PARENT-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Ouder]]></seg></tuv>
+  </tu>
+  <tu tuid="PUBLISHER">
+    <tuv xml:lang="nl"><seg><![CDATA[Uitgever]]></seg></tuv>
+  </tu>
+  <tu tuid="PUBLISHER-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Uitgever]]></seg></tuv>
+  </tu>
+  <tu tuid="PasswordReset-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste ]]></seg></tuv>
+  </tu>
+  <tu tuid="PasswordReset-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[ heeft je wachtwoord opnieuw ingesteld.]]></seg></tuv>
+  </tu>
+  <tu tuid="PasswordReset-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[Je nieuwe wachtwoord is: ]]></seg></tuv>
+  </tu>
+  <tu tuid="PasswordReset-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Om je wachtwoord te veranderden, volg deze link:]]></seg></tuv>
+  </tu>
+  <tu tuid="PasswordReset-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Als de link niet werkt, kopieer en plak hem dan in de adresbalk van je browser.]]></seg></tuv>
+  </tu>
+  <tu tuid="PasswordReset-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo - wachtwoord reset]]></seg></tuv>
+  </tu>
+  <tu tuid="PasswordReset-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Je Wachtwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="Please cancel this request, I did sign up for this Edmodo account.">
+    <tuv xml:lang="nl"><seg><![CDATA[Annuleer dit verzoek, ik heb me niet aangemeld voor dit Edmodo account.]]></seg></tuv>
+  </tu>
+  <tu tuid="Please confirm that you did not sign up for an account on Edmodo with the email address %1$s">
+    <tuv xml:lang="nl"><seg><![CDATA[Bevestig dat je niet bent aangemeld voor een Edmodo acount met het mailadres %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="Please provide a new email address">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef een nieuw emailadres op]]></seg></tuv>
+  </tu>
+  <tu tuid="Please provide a new primary email address">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef een nieuw eerste e-mailadres op]]></seg></tuv>
+  </tu>
+  <tu tuid="Posts">
+    <tuv xml:lang="nl"><seg><![CDATA[Berichten]]></seg></tuv>
+  </tu>
+  <tu tuid="Posts and Replies">
+    <tuv xml:lang="nl"><seg><![CDATA[Berichten & Reacties]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Je uitgeversaccount werd goedgekeurd]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste ]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-p12">
+    <tuv xml:lang="nl"><seg><![CDATA[App Ontwikkelaars:]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[Je nieuwe uitgevers gemeenschap pagina is: ]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-p21">
+    <tuv xml:lang="nl"><seg><![CDATA[1. Welkom bij Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikersnaam:]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Wachtwoord:]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-p8">
+    <tuv xml:lang="nl"><seg><![CDATA[Download Handleiding]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-p9">
+    <tuv xml:lang="nl"><seg><![CDATA[Volgende stappen:]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail1-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Activatie Succesvol!]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail4-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste {FIRST_NAME},]]></seg></tuv>
+  </tu>
+  <tu tuid="PublisherActivationEmail4-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Aan de slag]]></seg></tuv>
+  </tu>
+  <tu tuid="REQUESTED">
+    <tuv xml:lang="nl"><seg><![CDATA[U heeft een aanmeldingsverzoek voor deze groep aangevraagd. De eigenaar moet dit nog goedkeuren.]]></seg></tuv>
+  </tu>
+  <tu tuid="Save">
+    <tuv xml:lang="nl"><seg><![CDATA[Opslaan]]></seg></tuv>
+  </tu>
+  <tu tuid="Small Group">
+    <tuv xml:lang="nl"><seg><![CDATA[Kleine Groep]]></seg></tuv>
+  </tu>
+  <tu tuid="Small Groups">
+    <tuv xml:lang="nl"><seg><![CDATA[Kleine Groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="SoloTeachersVerify-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo,]]></seg></tuv>
+  </tu>
+  <tu tuid="SpecifySchool-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo,]]></seg></tuv>
+  </tu>
+  <tu tuid="SpecifySchool-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Selecteer je school]]></seg></tuv>
+  </tu>
+  <tu tuid="SpecifySchool-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Selecteer je school]]></seg></tuv>
+  </tu>
+  <tu tuid="SubdomainRejectEmail-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw verzoek tot een Edmodo subdomein werd afgewezen]]></seg></tuv>
+  </tu>
+  <tu tuid="SubdomainRejectEmail-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Oh oh, er is een probleem ...]]></seg></tuv>
+  </tu>
+  <tu tuid="Support">
+    <tuv xml:lang="nl"><seg><![CDATA[Ondersteuning]]></seg></tuv>
+  </tu>
+  <tu tuid="Support Community">
+    <tuv xml:lang="nl"><seg><![CDATA[Ondersteuningsgroep]]></seg></tuv>
+  </tu>
+  <tu tuid="TEACHER">
+    <tuv xml:lang="nl"><seg><![CDATA[Docent]]></seg></tuv>
+  </tu>
+  <tu tuid="TEACHER-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Docent]]></seg></tuv>
+  </tu>
+  <tu tuid="The email address you signed up for Edmodo with has been removed from this account. Please provide a new email address to access your account.">
+    <tuv xml:lang="nl"><seg><![CDATA[Het emailadres waarmee je bent aangemeld voor Edmodo is verwijderd van dit account. Zorg voor een nieuw emailadres voor toegang tot je account.]]></seg></tuv>
+  </tu>
+  <tu tuid="The email address you signed up for Edmodo with has been removed from this account. You previously provided a secondary email address. To access your account, make this your primary email address.">
+    <tuv xml:lang="nl"><seg><![CDATA[Het e-mailadres waarmee je bent aangemeld voor Edmodo is verwijderd van het account. Je hebt een tweede e-mailadres opgegeven. Maak van dit e-mailadres je primaire e-mailadres om toegang te krijgen tot je account.]]></seg></tuv>
+  </tu>
+  <tu tuid="This email address is already taken">
+    <tuv xml:lang="nl"><seg><![CDATA[Dit e-mailadres is al vergeven.]]></seg></tuv>
+  </tu>
+  <tu tuid="Upload photo (Max. 10 MB)-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Upload foto (Max. 10MB)]]></seg></tuv>
+  </tu>
+  <tu tuid="VerificationAccepted-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste {FIRST_NAME},]]></seg></tuv>
+  </tu>
+  <tu tuid="VerificationAccepted-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Welkom bij de Edmodo gemeenschappen]]></seg></tuv>
+  </tu>
+  <tu tuid="VerificationAccepted-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Gefeliciteerd, Je Bent Toegelaten]]></seg></tuv>
+  </tu>
+  <tu tuid="VerificationHold-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste {FIRST_NAME},]]></seg></tuv>
+  </tu>
+  <tu tuid="VerificationHold-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[We hebben meer informatie nodig]]></seg></tuv>
+  </tu>
+  <tu tuid="VerificationHold-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Oh oh, er is een probleem ...]]></seg></tuv>
+  </tu>
+  <tu tuid="Verify Your Phone">
+    <tuv xml:lang="nl"><seg><![CDATA[Verifieer uw telefoon]]></seg></tuv>
+  </tu>
+  <tu tuid="VerifyEmailAddress-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Bevestig je e-mailadres]]></seg></tuv>
+  </tu>
+  <tu tuid="Warning">
+    <tuv xml:lang="nl"><seg><![CDATA[Waarschuwing]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail-footer-02">
+    <tuv xml:lang="nl"><seg><![CDATA[Dat is genoeg van vandaag! We zijn enthousiast dat je een Edmodo docent aan het worden bent.]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste {FIRST_NAME},]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo en welkom in je Edmodo klaslokaal!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Personaliseer je profiel]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail-p9">
+    <tuv xml:lang="nl"><seg><![CDATA[Stel jezelf voor]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Welkom bij Edmodo!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail2-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste {FIRST_NAME}]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail2-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[Je bent uitgenodigd!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail2-p6a">
+    <tuv xml:lang="nl"><seg><![CDATA[Leer hoe je een online klaslokaal maakt, leerlingen uitnodigt en toevoegt, bronnen vindt en deelt, hoe je verbinding maakt met andere docenten en meer!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail2-p7">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind met andere Edmodo docenten en deel ideeën over het gebruik van Edmodo in je klas.]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail2-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Welkom bij Edmodo (2 van 3): Hoe beginnen?]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail3-ec">
+    <tuv xml:lang="nl"><seg><![CDATA[Becijferen is nog nooit zo gemakkelijk geweest, kijk op je %1$sEdmodo Cijferlijst%2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail3-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[Laten we je eerste Edmodo groep voor leerlingen aanmaken!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail3-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[In Edmodo klaslokalen kun je berichten en taken posten, lesstof delen and ideeën uitwisslen in een altijd-overal omgeving.]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail3-p9">
+    <tuv xml:lang="nl"><seg><![CDATA[Creëer een Groep]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail3-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Welkom bij Edmodo (3 van 3): Bouw uw PLN]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail4-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste {FIRST_NAME},]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail4-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Ontdek en creëer badges]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail4-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Creëer een Badge]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail4-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Start vandaag nog met Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail5-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste {FIRST_NAME},]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail5-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind met een andere onderwijzer]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail5-p7new">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind met docenten die je al kent, ontmoet hebt op een event, of misschien iemand helemaal nieuw!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail5-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Docent die u mogelijk kent]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail6-p4a">
+    <tuv xml:lang="nl"><seg><![CDATA[Selecteer het "Ontdek" plaatje in de navigatieblak. ]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail6-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Volg een Gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail6-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Post op uw professionele Leernetwerk]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail7-p1">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste {FIRST_NAME}]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail7-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak het beheren van opdrachten en becijferen gemakkelijk!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail7-p4">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak een taak]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail7-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[De hond heeft uw huiswerk niet opgegeten!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail8-p2">
+    <tuv xml:lang="nl"><seg><![CDATA[Jij bent mobiel, Edmodo ook!]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail8-p3">
+    <tuv xml:lang="nl"><seg><![CDATA[Download Gratis]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail8-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo in je broekzak]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail9-p5">
+    <tuv xml:lang="nl"><seg><![CDATA[Blijf Verbonden]]></seg></tuv>
+  </tu>
+  <tu tuid="WelcomeEmail9-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Afstudeerdag!]]></seg></tuv>
+  </tu>
+  <tu tuid="Your Current Photo-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw huidige foto]]></seg></tuv>
+  </tu>
+  <tu tuid="_graded">
+    <tuv xml:lang="nl"><seg><![CDATA[Becijferd]]></seg></tuv>
+  </tu>
+  <tu tuid="_not_turned_in">
+    <tuv xml:lang="nl"><seg><![CDATA[Niet Ingeleverd]]></seg></tuv>
+  </tu>
+  <tu tuid="_turned_in">
+    <tuv xml:lang="nl"><seg><![CDATA[Ingeleverd]]></seg></tuv>
+  </tu>
+  <tu tuid="_turned_in-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Ingeleverd]]></seg></tuv>
+  </tu>
+  <tu tuid="a-google-error">
+    <tuv xml:lang="nl"><seg><![CDATA[We konden uw Googleaccount niet valideren]]></seg></tuv>
+  </tu>
+  <tu tuid="a-group-of-people-js">
+    <tuv xml:lang="nl"><seg><![CDATA[een groep mensen]]></seg></tuv>
+  </tu>
+  <tu tuid="a-short-name-district">
+    <tuv xml:lang="nl"><seg><![CDATA[Kies een korte naam voor uw district. Gebruik geen persoonlijke namen als subdomein. De naam moet representatief zijn voor het hele district.]]></seg></tuv>
+  </tu>
+  <tu tuid="a-short-name-school">
+    <tuv xml:lang="nl"><seg><![CDATA[Kies een korte naam voor uw school. Gebruik geen persoonlijke namen als subdomein. De naam moet representatief zijn voor de hele school.]]></seg></tuv>
+  </tu>
+  <tu tuid="a-student-js">
+    <tuv xml:lang="nl"><seg><![CDATA[een student]]></seg></tuv>
+  </tu>
+  <tu tuid="about">
+    <tuv xml:lang="nl"><seg><![CDATA[Over]]></seg></tuv>
+  </tu>
+  <tu tuid="about-all-initials">
+    <tuv xml:lang="nl"><seg><![CDATA[Over]]></seg></tuv>
+  </tu>
+  <tu tuid="about-edmodo">
+    <tuv xml:lang="nl"><seg><![CDATA[over Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index">
+    <tuv xml:lang="nl"><seg><![CDATA[Over]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index-contact-us">
+    <tuv xml:lang="nl"><seg><![CDATA[Contacteer Ons]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index-page-content-story-header-members">
+    <tuv xml:lang="nl"><seg><![CDATA[Leden]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index-page-content-team-header-join">
+    <tuv xml:lang="nl"><seg><![CDATA[Word lid van Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index-page-headline-header">
+    <tuv xml:lang="nl"><seg><![CDATA[Over Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="about-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Over]]></seg></tuv>
+  </tu>
+  <tu tuid="about-name">
+    <tuv xml:lang="nl"><seg><![CDATA[Over %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="about-success">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw beschrijving werd geupdate]]></seg></tuv>
+  </tu>
+  <tu tuid="about-you">
+    <tuv xml:lang="nl"><seg><![CDATA[Over u]]></seg></tuv>
+  </tu>
+  <tu tuid="about_quiz">
+    <tuv xml:lang="nl"><seg><![CDATA[Over deze quiz]]></seg></tuv>
+  </tu>
+  <tu tuid="accelerate">
+    <tuv xml:lang="nl"><seg><![CDATA[Versnel leerdoelen]]></seg></tuv>
+  </tu>
+  <tu tuid="accelerate-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Ontwikkel en beheer digitale toepassingen, gebruikerspatronen en de vooruitgang van uw studenten op een eenvoudige manier dankzij het school- of dictrictdashboard.]]></seg></tuv>
+  </tu>
+  <tu tuid="accept">
+    <tuv xml:lang="nl"><seg><![CDATA[Accepteer]]></seg></tuv>
+  </tu>
+  <tu tuid="accept-all">
+    <tuv xml:lang="nl"><seg><![CDATA[Allen accepteren]]></seg></tuv>
+  </tu>
+  <tu tuid="accept-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Accepteer]]></seg></tuv>
+  </tu>
+  <tu tuid="accepted-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Je uitgeversaccount werd goedgekeurd]]></seg></tuv>
+  </tu>
+  <tu tuid="accepted-your-connection">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s heeft uw aanmelding bij Edmodo aanvaard]]></seg></tuv>
+  </tu>
+  <tu tuid="access">
+    <tuv xml:lang="nl"><seg><![CDATA[Eenvoudige toegang tot mensen en informatie]]></seg></tuv>
+  </tu>
+  <tu tuid="access-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Toegang:]]></seg></tuv>
+  </tu>
+  <tu tuid="account-2">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s account]]></seg></tuv>
+  </tu>
+  <tu tuid="account-flagged-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Account gemarkeerd]]></seg></tuv>
+  </tu>
+  <tu tuid="account-takeover-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Overname account]]></seg></tuv>
+  </tu>
+  <tu tuid="activate">
+    <tuv xml:lang="nl"><seg><![CDATA[Activeer]]></seg></tuv>
+  </tu>
+  <tu tuid="activate-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind alle docenten, studenten, ouders en administratoren met een uniek en veilig Edmodo webadres (url voorbeeld: uwschoolofdistrict.edmodo.com)]]></seg></tuv>
+  </tu>
+  <tu tuid="activation-sms">
+    <tuv xml:lang="nl"><seg><![CDATA[Dit is uw Edmodo activatiecode:]]></seg></tuv>
+  </tu>
+  <tu tuid="activation-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s werd geactiveerd]]></seg></tuv>
+  </tu>
+  <tu tuid="active">
+    <tuv xml:lang="nl"><seg><![CDATA[Actief]]></seg></tuv>
+  </tu>
+  <tu tuid="active-forwards">
+    <tuv xml:lang="nl"><seg><![CDATA[Fowards activeren]]></seg></tuv>
+  </tu>
+  <tu tuid="active-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Actief]]></seg></tuv>
+  </tu>
+  <tu tuid="activities-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Activiteiten]]></seg></tuv>
+  </tu>
+  <tu tuid="activity">
+    <tuv xml:lang="nl"><seg><![CDATA[Activiteit]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-ai-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 geïnstalleerd	]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-al-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 opgestart]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-ati-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 heeft ingediend]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-be-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 verdiend]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-cp-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 gepost naar]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-cv-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 bekeken]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-fo-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 gevolgd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-la-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 toegevoegd aan de bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-li-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 is ingelogd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-lo-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 is uitgelogd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-ai-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> geïnstalleerd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-al-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> gelanceerd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-ati-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 other<a/> hebben ingediend]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-be-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> verdiend	]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-cp-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> gepost naar]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-cv-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> bekeken]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-fo-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> gevolgd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-la-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> toegevoegd aan de bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-li-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 other<a/> zijn ingelogd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-lo-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 other<a/> zijn uitgelogd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-nc-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> is nu verbonden met]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multi-sq-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> ingediend]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-ai-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> geïnstalleerd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-al-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> gelanceerd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-ati-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 other<a/> hebben ingediend]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-be-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> verdiend]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-cp-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> gepost naar]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-cv-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> bekeken]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-fo-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> gevolgd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-la-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> toegevoegd aan de bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-li-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 others<a/>zijn ingelogd]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-lo-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 and <a class="actOtherUser">%2 other<a/> logged out]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-nc-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> is nu verbonden met]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-multis-sq-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 en <a class="actOtherUser">%2 andere<a/> ingediend]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-nc-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 is nu verbonden met]]></seg></tuv>
+  </tu>
+  <tu tuid="activity-sq-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1 ingediend]]></seg></tuv>
+  </tu>
+  <tu tuid="add">
+    <tuv xml:lang="nl"><seg><![CDATA[Toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-a-description-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg een beschrijving toe.]]></seg></tuv>
+  </tu>
+  <tu tuid="add-a-feed">
+    <tuv xml:lang="nl"><seg><![CDATA[Een feed toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-a-file">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg een bestand toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add-answer">
+    <tuv xml:lang="nl"><seg><![CDATA[+ antwoord toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-answer-js">
+    <tuv xml:lang="nl"><seg><![CDATA[antwoord toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-badge-to-group">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg een badge toe aan deze groep]]></seg></tuv>
+  </tu>
+  <tu tuid="add-comment-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Commentaar toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-connection">
+    <tuv xml:lang="nl"><seg><![CDATA[Connectie toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-connection-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Connectie toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-content">
+    <tuv xml:lang="nl"><seg><![CDATA[<a id="add-content-link" href="library/v2/">Voeg inhoud toe aan uw bibliotheeky </a>]]></seg></tuv>
+  </tu>
+  <tu tuid="add-content-to-library">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg inhoud toe aan uw bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="add-district-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg district toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add-donorschoose">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg uw 'DonorChoose' projecten toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add-event-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebeurtenis toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-file">
+    <tuv xml:lang="nl"><seg><![CDATA[Bestand toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-from-collection">
+    <tuv xml:lang="nl"><seg><![CDATA[Toevoegen uit collectie]]></seg></tuv>
+  </tu>
+  <tu tuid="add-from-library-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toevoegen uit bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="add-grade">
+    <tuv xml:lang="nl"><seg><![CDATA[Resultaat toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-grade-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Resultaat toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-gradebook-badge-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge toevoegen aan puntenmap]]></seg></tuv>
+  </tu>
+  <tu tuid="add-it-here">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg ze hier toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-post">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg post toe aan bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="add-prev-schools">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg vorige scholen waar u doceerde toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add-previous-school-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg vorige school toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add-projects-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg 'DonorChoose' projecten toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add-quiz-gradebook">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg toe aan Cijferlijst]]></seg></tuv>
+  </tu>
+  <tu tuid="add-school">
+    <tuv xml:lang="nl"><seg><![CDATA[School toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-school-below">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg je school hier onder toe:]]></seg></tuv>
+  </tu>
+  <tu tuid="add-school-js">
+    <tuv xml:lang="nl"><seg><![CDATA[School toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-selected-members">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg Geselecteerde Leden Toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add-student">
+    <tuv xml:lang="nl"><seg><![CDATA[Student toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-student-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg student toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-collection-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toevoegen aan collectie]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-folder-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toevoegen aan map]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-library">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg toe aan bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-library-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toevoegen aan bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-my-publisher-badges">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg toe aan mijn Uitgevers Badges)]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-my-student-badges">
+    <tuv xml:lang="nl"><seg><![CDATA[Toevoegen aan mijn studentenbadges]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-my-student-badges-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toevoegen aan mijn studentenbadges]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-other-folders-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg toe aan andere mappen]]></seg></tuv>
+  </tu>
+  <tu tuid="add-to-post">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg Toe Aan Post]]></seg></tuv>
+  </tu>
+  <tu tuid="add2bp-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg toe aan rugzak]]></seg></tuv>
+  </tu>
+  <tu tuid="add_N_as_connection-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s toevoegen als connectie?]]></seg></tuv>
+  </tu>
+  <tu tuid="add_all_members-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg Alle Leden Toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add_all_members_prompt-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Weet je zeker dat je al de leden wilt toevoegen?]]></seg></tuv>
+  </tu>
+  <tu tuid="add_file-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bestand toevoegen (max. 100MB)]]></seg></tuv>
+  </tu>
+  <tu tuid="add_folder-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg Map Toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add_from_collection-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toevoegen uit collectie]]></seg></tuv>
+  </tu>
+  <tu tuid="add_members-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg Leden Toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add_members_to_small_group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg Leden toe aan Kleine Groep]]></seg></tuv>
+  </tu>
+  <tu tuid="add_new_question">
+    <tuv xml:lang="nl"><seg><![CDATA[+Voeg eerste vraag toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add_new_question_blurb">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg je eerste vraag toe om je quiz aan te maken...]]></seg></tuv>
+  </tu>
+  <tu tuid="add_question">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg Vraag Toe]]></seg></tuv>
+  </tu>
+  <tu tuid="add_response-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Reactie toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="add_to_folder">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg toe aan Map]]></seg></tuv>
+  </tu>
+  <tu tuid="add_to_gradebook">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg toe aan cijferlijst]]></seg></tuv>
+  </tu>
+  <tu tuid="add_to_gradebook-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg toe aan cijferlijst]]></seg></tuv>
+  </tu>
+  <tu tuid="added">
+    <tuv xml:lang="nl"><seg><![CDATA[Toegevoegd]]></seg></tuv>
+  </tu>
+  <tu tuid="added-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toegevoegd]]></seg></tuv>
+  </tu>
+  <tu tuid="added-post">
+    <tuv xml:lang="nl"><seg><![CDATA[Toegevoegd aan bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="added-to-folder-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toegevoegd aan map]]></seg></tuv>
+  </tu>
+  <tu tuid="added-to-library">
+    <tuv xml:lang="nl"><seg><![CDATA[...is toegevoegd aan uw bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="added_by_me-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="added_to_gradebook-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toegevoegd aan cijferlijst]]></seg></tuv>
+  </tu>
+  <tu tuid="added_to_library-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toegevoegd aan Bibliotheek]]></seg></tuv>
+  </tu>
+  <tu tuid="additiona-suggestions">
+    <tuv xml:lang="nl"><seg><![CDATA[Extra suggesties:]]></seg></tuv>
+  </tu>
+  <tu tuid="address">
+    <tuv xml:lang="nl"><seg><![CDATA[Adres]]></seg></tuv>
+  </tu>
+  <tu tuid="address-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Adres:]]></seg></tuv>
+  </tu>
+  <tu tuid="admin-info">
+    <tuv xml:lang="nl"><seg><![CDATA[Info admin]]></seg></tuv>
+  </tu>
+  <tu tuid="admin-info-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Administrator]]></seg></tuv>
+  </tu>
+  <tu tuid="admins-to-notify">
+    <tuv xml:lang="nl"><seg><![CDATA[Te waarschuwen admins:]]></seg></tuv>
+  </tu>
+  <tu tuid="admirable">
+    <tuv xml:lang="nl"><seg><![CDATA[Mooi gedaan]]></seg></tuv>
+  </tu>
+  <tu tuid="advanced">
+    <tuv xml:lang="nl"><seg><![CDATA[Geavanceerde]]></seg></tuv>
+  </tu>
+  <tu tuid="advancedOptions">
+    <tuv xml:lang="nl"><seg><![CDATA[Geavanceerde opties]]></seg></tuv>
+  </tu>
+  <tu tuid="advanced_options">
+    <tuv xml:lang="nl"><seg><![CDATA[Geavanceerde Opties]]></seg></tuv>
+  </tu>
+  <tu tuid="after-submit">
+    <tuv xml:lang="nl"><seg><![CDATA[Na uw aanvraag zal Edmodo u contacteren met informatie over hoe u uw  gemeenschap kan starten.]]></seg></tuv>
+  </tu>
+  <tu tuid="agree">
+    <tuv xml:lang="nl"><seg><![CDATA[U gaat akkoord met onze]]></seg></tuv>
+  </tu>
+  <tu tuid="agree-all">
+    <tuv xml:lang="nl"><seg><![CDATA[U bent akkoord met onze %1$s en onze %2$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="agree-student">
+    <tuv xml:lang="nl"><seg><![CDATA[U en uw ouders zijn akkoord met onze %1$s en onze %2$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="agree-terms">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet het eens zijn met de algemene voorwaarden.]]></seg></tuv>
+  </tu>
+  <tu tuid="alert">
+    <tuv xml:lang="nl"><seg><![CDATA[Waarschuwing]]></seg></tuv>
+  </tu>
+  <tu tuid="alert-desc-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Typ je waarschuwing (max. 140 tekens)...]]></seg></tuv>
+  </tu>
+  <tu tuid="alert-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Waarschuwing]]></seg></tuv>
+  </tu>
+  <tu tuid="alert-notnew-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Waarschuwing]]></seg></tuv>
+  </tu>
+  <tu tuid="alert-trans">
+    <tuv xml:lang="nl"><seg><![CDATA[Waarschuwing]]></seg></tuv>
+  </tu>
+  <tu tuid="alerts">
+    <tuv xml:lang="nl"><seg><![CDATA[Nieuwe waarschuwingen]]></seg></tuv>
+  </tu>
+  <tu tuid="alerts-filter-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Waarschuwingen]]></seg></tuv>
+  </tu>
+  <tu tuid="alerts-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Waarschuwingen]]></seg></tuv>
+  </tu>
+  <tu tuid="all">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle]]></seg></tuv>
+  </tu>
+  <tu tuid="all-admins">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle admins]]></seg></tuv>
+  </tu>
+  <tu tuid="all-authors-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Alles]]></seg></tuv>
+  </tu>
+  <tu tuid="all-badges-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle badges]]></seg></tuv>
+  </tu>
+  <tu tuid="all-calendars-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle kalenders]]></seg></tuv>
+  </tu>
+  <tu tuid="all-connections-js">
+    <tuv xml:lang="nl"><seg><![CDATA[connecties]]></seg></tuv>
+  </tu>
+  <tu tuid="all-folders-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Alles]]></seg></tuv>
+  </tu>
+  <tu tuid="all-groups">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="all-groups-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="all-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Alles]]></seg></tuv>
+  </tu>
+  <tu tuid="all-recipients">
+    <tuv xml:lang="nl"><seg><![CDATA[Elke status]]></seg></tuv>
+  </tu>
+  <tu tuid="all-time">
+    <tuv xml:lang="nl"><seg><![CDATA[Altijd]]></seg></tuv>
+  </tu>
+  <tu tuid="all-types">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle types]]></seg></tuv>
+  </tu>
+  <tu tuid="all-types-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle types]]></seg></tuv>
+  </tu>
+  <tu tuid="all_group_members">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle groepsleden]]></seg></tuv>
+  </tu>
+  <tu tuid="all_groups">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle Groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="all_my_folders">
+    <tuv xml:lang="nl"><seg><![CDATA[Al Mijn Mappen]]></seg></tuv>
+  </tu>
+  <tu tuid="all_posts-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle posts]]></seg></tuv>
+  </tu>
+  <tu tuid="all_status">
+    <tuv xml:lang="nl"><seg><![CDATA[Volledige status]]></seg></tuv>
+  </tu>
+  <tu tuid="allowEditing-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Schrijver]]></seg></tuv>
+  </tu>
+  <tu tuid="already-edmodian-prompt">
+    <tuv xml:lang="nl"><seg><![CDATA[Heeft u Edmodo ooit al eens gebruikt?]]></seg></tuv>
+  </tu>
+  <tu tuid="already-parent">
+    <tuv xml:lang="nl"><seg><![CDATA[U bent al de ouder van deze student]]></seg></tuv>
+  </tu>
+  <tu tuid="already-parent-js">
+    <tuv xml:lang="nl"><seg><![CDATA[U bent al de ouder van deze student]]></seg></tuv>
+  </tu>
+  <tu tuid="already-turned-in-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Werd al ingeleverd]]></seg></tuv>
+  </tu>
+  <tu tuid="already-turned-in-text">
+    <tuv xml:lang="nl"><seg><![CDATA[U hebt deze taak al ingediend op:]]></seg></tuv>
+  </tu>
+  <tu tuid="an-error">
+    <tuv xml:lang="nl"><seg><![CDATA[Er gebeurde een onbekende fout. Probeer later opnieuw.]]></seg></tuv>
+  </tu>
+  <tu tuid="analytics">
+    <tuv xml:lang="nl"><seg><![CDATA[Analyses]]></seg></tuv>
+  </tu>
+  <tu tuid="analytics-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Ingebouwde analyses en gedetailleerde rapportage]]></seg></tuv>
+  </tu>
+  <tu tuid="analytics-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Analyses]]></seg></tuv>
+  </tu>
+  <tu tuid="analyze-activity">
+    <tuv xml:lang="nl"><seg><![CDATA[Activiteitenanalyse]]></seg></tuv>
+  </tu>
+  <tu tuid="and">
+    <tuv xml:lang="nl"><seg><![CDATA[en]]></seg></tuv>
+  </tu>
+  <tu tuid="and-js">
+    <tuv xml:lang="nl"><seg><![CDATA[en]]></seg></tuv>
+  </tu>
+  <tu tuid="and-login-with-temp-pswd">
+    <tuv xml:lang="nl"><seg><![CDATA[En log in met dit, tijdelijke wachtwoord:]]></seg></tuv>
+  </tu>
+  <tu tuid="and-more">
+    <tuv xml:lang="nl"><seg><![CDATA[, en meer]]></seg></tuv>
+  </tu>
+  <tu tuid="and-more-js">
+    <tuv xml:lang="nl"><seg><![CDATA[en meer]]></seg></tuv>
+  </tu>
+  <tu tuid="and_more-js">
+    <tuv xml:lang="nl"><seg><![CDATA[en meer]]></seg></tuv>
+  </tu>
+  <tu tuid="annotate">
+    <tuv xml:lang="nl"><seg><![CDATA[aantekening]]></seg></tuv>
+  </tu>
+  <tu tuid="answer">
+    <tuv xml:lang="nl"><seg><![CDATA[Een privé en sociaal leerplatform voor docenten en studenten waar ze ideeën, bestanden, gebeurtenissen kunnen delen.]]></seg></tuv>
+  </tu>
+  <tu tuid="answer-js">
+    <tuv xml:lang="nl"><seg><![CDATA[antwoord #]]></seg></tuv>
+  </tu>
+  <tu tuid="answered">
+    <tuv xml:lang="nl"><seg><![CDATA[Beantwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="app-installed">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s heeft de %2$s app geïnstalleerd]]></seg></tuv>
+  </tu>
+  <tu tuid="app-not-viewable-in-store">
+    <tuv xml:lang="nl"><seg><![CDATA[Deze app is niet zichtbaar in de store]]></seg></tuv>
+  </tu>
+  <tu tuid="apple-application-terms">
+    <tuv xml:lang="nl"><seg><![CDATA[Apple Programa Voorwaarden]]></seg></tuv>
+  </tu>
+  <tu tuid="application-error">
+    <tuv xml:lang="nl"><seg><![CDATA[Applicatiefout]]></seg></tuv>
+  </tu>
+  <tu tuid="apply-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toepassen]]></seg></tuv>
+  </tu>
+  <tu tuid="approve">
+    <tuv xml:lang="nl"><seg><![CDATA[Goedkeuren]]></seg></tuv>
+  </tu>
+  <tu tuid="approve-all">
+    <tuv xml:lang="nl"><seg><![CDATA[Alles goedkeuren]]></seg></tuv>
+  </tu>
+  <tu tuid="approve-publisher-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Uitgever goedkeuren]]></seg></tuv>
+  </tu>
+  <tu tuid="approveAll">
+    <tuv xml:lang="nl"><seg><![CDATA[Alles goedkeuren]]></seg></tuv>
+  </tu>
+  <tu tuid="approved">
+    <tuv xml:lang="nl"><seg><![CDATA[Goedgekeurd]]></seg></tuv>
+  </tu>
+  <tu tuid="approvedAllConf">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle boodschappen werden goedgekeurd.]]></seg></tuv>
+  </tu>
+  <tu tuid="approvedAllErr">
+    <tuv xml:lang="nl"><seg><![CDATA[Er ging wat fout bij het goedkeuren van de boodschappen.]]></seg></tuv>
+  </tu>
+  <tu tuid="apr-js">
+    <tuv xml:lang="nl"><seg><![CDATA[apr]]></seg></tuv>
+  </tu>
+  <tu tuid="archive">
+    <tuv xml:lang="nl"><seg><![CDATA[Archiveer]]></seg></tuv>
+  </tu>
+  <tu tuid="archive-group-prompt">
+    <tuv xml:lang="nl"><seg><![CDATA[{TITLE} archiveren?]]></seg></tuv>
+  </tu>
+  <tu tuid="archive-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Archiveren]]></seg></tuv>
+  </tu>
+  <tu tuid="archive-question">
+    <tuv xml:lang="nl"><seg><![CDATA[Archiveer <strong>{GROUP_NAME}</strong>?]]></seg></tuv>
+  </tu>
+  <tu tuid="archive-question-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Archiveer <strong>{NAME}</strong>?]]></seg></tuv>
+  </tu>
+  <tu tuid="archive-small-group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Archiveer kleine groep]]></seg></tuv>
+  </tu>
+  <tu tuid="archive_group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Archiveer groep]]></seg></tuv>
+  </tu>
+  <tu tuid="archived">
+    <tuv xml:lang="nl"><seg><![CDATA[Gearchiveerd]]></seg></tuv>
+  </tu>
+  <tu tuid="archived-groups">
+    <tuv xml:lang="nl"><seg><![CDATA[Gearchiveerde groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="archived-groups-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gearchiveerde groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="archived-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gearchiveerd]]></seg></tuv>
+  </tu>
+  <tu tuid="archived-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gearchiveerd]]></seg></tuv>
+  </tu>
+  <tu tuid="archived_tags-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gearchiveerde Tags]]></seg></tuv>
+  </tu>
+  <tu tuid="are-you-sure-report">
+    <tuv xml:lang="nl"><seg><![CDATA[Weet je zeker dat je dit leraaraccount wilt melden?]]></seg></tuv>
+  </tu>
+  <tu tuid="are-you-sure-you-want-to-delete-this-grade">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u dit resultaat echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="are_you_sure_delete_msg-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Weet u zeker dat u deze poging wilt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="art">
+    <tuv xml:lang="nl"><seg><![CDATA[Kunst]]></seg></tuv>
+  </tu>
+  <tu tuid="as-a-connection-js">
+    <tuv xml:lang="nl"><seg><![CDATA[als een connectie]]></seg></tuv>
+  </tu>
+  <tu tuid="ask-info-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Info gevraagd]]></seg></tuv>
+  </tu>
+  <tu tuid="ask-teacher">
+    <tuv xml:lang="nl"><seg><![CDATA[en u heeft Edmodo geen e-mailadres gegeven, vraag er dan een nieuw aan uw begeleider.]]></seg></tuv>
+  </tu>
+  <tu tuid="ask-to-resubmit-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Vraag Leerling om opnieuw in te leveren]]></seg></tuv>
+  </tu>
+  <tu tuid="ask-us">
+    <tuv xml:lang="nl"><seg><![CDATA[Vraag het ons]]></seg></tuv>
+  </tu>
+  <tu tuid="ask-us-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Voor hulp bij vragen contacteert u ons <a href="https://support.edmodo.com/" target="_blank">helpcenter</a> of u post uw bericht <a href="http://www.edmodo.com/home#/community/support">supportcommunity</a> als u een docentenaccount heeft.]]></seg></tuv>
+  </tu>
+  <tu tuid="ass-n-grading">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdrachten en beoordelen]]></seg></tuv>
+  </tu>
+  <tu tuid="assig-id">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdrachtidentificatie]]></seg></tuv>
+  </tu>
+  <tu tuid="assig-name">
+    <tuv xml:lang="nl"><seg><![CDATA[Titel opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="assign_quiz">
+    <tuv xml:lang="nl"><seg><![CDATA[Quiz toewijzen]]></seg></tuv>
+  </tu>
+  <tu tuid="assigned_by">
+    <tuv xml:lang="nl"><seg><![CDATA[Toegewezen door]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-comment">
+    <tuv xml:lang="nl"><seg><![CDATA[Opmerking bij opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-comment-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Commentaar bij opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-comments">
+    <tuv xml:lang="nl"><seg><![CDATA[Commentaar op opdrachten]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-comments-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Commentaar bij opdrachten]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-deleted">
+    <tuv xml:lang="nl"><seg><![CDATA[De opdracht werd verwijderd]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-description">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdrachtomschrijving]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-description-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Beschrijf de opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-due">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdracht klaar tegen]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-due-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdracht klaar voor]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-is-locked">
+    <tuv xml:lang="nl"><seg><![CDATA[Deze opdracht is laat en is geblokkeerd.]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-overview">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdrachtoverzicht]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-post-success">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw opmerking over de taak werd gepost]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-redirect">
+    <tuv xml:lang="nl"><seg><![CDATA[Doorsturen naar uw opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="assignment-trans">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="assignments">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdrachten]]></seg></tuv>
+  </tu>
+  <tu tuid="assignments-due">
+    <tuv xml:lang="nl"><seg><![CDATA[Te maken opdrachten]]></seg></tuv>
+  </tu>
+  <tu tuid="assignments-due-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdrachten klaar voor]]></seg></tuv>
+  </tu>
+  <tu tuid="assignments-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdrachten]]></seg></tuv>
+  </tu>
+  <tu tuid="assignments-teacher">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdracht/docent]]></seg></tuv>
+  </tu>
+  <tu tuid="assignments_due">
+    <tuv xml:lang="nl"><seg><![CDATA[Volgende opdracht klaar]]></seg></tuv>
+  </tu>
+  <tu tuid="associated-with-school">
+    <tuv xml:lang="nl"><seg><![CDATA[Je staat nu in verbinding met de volgende school:]]></seg></tuv>
+  </tu>
+  <tu tuid="at">
+    <tuv xml:lang="nl"><seg><![CDATA[te]]></seg></tuv>
+  </tu>
+  <tu tuid="attach-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg toe]]></seg></tuv>
+  </tu>
+  <tu tuid="attach-link-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Link toevoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="attach2-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg toe]]></seg></tuv>
+  </tu>
+  <tu tuid="attach_link-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Link bijvoegen]]></seg></tuv>
+  </tu>
+  <tu tuid="attach_link_err_description_required-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een korte beschrijving is vereist]]></seg></tuv>
+  </tu>
+  <tu tuid="attach_link_err_script_not-js">
+    <tuv xml:lang="nl"><seg><![CDATA[De insluitcode wordt niet ondersteund]]></seg></tuv>
+  </tu>
+  <tu tuid="attach_link_err_url_required-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een url of insluitcode is vereist]]></seg></tuv>
+  </tu>
+  <tu tuid="attachment-unknown-error-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een is een onbekende fout opgetreden. Kijk naar je bijlagen en probeer dan opnieuw.]]></seg></tuv>
+  </tu>
+  <tu tuid="attend-webinar">
+    <tuv xml:lang="nl"><seg><![CDATA[Woon een Webinar bij]]></seg></tuv>
+  </tu>
+  <tu tuid="aug-js">
+    <tuv xml:lang="nl"><seg><![CDATA[aug]]></seg></tuv>
+  </tu>
+  <tu tuid="august-js">
+    <tuv xml:lang="nl"><seg><![CDATA[augustus]]></seg></tuv>
+  </tu>
+  <tu tuid="authGdocs-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind met Google Drive]]></seg></tuv>
+  </tu>
+  <tu tuid="available">
+    <tuv xml:lang="nl"><seg><![CDATA[beschikbaar]]></seg></tuv>
+  </tu>
+  <tu tuid="available-members">
+    <tuv xml:lang="nl"><seg><![CDATA[Beschikbare leden]]></seg></tuv>
+  </tu>
+  <tu tuid="avatar-alt">
+    <tuv xml:lang="nl"><seg><![CDATA[Avatar voor de huidige gebruiker]]></seg></tuv>
+  </tu>
+  <tu tuid="avatar-alt-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Avatar van %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="average">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemiddeld]]></seg></tuv>
+  </tu>
+  <tu tuid="average_score">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemiddelde Score]]></seg></tuv>
+  </tu>
+  <tu tuid="avg_teacher_reaction">
+    <tuv xml:lang="nl"><seg><![CDATA[Gem. reactie van docenten is %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="award-badge">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge toekennen]]></seg></tuv>
+  </tu>
+  <tu tuid="award-badge-button">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge toewijzen]]></seg></tuv>
+  </tu>
+  <tu tuid="award-badge-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge toewijzen]]></seg></tuv>
+  </tu>
+  <tu tuid="award-recognize-achievement">
+    <tuv xml:lang="nl"><seg><![CDATA[Erken en beloon de inzet van de studenten]]></seg></tuv>
+  </tu>
+  <tu tuid="award-students">
+    <tuv xml:lang="nl"><seg><![CDATA[en ken ze toe aan uw studenten]]></seg></tuv>
+  </tu>
+  <tu tuid="awarded-by-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toegekend door %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="awarded-multiple">
+    <tuv xml:lang="nl"><seg><![CDATA[(%1$d keer beloond)]]></seg></tuv>
+  </tu>
+  <tu tuid="awarded-once">
+    <tuv xml:lang="nl"><seg><![CDATA[(1 keer toegekend)]]></seg></tuv>
+  </tu>
+  <tu tuid="awesome">
+    <tuv xml:lang="nl"><seg><![CDATA[Geweldig!]]></seg></tuv>
+  </tu>
+  <tu tuid="back">
+    <tuv xml:lang="nl"><seg><![CDATA[Terug]]></seg></tuv>
+  </tu>
+  <tu tuid="back-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Terug naar %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to">
+    <tuv xml:lang="nl"><seg><![CDATA[Terug naar Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-gradebook">
+    <tuv xml:lang="nl"><seg><![CDATA[terug naar puntenboek]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-groups">
+    <tuv xml:lang="nl"><seg><![CDATA[terug naar groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-home">
+    <tuv xml:lang="nl"><seg><![CDATA[Ga terug]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-members">
+    <tuv xml:lang="nl"><seg><![CDATA[terug naar leden]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-previous">
+    <tuv xml:lang="nl"><seg><![CDATA[Ga terug naar de vorige pagina]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-spotlight">
+    <tuv xml:lang="nl"><seg><![CDATA[terug naar spotlight]]></seg></tuv>
+  </tu>
+  <tu tuid="back-to-turned-in">
+    <tuv xml:lang="nl"><seg><![CDATA[Terug naar ingediende opdrachten]]></seg></tuv>
+  </tu>
+  <tu tuid="back_to_folders">
+    <tuv xml:lang="nl"><seg><![CDATA[Terug naar Mappen]]></seg></tuv>
+  </tu>
+  <tu tuid="back_to_small_groups">
+    <tuv xml:lang="nl"><seg><![CDATA[Terug naar Kleine Groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="backpack">
+    <tuv xml:lang="nl"><seg><![CDATA[Rugtas]]></seg></tuv>
+  </tu>
+  <tu tuid="backpack-items">
+    <tuv xml:lang="nl"><seg><![CDATA[Rugzak<br>items]]></seg></tuv>
+  </tu>
+  <tu tuid="backpack-items-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Rugtas Items]]></seg></tuv>
+  </tu>
+  <tu tuid="backpack-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Rugzak]]></seg></tuv>
+  </tu>
+  <tu tuid="badge-available">
+    <tuv xml:lang="nl"><seg><![CDATA[badge beschikbaar]]></seg></tuv>
+  </tu>
+  <tu tuid="badge-awarded">
+    <tuv xml:lang="nl"><seg><![CDATA[De badge werd toegekend]]></seg></tuv>
+  </tu>
+  <tu tuid="badge-created">
+    <tuv xml:lang="nl"><seg><![CDATA[badge gemaakt]]></seg></tuv>
+  </tu>
+  <tu tuid="badge-details-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge details]]></seg></tuv>
+  </tu>
+  <tu tuid="badge-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Titel van de badge]]></seg></tuv>
+  </tu>
+  <tu tuid="badge-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Titel van de badge]]></seg></tuv>
+  </tu>
+  <tu tuid="badge_details-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Badgedetails]]></seg></tuv>
+  </tu>
+  <tu tuid="badges-available">
+    <tuv xml:lang="nl"><seg><![CDATA[badges beschikbaar]]></seg></tuv>
+  </tu>
+  <tu tuid="badges-created">
+    <tuv xml:lang="nl"><seg><![CDATA[badges gemaakt]]></seg></tuv>
+  </tu>
+  <tu tuid="badges-earned">
+    <tuv xml:lang="nl"><seg><![CDATA[Badges Verdiend]]></seg></tuv>
+  </tu>
+  <tu tuid="balance">
+    <tuv xml:lang="nl"><seg><![CDATA[Balans]]></seg></tuv>
+  </tu>
+  <tu tuid="basic">
+    <tuv xml:lang="nl"><seg><![CDATA[Basis]]></seg></tuv>
+  </tu>
+  <tu tuid="basic-math">
+    <tuv xml:lang="nl"><seg><![CDATA[Wiskunde basis]]></seg></tuv>
+  </tu>
+  <tu tuid="basic-science">
+    <tuv xml:lang="nl"><seg><![CDATA[Wetenschappen (basis)]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits">
+    <tuv xml:lang="nl"><seg><![CDATA[Wat is het?]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Wij zijn op zoek naar slimme, creatieve mensen die zich voor 100 procent willen inzetten, wij geven jou enkele fanatische extraatjes en voordelen:]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits1">
+    <tuv xml:lang="nl"><seg><![CDATA[Goede Locatie]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits1-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Eigenschappen die je al bewonderde, nu met nog meer kracht. Eigenschappen die je al bewonderde, nu met nog meer kracht. ]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits2">
+    <tuv xml:lang="nl"><seg><![CDATA[Salaris & Evenredigheid]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits2-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Eigenschappen die je al bewonderde, nu met nog meer kracht. Eigenschappen die je al bewonderde, nu met nog meer kracht. ]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits3-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Mogelijkheden die je al waardeerde, nu nog krachtiger. Mogelijkheden die je al waardeerde, nu nog krachtiger. ]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits4-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Eigenschappen die je al bewonderde, nu met nog meer kracht. Eigenschappen die je al bewonderde, nu met nog meer kracht. ]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits5">
+    <tuv xml:lang="nl"><seg><![CDATA[Feestdagen, vakantie en ziekteverlof]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits5-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Eigenschappen die je al bewonderde, nu met nog meer kracht. Eigenschappen die je al bewonderde, nu met nog meer kracht. ]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits6">
+    <tuv xml:lang="nl"><seg><![CDATA[Een onuitputtelijke levering van t-shirts]]></seg></tuv>
+  </tu>
+  <tu tuid="benefits6-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Eigenschappen die je al bewonderde, nu met nog meer kracht. Eigenschappen die je al bewonderde, nu met nog meer kracht. ]]></seg></tuv>
+  </tu>
+  <tu tuid="better-xp">
+    <tuv xml:lang="nl"><seg><![CDATA[Voor een betere werking van deze website kunt u beter een nieuwere browser gebruiken.]]></seg></tuv>
+  </tu>
+  <tu tuid="betterluck">
+    <tuv xml:lang="nl"><seg><![CDATA[Meer geluk volgende keer]]></seg></tuv>
+  </tu>
+  <tu tuid="billing-address">
+    <tuv xml:lang="nl"><seg><![CDATA[Factuuradres]]></seg></tuv>
+  </tu>
+  <tu tuid="biology">
+    <tuv xml:lang="nl"><seg><![CDATA[Biologie]]></seg></tuv>
+  </tu>
+  <tu tuid="blank-grade">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet een resultaat ingeven]]></seg></tuv>
+  </tu>
+  <tu tuid="blank-group">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet een naam ingeven]]></seg></tuv>
+  </tu>
+  <tu tuid="block-connection-from-teacher">
+    <tuv xml:lang="nl"><seg><![CDATA[Connectieaanvragen van deze docent blokkeren?]]></seg></tuv>
+  </tu>
+  <tu tuid="block-connections">
+    <tuv xml:lang="nl"><seg><![CDATA[Blokkeer connectieverzoeken]]></seg></tuv>
+  </tu>
+  <tu tuid="block-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Blokkeren]]></seg></tuv>
+  </tu>
+  <tu tuid="block-teacher-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Docent blokkeren]]></seg></tuv>
+  </tu>
+  <tu tuid="block-this-teacher">
+    <tuv xml:lang="nl"><seg><![CDATA[Blokkeer deze docent]]></seg></tuv>
+  </tu>
+  <tu tuid="block-user-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Deze gebruiker blokkeren]]></seg></tuv>
+  </tu>
+  <tu tuid="bored">
+    <tuv xml:lang="nl"><seg><![CDATA[Saai]]></seg></tuv>
+  </tu>
+  <tu tuid="brbr">
+    <tuv xml:lang="nl"><seg><![CDATA[U heeft geen opdrachten gequoteerd.]]></seg></tuv>
+  </tu>
+  <tu tuid="bring-your-classroom-onto-edmodo">
+    <tuv xml:lang="nl"><seg><![CDATA[Breng je klaslokaal naar Edmodo!]]></seg></tuv>
+  </tu>
+  <tu tuid="browse-communities-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Browse gemeenschappen]]></seg></tuv>
+  </tu>
+  <tu tuid="browse-find-resources">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s om bronnen te vinden en te verbinden met andere leraren.]]></seg></tuv>
+  </tu>
+  <tu tuid="browse-topics">
+    <tuv xml:lang="nl"><seg><![CDATA[Zoek Onderwerpen]]></seg></tuv>
+  </tu>
+  <tu tuid="browse-ur-pc">
+    <tuv xml:lang="nl"><seg><![CDATA[Foto uploaden... (max. 10MB)]]></seg></tuv>
+  </tu>
+  <tu tuid="build-apps">
+    <tuv xml:lang="nl"><seg><![CDATA[Bouw Edmodo apps]]></seg></tuv>
+  </tu>
+  <tu tuid="build-apps-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Bouw en verkoop onderwijsapplicaties voor het grootste en snelstgroeiende leerplatform voor het secundair/voortgezet onderwijs.]]></seg></tuv>
+  </tu>
+  <tu tuid="build-your-network">
+    <tuv xml:lang="nl"><seg><![CDATA[Bouw je netwerk, %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="build-your-profile">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$sBouw je profiel%2$s en maak een verbinding met andere leraren om te zien wat zij onderwijzen]]></seg></tuv>
+  </tu>
+  <tu tuid="builds">
+    <tuv xml:lang="nl"><seg><![CDATA[Bouw boeiende en dynamische gemeenschappen]]></seg></tuv>
+  </tu>
+  <tu tuid="by">
+    <tuv xml:lang="nl"><seg><![CDATA[door]]></seg></tuv>
+  </tu>
+  <tu tuid="by-edmodo">
+    <tuv xml:lang="nl"><seg><![CDATA[Door Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="by-group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Op Groep]]></seg></tuv>
+  </tu>
+  <tu tuid="by-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Door]]></seg></tuv>
+  </tu>
+  <tu tuid="by-me">
+    <tuv xml:lang="nl"><seg><![CDATA[Door mij]]></seg></tuv>
+  </tu>
+  <tu tuid="by-students">
+    <tuv xml:lang="nl"><seg><![CDATA[Door studenten]]></seg></tuv>
+  </tu>
+  <tu tuid="by-teachers">
+    <tuv xml:lang="nl"><seg><![CDATA[Door docenten]]></seg></tuv>
+  </tu>
+  <tu tuid="by_me-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Door mij]]></seg></tuv>
+  </tu>
+  <tu tuid="by_students-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Door studenten]]></seg></tuv>
+  </tu>
+  <tu tuid="by_teachers-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Door docenten]]></seg></tuv>
+  </tu>
+  <tu tuid="calculus">
+    <tuv xml:lang="nl"><seg><![CDATA[Rekenen]]></seg></tuv>
+  </tu>
+  <tu tuid="calendar">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepskalender]]></seg></tuv>
+  </tu>
+  <tu tuid="calendar-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Kalender]]></seg></tuv>
+  </tu>
+  <tu tuid="calendar-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Kalender]]></seg></tuv>
+  </tu>
+  <tu tuid="calendar-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Kalender]]></seg></tuv>
+  </tu>
+  <tu tuid="cancel">
+    <tuv xml:lang="nl"><seg><![CDATA[Annuleren]]></seg></tuv>
+  </tu>
+  <tu tuid="cancel-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Annuleren]]></seg></tuv>
+  </tu>
+  <tu tuid="cancel-request">
+    <tuv xml:lang="nl"><seg><![CDATA[Annuleer verzoek]]></seg></tuv>
+  </tu>
+  <tu tuid="card-number">
+    <tuv xml:lang="nl"><seg><![CDATA[Kaartnummer]]></seg></tuv>
+  </tu>
+  <tu tuid="career-change">
+    <tuv xml:lang="nl"><seg><![CDATA[Wijzig hoe ik wil studeren]]></seg></tuv>
+  </tu>
+  <tu tuid="career-choose">
+    <tuv xml:lang="nl"><seg><![CDATA[Kies je toekomstige beroep...]]></seg></tuv>
+  </tu>
+  <tu tuid="career-choose-other">
+    <tuv xml:lang="nl"><seg><![CDATA[Kies een ander beroep]]></seg></tuv>
+  </tu>
+  <tu tuid="career-goal">
+    <tuv xml:lang="nl"><seg><![CDATA[Carrièredoel]]></seg></tuv>
+  </tu>
+  <tu tuid="career-goal-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Beroepskeuze]]></seg></tuv>
+  </tu>
+  <tu tuid="certificate">
+    <tuv xml:lang="nl"><seg><![CDATA[Certificaat]]></seg></tuv>
+  </tu>
+  <tu tuid="certificate-of-completion">
+    <tuv xml:lang="nl"><seg><![CDATA[Certificaat van Volledigheid]]></seg></tuv>
+  </tu>
+  <tu tuid="change-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wijzigen]]></seg></tuv>
+  </tu>
+  <tu tuid="change-like-learn">
+    <tuv xml:lang="nl"><seg><![CDATA[Wijzigen hoe ik wil studeren]]></seg></tuv>
+  </tu>
+  <tu tuid="change-owner-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wijzig eigenaar]]></seg></tuv>
+  </tu>
+  <tu tuid="change-password">
+    <tuv xml:lang="nl"><seg><![CDATA[Wijzig wachtwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="change-password-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wijzig wachtwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="change-phone">
+    <tuv xml:lang="nl"><seg><![CDATA[Telefoonnummer wijzigen]]></seg></tuv>
+  </tu>
+  <tu tuid="change-quote">
+    <tuv xml:lang="nl"><seg><![CDATA[Selecteer een ander citaat]]></seg></tuv>
+  </tu>
+  <tu tuid="change-school">
+    <tuv xml:lang="nl"><seg><![CDATA[School wijzigen]]></seg></tuv>
+  </tu>
+  <tu tuid="change-school-js">
+    <tuv xml:lang="nl"><seg><![CDATA[School wijzigen]]></seg></tuv>
+  </tu>
+  <tu tuid="change-url">
+    <tuv xml:lang="nl"><seg><![CDATA[Wijzig mijn url]]></seg></tuv>
+  </tu>
+  <tu tuid="character-limit">
+    <tuv xml:lang="nl"><seg><![CDATA[max. 140 tekens]]></seg></tuv>
+  </tu>
+  <tu tuid="character-limit-js">
+    <tuv xml:lang="nl"><seg><![CDATA[max. 140 tekens]]></seg></tuv>
+  </tu>
+  <tu tuid="check-back-soon">
+    <tuv xml:lang="nl"><seg><![CDATA[Kom snel terug!]]></seg></tuv>
+  </tu>
+  <tu tuid="check-blog">
+    <tuv xml:lang="nl"><seg><![CDATA[Bekijk het recentste Edmodo nieuws -]]></seg></tuv>
+  </tu>
+  <tu tuid="check-group-alt">
+    <tuv xml:lang="nl"><seg><![CDATA[Kleur geselecteerd]]></seg></tuv>
+  </tu>
+  <tu tuid="check-in-another">
+    <tuv xml:lang="nl"><seg><![CDATA[Inschrijven andere onderwerp]]></seg></tuv>
+  </tu>
+  <tu tuid="check-more-suggestions">
+    <tuv xml:lang="nl"><seg><![CDATA[Schrijf je in bij de bovenstaande onderwerpen voor meer suggesties]]></seg></tuv>
+  </tu>
+  <tu tuid="check-out">
+    <tuv xml:lang="nl"><seg><![CDATA[Bekijk wat anderen over Edmodo zeggen]]></seg></tuv>
+  </tu>
+  <tu tuid="checkin-get-great">
+    <tuv xml:lang="nl"><seg><![CDATA[Schrijf je in voor een onderwerp waarin je lesgeeft en krijg direct een groot aantal aanbevelingen welke je kan delen met je leerlingen en collega's met een enkele klik!]]></seg></tuv>
+  </tu>
+  <tu tuid="checking">
+    <tuv xml:lang="nl"><seg><![CDATA[controleren]]></seg></tuv>
+  </tu>
+  <tu tuid="chemistry">
+    <tuv xml:lang="nl"><seg><![CDATA[Chemie]]></seg></tuv>
+  </tu>
+  <tu tuid="chinese-mandarin">
+    <tuv xml:lang="nl"><seg><![CDATA[Chinees (Mandarijn)]]></seg></tuv>
+  </tu>
+  <tu tuid="choose">
+    <tuv xml:lang="nl"><seg><![CDATA[Zoek verbindingen]]></seg></tuv>
+  </tu>
+  <tu tuid="choose-date-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Kies een datum]]></seg></tuv>
+  </tu>
+  <tu tuid="choose-file">
+    <tuv xml:lang="nl"><seg><![CDATA[Kies Bestand]]></seg></tuv>
+  </tu>
+  <tu tuid="city">
+    <tuv xml:lang="nl"><seg><![CDATA[Stad]]></seg></tuv>
+  </tu>
+  <tu tuid="city-state">
+    <tuv xml:lang="nl"><seg><![CDATA[Stad-Provincie]]></seg></tuv>
+  </tu>
+  <tu tuid="claim">
+    <tuv xml:lang="nl"><seg><![CDATA[Eis]]></seg></tuv>
+  </tu>
+  <tu tuid="claim-button">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanmelden]]></seg></tuv>
+  </tu>
+  <tu tuid="claim-confirmation-district">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanmeldingsbevestiging: Laatste stappen om uw district te activeren bij Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="claim-confirmation-school">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanmeldingsbevestiging: Laatste stappen om uw school te activeren bij Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="claim-your-profile-url">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak aanspraak op je profiel url]]></seg></tuv>
+  </tu>
+  <tu tuid="class-builder">
+    <tuv xml:lang="nl"><seg><![CDATA[Klasbouwer]]></seg></tuv>
+  </tu>
+  <tu tuid="classmate">
+    <tuv xml:lang="nl"><seg><![CDATA[Klasgenoot]]></seg></tuv>
+  </tu>
+  <tu tuid="classmates">
+    <tuv xml:lang="nl"><seg><![CDATA[Klasgenoten]]></seg></tuv>
+  </tu>
+  <tu tuid="classmates-earned-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Klasgenoten die ook verdiend hebben]]></seg></tuv>
+  </tu>
+  <tu tuid="classmates-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Klasgenoten]]></seg></tuv>
+  </tu>
+  <tu tuid="classroom-materials">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo bezorgt docenten en studenten een veilige en eenvoudige manier om lesmateriaal te posten, nuttige links en video's te delen en huistaken, resultaten en algemene opmerkingen weer te geven.]]></seg></tuv>
+  </tu>
+  <tu tuid="classroom-part">
+    <tuv xml:lang="nl"><seg><![CDATA[Volg klas- en schoolparticipatie]]></seg></tuv>
+  </tu>
+  <tu tuid="clear-grade">
+    <tuv xml:lang="nl"><seg><![CDATA[Resultaat verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="clear-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wis]]></seg></tuv>
+  </tu>
+  <tu tuid="clear_grade">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder resultaat]]></seg></tuv>
+  </tu>
+  <tu tuid="close">
+    <tuv xml:lang="nl"><seg><![CDATA[Sluiten]]></seg></tuv>
+  </tu>
+  <tu tuid="close-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Sluit deze boodschap]]></seg></tuv>
+  </tu>
+  <tu tuid="close-badge">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge sluiten]]></seg></tuv>
+  </tu>
+  <tu tuid="close-badge-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge sluiten]]></seg></tuv>
+  </tu>
+  <tu tuid="close-bookmarklet">
+    <tuv xml:lang="nl"><seg><![CDATA[Sluit toepassing]]></seg></tuv>
+  </tu>
+  <tu tuid="close-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Sluiten]]></seg></tuv>
+  </tu>
+  <tu tuid="close-search">
+    <tuv xml:lang="nl"><seg><![CDATA[Zoeken afsluiten]]></seg></tuv>
+  </tu>
+  <tu tuid="close-tag">
+    <tuv xml:lang="nl"><seg><![CDATA[Sluit label]]></seg></tuv>
+  </tu>
+  <tu tuid="close_folder-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Sluit map]]></seg></tuv>
+  </tu>
+  <tu tuid="co-teacher">
+    <tuv xml:lang="nl"><seg><![CDATA[Co-docent]]></seg></tuv>
+  </tu>
+  <tu tuid="co-teacher-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Co-docent]]></seg></tuv>
+  </tu>
+  <tu tuid="code-access">
+    <tuv xml:lang="nl"><seg><![CDATA[De toegangscode voor deze groep is:]]></seg></tuv>
+  </tu>
+  <tu tuid="collab-v-classroom">
+    <tuv xml:lang="nl"><seg><![CDATA[Deel ideeën, bestanden en opdrachten]]></seg></tuv>
+  </tu>
+  <tu tuid="collaborate-share-discuss">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbinden, samenwerken, bespreken]]></seg></tuv>
+  </tu>
+  <tu tuid="collapse-list-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verklein lijst]]></seg></tuv>
+  </tu>
+  <tu tuid="collection">
+    <tuv xml:lang="nl"><seg><![CDATA[Collectie]]></seg></tuv>
+  </tu>
+  <tu tuid="collection-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Collectie]]></seg></tuv>
+  </tu>
+  <tu tuid="college-readiness">
+    <tuv xml:lang="nl"><seg><![CDATA[Voorbereiding hogeschool/universiteit]]></seg></tuv>
+  </tu>
+  <tu tuid="color-selector">
+    <tuv xml:lang="nl"><seg><![CDATA[Kleurenkiezer]]></seg></tuv>
+  </tu>
+  <tu tuid="columns-include">
+    <tuv xml:lang="nl"><seg><![CDATA[Op te nemen kolommen:]]></seg></tuv>
+  </tu>
+  <tu tuid="comingSoon">
+    <tuv xml:lang="nl"><seg><![CDATA[BINNENKORT]]></seg></tuv>
+  </tu>
+  <tu tuid="comm-type">
+    <tuv xml:lang="nl"><seg><![CDATA[Type gemeenschap:]]></seg></tuv>
+  </tu>
+  <tu tuid="comment-to">
+    <tuv xml:lang="nl"><seg><![CDATA[antwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="commented-on-assignment">
+    <tuv xml:lang="nl"><seg><![CDATA[commentaar gegeven op opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="comments">
+    <tuv xml:lang="nl"><seg><![CDATA[Opmerkingen]]></seg></tuv>
+  </tu>
+  <tu tuid="comments-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opmerkingen]]></seg></tuv>
+  </tu>
+  <tu tuid="comments-maintenance">
+    <tuv xml:lang="nl"><seg><![CDATA[Antwoorden is door onderhoud aan de website op dit ogenblik onmogelijk.]]></seg></tuv>
+  </tu>
+  <tu tuid="comments_blurb">
+    <tuv xml:lang="nl"><seg><![CDATA[Alleen deelnemers die toegang hebben tot hun eigen resultaten, kunnen commentaar zien.]]></seg></tuv>
+  </tu>
+  <tu tuid="communities">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschappen]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-PUBLISHER">
+    <tuv xml:lang="nl"><seg><![CDATA[Uitgever]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-SUBJECT_COMMUNITY">
+    <tuv xml:lang="nl"><seg><![CDATA[Onderwerp]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-community">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-hidden-count">
+    <tuv xml:lang="nl"><seg><![CDATA[<span class="counter">%1$s</span> gemeenschappen verborgen]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-index">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschappen]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschappen]]></seg></tuv>
+  </tu>
+  <tu tuid="communities-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschappen]]></seg></tuv>
+  </tu>
+  <tu tuid="community">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="community-avatar">
+    <tuv xml:lang="nl"><seg><![CDATA[Avatar gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="community-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Onderwerp gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="community-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="community-member">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemeenschapslid]]></seg></tuv>
+  </tu>
+  <tu tuid="company-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo werd in 2008 ontwikkeld door webprofessionals uit twee schooldistricten die, samen met enkele onderwijsexperten, de nood van docenten en studenten voor een veilig, sociaal klasnetwerk tegemoed kwamen. Edmodo is een privébedrijf uit Mountain View, California.]]></seg></tuv>
+  </tu>
+  <tu tuid="company-desc-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Bedrijf/Omschrijving organisatie]]></seg></tuv>
+  </tu>
+  <tu tuid="company-description">
+    <tuv xml:lang="nl"><seg><![CDATA[Beschrijf uw bedrijf/organisatie]]></seg></tuv>
+  </tu>
+  <tu tuid="company-name">
+    <tuv xml:lang="nl"><seg><![CDATA[Naam bedrijf/organisatie]]></seg></tuv>
+  </tu>
+  <tu tuid="complete-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Volledig]]></seg></tuv>
+  </tu>
+  <tu tuid="computer-science">
+    <tuv xml:lang="nl"><seg><![CDATA[ICT]]></seg></tuv>
+  </tu>
+  <tu tuid="computer-technology-js">
+    <tuv xml:lang="nl"><seg><![CDATA[ICT]]></seg></tuv>
+  </tu>
+  <tu tuid="con-req-msg-js">
+    <tuv xml:lang="nl"><seg><![CDATA[zal de connectie moeten bevestigen]]></seg></tuv>
+  </tu>
+  <tu tuid="con-req-sent-msg-a-js">
+    <tuv xml:lang="nl"><seg><![CDATA[<b>Verzoek verzonden.</b><br/>Een connectieverzoek werd verstuurd naar]]></seg></tuv>
+  </tu>
+  <tu tuid="con-req-sent-msg-b-js">
+    <tuv xml:lang="nl"><seg><![CDATA[ter goedkeuring]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm">
+    <tuv xml:lang="nl"><seg><![CDATA[Bevestig e-mail]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-approve-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u dit echt goedkeuren:]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-ask-info-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u echt een e-mail met de vraag voor info versturen, en deze gebruiker van deze lijst verwijderen:]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-assignment-warning-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een opdracht verwijderen wordt afgeraden. Het verwijdert al het werk en de resultaten van de studenten. Dit kan niet ongedaan gemaakt worden.]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-block-user-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Echt blokkeren in deze groep:]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-confirm-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u de aanvraag voor %1$s echt BEVESTIGEN?]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-deactivate-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u de forwarding voor %1$s echt UITSCHAKELEN?]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-delete-inst-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u dit echt verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-delete-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u dit echt VERWIJDEREN:]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-deny-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u de aanvraag voor %1$s echt WEIGEREN?]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-disable-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u dit echt uitschakelen:]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bevestigen]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-owner-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Betn u zeker dat u %1$s als nieuwe eigenaar van %2$s wil]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-password">
+    <tuv xml:lang="nl"><seg><![CDATA[Bevestig wachtwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-quiz-warning-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een toets verwijderen wordt afgeraden. Het verwijdert al het uw werk en de resultaten van de studenten. Dit kan niet ongedaan gemaakt worden.]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-read-only-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Alleen lezen]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-readonly-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u %1$s echt op 'alleen lezen' zetten?]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-remove-from-group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u dit echt verwijderen:]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-remove-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u de forwarding van %1$s echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-restore-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u dit echt herstellen:]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-restore-subdomain-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u deze echt herstellen: %1$s to %2$s ?]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-verify-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u dit echt verifiëren?]]></seg></tuv>
+  </tu>
+  <tu tuid="confirm-your-email-address-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bevestig Je Emailadres]]></seg></tuv>
+  </tu>
+  <tu tuid="confirmation-subject-district">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanmeldingsbevestiging: Laatste stappen om uw district te activeren bij Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="confirmation-subject-school">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanmeldingsbevestiging: Laatste stappen om uw school te activeren bij Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="congrats">
+    <tuv xml:lang="nl"><seg><![CDATA[Gefeliciteerd]]></seg></tuv>
+  </tu>
+  <tu tuid="congratulations">
+    <tuv xml:lang="nl"><seg><![CDATA[Gefeliciteerd!]]></seg></tuv>
+  </tu>
+  <tu tuid="congratulations-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Proficiat!]]></seg></tuv>
+  </tu>
+  <tu tuid="connect">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind docenten in uw scholen en districten]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanbevelingen voor bronnen en contacten.]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-long">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbinden met bronnen]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-long-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Docenten staan op Edmodo centraal in een<br />krachtig netwerk dat hen verbindt met studenten, bestuurders, ouders en uitgevers. Ze vinden er de beste bronnen en hulpmiddelen ter wereld die de bouwstenen van een kwalitatief hoogstaand onderwijs vormen.]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-other-teacher">
+    <tuv xml:lang="nl"><seg><![CDATA[Connecteer met andere docenten]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-others">
+    <tuv xml:lang="nl"><seg><![CDATA[sluit je aan bij andere docenten]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-teachers">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind docenten, studenten en ouders op een veilige manier in real time]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-you">
+    <tuv xml:lang="nl"><seg><![CDATA[verbindt u met andere docenten]]></seg></tuv>
+  </tu>
+  <tu tuid="connect-your-institution">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind uw school of district met de Edmodo gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="connected">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbonden]]></seg></tuv>
+  </tu>
+  <tu tuid="connected-followers-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbonden volgers]]></seg></tuv>
+  </tu>
+  <tu tuid="connection">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbindingen]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-avatar">
+    <tuv xml:lang="nl"><seg><![CDATA[Avatar connectie]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-hub">
+    <tuv xml:lang="nl"><seg><![CDATA[Connectiehub]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-removed">
+    <tuv xml:lang="nl"><seg><![CDATA[Connectie verwijderd]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-request">
+    <tuv xml:lang="nl"><seg><![CDATA[Connectieaanvraag]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-request-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Connectieaanvraag]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-requested-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Connectieaanvraag]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-requests">
+    <tuv xml:lang="nl"><seg><![CDATA[Connectieaanvragen]]></seg></tuv>
+  </tu>
+  <tu tuid="connection-requests-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Connectieaanvragen]]></seg></tuv>
+  </tu>
+  <tu tuid="connections">
+    <tuv xml:lang="nl"><seg><![CDATA[Connecties]]></seg></tuv>
+  </tu>
+  <tu tuid="connections-are-teaching">
+    <tuv xml:lang="nl"><seg><![CDATA[Mijn contacten geven les in]]></seg></tuv>
+  </tu>
+  <tu tuid="connections-description-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbindt u met andere docenten om inhoud te delen en werkvormen te bespreken. Werk samen met docenten uit de hele wereld!]]></seg></tuv>
+  </tu>
+  <tu tuid="connections-hidden-count">
+    <tuv xml:lang="nl"><seg><![CDATA[<span class="counter">%1$s</span> connecties verborgen]]></seg></tuv>
+  </tu>
+  <tu tuid="connections-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Connecties]]></seg></tuv>
+  </tu>
+  <tu tuid="connections-rate-limited-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Oeps, dat werkte niet. Probeer het over of <a href="https://support.edmodo.com/home">contact support</a>.]]></seg></tuv>
+  </tu>
+  <tu tuid="connections-receivers">
+    <tuv xml:lang="nl"><seg><![CDATA[Connecties]]></seg></tuv>
+  </tu>
+  <tu tuid="connections-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind met andere docenten]]></seg></tuv>
+  </tu>
+  <tu tuid="contact">
+    <tuv xml:lang="nl"><seg><![CDATA[Contacteer]]></seg></tuv>
+  </tu>
+  <tu tuid="contact-edmodo">
+    <tuv xml:lang="nl"><seg><![CDATA[Contacteer Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="contact-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Contacteren]]></seg></tuv>
+  </tu>
+  <tu tuid="contact-us-all-initials">
+    <tuv xml:lang="nl"><seg><![CDATA[Contacteer Ons]]></seg></tuv>
+  </tu>
+  <tu tuid="contact-us-first-letter">
+    <tuv xml:lang="nl"><seg><![CDATA[Contacteer ons]]></seg></tuv>
+  </tu>
+  <tu tuid="contributers">
+    <tuv xml:lang="nl"><seg><![CDATA[Contributeurs]]></seg></tuv>
+  </tu>
+  <tu tuid="copy-data">
+    <tuv xml:lang="nl"><seg><![CDATA[Kopieer als CSV naar klembord]]></seg></tuv>
+  </tu>
+  <tu tuid="corporate-acceptable-use-policy-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanvaardbare gebruiksvoorwaarden]]></seg></tuv>
+  </tu>
+  <tu tuid="corporate-apple-application-terms-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Apple Applicatievoorwaarden]]></seg></tuv>
+  </tu>
+  <tu tuid="corporate-dmca-takedown-policy-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[DMCA Takedown Werkwijze]]></seg></tuv>
+  </tu>
+  <tu tuid="corporate-privacy-policy-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Zakelijk privacy-beleid]]></seg></tuv>
+  </tu>
+  <tu tuid="corporate-publisher-agreement-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Uitgeversovereenkomst]]></seg></tuv>
+  </tu>
+  <tu tuid="corporate-store-policies-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo Store Voorwaarden]]></seg></tuv>
+  </tu>
+  <tu tuid="corporate-terms-of-service">
+    <tuv xml:lang="nl"><seg><![CDATA[Algemene voorwaarden]]></seg></tuv>
+  </tu>
+  <tu tuid="corporate-terms-of-service-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Algemene voorwaarden]]></seg></tuv>
+  </tu>
+  <tu tuid="correct_answer">
+    <tuv xml:lang="nl"><seg><![CDATA[Correct antwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="correct_answer-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Correct antwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="correct_answers">
+    <tuv xml:lang="nl"><seg><![CDATA[correcte<br>antwoorden]]></seg></tuv>
+  </tu>
+  <tu tuid="couldnt-find-school">
+    <tuv xml:lang="nl"><seg><![CDATA[School niet gevonden?]]></seg></tuv>
+  </tu>
+  <tu tuid="country">
+    <tuv xml:lang="nl"><seg><![CDATA[Land:]]></seg></tuv>
+  </tu>
+  <tu tuid="create">
+    <tuv xml:lang="nl"><seg><![CDATA[Creër]]></seg></tuv>
+  </tu>
+  <tu tuid="create-a-new-badge">
+    <tuv xml:lang="nl"><seg><![CDATA[Nieuwe badge aanmaken]]></seg></tuv>
+  </tu>
+  <tu tuid="create-a-new-edmodo-account">
+    <tuv xml:lang="nl"><seg><![CDATA[Creëer Een Nieuw Edmodo Account]]></seg></tuv>
+  </tu>
+  <tu tuid="create-badge">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge aanmaken]]></seg></tuv>
+  </tu>
+  <tu tuid="create-badges">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak badges]]></seg></tuv>
+  </tu>
+  <tu tuid="create-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Bouw apps die geïntegreerd kunnen worden in Edmodo's opdrachten, badges en puntenboeken.]]></seg></tuv>
+  </tu>
+  <tu tuid="create-first-small-group">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak een Kleine Groep]]></seg></tuv>
+  </tu>
+  <tu tuid="create-folder-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak een map aan]]></seg></tuv>
+  </tu>
+  <tu tuid="create-grade-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Nieuw cijfer aanmaken]]></seg></tuv>
+  </tu>
+  <tu tuid="create-group">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak een groep aan]]></seg></tuv>
+  </tu>
+  <tu tuid="create-group-2">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$sMaak een groep aan%2$s]]></seg></tuv>
+  </tu>
+  <tu tuid="create-group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak een groep]]></seg></tuv>
+  </tu>
+  <tu tuid="create-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanmaken]]></seg></tuv>
+  </tu>
+  <tu tuid="create-small-group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak een kleine groep]]></seg></tuv>
+  </tu>
+  <tu tuid="create-your-account">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak een account aan]]></seg></tuv>
+  </tu>
+  <tu tuid="create-your-address">
+    <tuv xml:lang="nl"><seg><![CDATA[Creëer uw Edmodo webadres voor uw school of district]]></seg></tuv>
+  </tu>
+  <tu tuid="createAquiz-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak een toets]]></seg></tuv>
+  </tu>
+  <tu tuid="createEvent-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebeurtenis maken]]></seg></tuv>
+  </tu>
+  <tu tuid="createTask-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdracht maken]]></seg></tuv>
+  </tu>
+  <tu tuid="created">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemaakt:]]></seg></tuv>
+  </tu>
+  <tu tuid="creating">
+    <tuv xml:lang="nl"><seg><![CDATA[creëren Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="creating-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo's mede-oprichters Nic Borg en Jeff O'Hara praten over het ontstaan van Edmodo en de toekomst ervan.]]></seg></tuv>
+  </tu>
+  <tu tuid="creation-moment-js">
+    <tuv xml:lang="nl"><seg><![CDATA[0 seconden geleden]]></seg></tuv>
+  </tu>
+  <tu tuid="creative-arts-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Creatieve kunsten]]></seg></tuv>
+  </tu>
+  <tu tuid="creator">
+    <tuv xml:lang="nl"><seg><![CDATA[Ontwerper]]></seg></tuv>
+  </tu>
+  <tu tuid="creator-username">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikersnaam van de ontwerper]]></seg></tuv>
+  </tu>
+  <tu tuid="current-photo">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw huidige foto]]></seg></tuv>
+  </tu>
+  <tu tuid="current_thumbnail-js">
+    <tuv xml:lang="nl"><seg><![CDATA[huidige miniatuur]]></seg></tuv>
+  </tu>
+  <tu tuid="currently-teaching">
+    <tuv xml:lang="nl"><seg><![CDATA[Doceert op dit moment]]></seg></tuv>
+  </tu>
+  <tu tuid="currently-viewing">
+    <tuv xml:lang="nl"><seg><![CDATA[Op dit moment aan het bekijken]]></seg></tuv>
+  </tu>
+  <tu tuid="custom-thumb-url-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak van de url een kleine afbeelding]]></seg></tuv>
+  </tu>
+  <tu tuid="customize">
+    <tuv xml:lang="nl"><seg><![CDATA[Functies voor uw school aanpassen]]></seg></tuv>
+  </tu>
+  <tu tuid="dad">
+    <tuv xml:lang="nl"><seg><![CDATA[Vader]]></seg></tuv>
+  </tu>
+  <tu tuid="dad-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Vader]]></seg></tuv>
+  </tu>
+  <tu tuid="dance">
+    <tuv xml:lang="nl"><seg><![CDATA[Dans]]></seg></tuv>
+  </tu>
+  <tu tuid="date">
+    <tuv xml:lang="nl"><seg><![CDATA[Datum]]></seg></tuv>
+  </tu>
+  <tu tuid="date-due-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Klaar voor]]></seg></tuv>
+  </tu>
+  <tu tuid="date-format-err-js">
+    <tuv xml:lang="nl"><seg><![CDATA[De invoer voor data zou maand/dag/jaar moeten zijn.]]></seg></tuv>
+  </tu>
+  <tu tuid="date-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Datum]]></seg></tuv>
+  </tu>
+  <tu tuid="date-range-err-js">
+    <tuv xml:lang="nl"><seg><![CDATA[De startdatum zou voor de einddatum moeten zijn.]]></seg></tuv>
+  </tu>
+  <tu tuid="date-range-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bereik van data]]></seg></tuv>
+  </tu>
+  <tu tuid="dateRange-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Datumgebied]]></seg></tuv>
+  </tu>
+  <tu tuid="dateRangeErr-js">
+    <tuv xml:lang="nl"><seg><![CDATA[De startdatum zou voor de einddatum moeten zijn.]]></seg></tuv>
+  </tu>
+  <tu tuid="dateRequired-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een datum in het formaat MM/DD/YYYY is vereist.]]></seg></tuv>
+  </tu>
+  <tu tuid="days">
+    <tuv xml:lang="nl"><seg><![CDATA[Dagen]]></seg></tuv>
+  </tu>
+  <tu tuid="deactivate-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Uitschakelen]]></seg></tuv>
+  </tu>
+  <tu tuid="dear">
+    <tuv xml:lang="nl"><seg><![CDATA[Beste]]></seg></tuv>
+  </tu>
+  <tu tuid="dec-js">
+    <tuv xml:lang="nl"><seg><![CDATA[dec]]></seg></tuv>
+  </tu>
+  <tu tuid="december-js">
+    <tuv xml:lang="nl"><seg><![CDATA[december]]></seg></tuv>
+  </tu>
+  <tu tuid="decline">
+    <tuv xml:lang="nl"><seg><![CDATA[Weigeren]]></seg></tuv>
+  </tu>
+  <tu tuid="default-2-read-only">
+    <tuv xml:lang="nl"><seg><![CDATA[Zet alle nieuwe leden automatisch op alleen-lezen]]></seg></tuv>
+  </tu>
+  <tu tuid="default-total">
+    <tuv xml:lang="nl"><seg><![CDATA[Algemeen totaal]]></seg></tuv>
+  </tu>
+  <tu tuid="delay-after-subscribe">
+    <tuv xml:lang="nl"><seg><![CDATA[<strong>Opmerking:</strong> Het kan een uur duren voor ingaven getoond worden aan de groep.]]></seg></tuv>
+  </tu>
+  <tu tuid="delete">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-assignment-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdracht verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-assignment-prompt-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opgelet! Bent u zeker dat u deze opdracht wil verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-badge">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder deze badge]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-badge-confirm">
+    <tuv xml:lang="nl"><seg><![CDATA[Bent u zeker dat u deze badge wil verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-badge-loading">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijderen...]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-badge-no">
+    <tuv xml:lang="nl"><seg><![CDATA[Nee]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-badge-yes">
+    <tuv xml:lang="nl"><seg><![CDATA[Ja]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-comment-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opmerking verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-comment-prompt">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u deze opmerking echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-event-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder Taak]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-event-prompt-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wil je deze gebeurtenis echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-folder-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder map]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-folder-prompt-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u deze map echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-grade-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder cijfer]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Groep verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-group-message">
+    <tuv xml:lang="nl"><seg><![CDATA[Groep verwijderen, verwijdert alle leden ervan.<br>Alle posts van de groep worden verwijderd.<br> Dit is onomkeerbaar.]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-group-message-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Groep verwijderen, verwijdert alle leden ervan.<br>Alle posts van de groep worden verwijderd.<br> Dit is onomkeerbaar.]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-group-prompt">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u deze groep echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-group-prompt-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u deze groep echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-inst-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Instituut verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-member">
+    <tuv xml:lang="nl"><seg><![CDATA[{MEMBER_NAME} verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-msg-confirm-assignment-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opgelet! Wilt u deze boodschap zeker verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-msg-confirm-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u deze boodschap echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-msg-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder bericht]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-post">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder post]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-reply">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder antwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-resource-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder bron]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-resources-prompt-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u de gekozen bronnen echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-school-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder school -]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-school-msg">
+    <tuv xml:lang="nl"><seg><![CDATA[Een verwijderde school verdwijnt ook uit het district. Dit kan niet ongedaan gemaakt worden.]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-school-question">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u deze school echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-small-group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder kleine groep]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-submission-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bijdrage verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-submission-prompt">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u deze bijdrage echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-tag-confirm">
+    <tuv xml:lang="nl"><seg><![CDATA[Weet je zeker dat je dit label wilt verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-this-event-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-this-task-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder label]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-topic-confirm">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u dit thema echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-topic-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Thema verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="delete-user-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruiker verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="deleteQuizConf-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u deze toets echt verwijderen?]]></seg></tuv>
+  </tu>
+  <tu tuid="delete_group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder groep]]></seg></tuv>
+  </tu>
+  <tu tuid="delete_quiz-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijder toets]]></seg></tuv>
+  </tu>
+  <tu tuid="delete_quiz_post-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Quiz post verwijderen]]></seg></tuv>
+  </tu>
+  <tu tuid="deleted-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwijderd]]></seg></tuv>
+  </tu>
+  <tu tuid="deny">
+    <tuv xml:lang="nl"><seg><![CDATA[Weigeren]]></seg></tuv>
+  </tu>
+  <tu tuid="deny-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Weigeren]]></seg></tuv>
+  </tu>
+  <tu tuid="deny-publisher-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Uitgever weigeren]]></seg></tuv>
+  </tu>
+  <tu tuid="desc-to-communities">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind met andere docenten, wissel ideeën uit en raad content aan <br/> die u snel via de bibliotheek kunt delen met uw studenten.]]></seg></tuv>
+  </tu>
+  <tu tuid="desc-to-communities-publishers">
+    <tuv xml:lang="nl"><seg><![CDATA[Vind digitale inhoud die u kunt gebruiken in uw klas. Deel je ideeën en bespreek uw ervaringen in onze Gemeenschappen]]></seg></tuv>
+  </tu>
+  <tu tuid="desc_lbl-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Beschrijving (max. 200 tekens)]]></seg></tuv>
+  </tu>
+  <tu tuid="describe-the-event-js">
+    <tuv xml:lang="nl"><seg><![CDATA[beschrijf de gebeurtenis]]></seg></tuv>
+  </tu>
+  <tu tuid="describe-your-group">
+    <tuv xml:lang="nl"><seg><![CDATA[Beschrijving groep]]></seg></tuv>
+  </tu>
+  <tu tuid="description">
+    <tuv xml:lang="nl"><seg><![CDATA[Beschrijving]]></seg></tuv>
+  </tu>
+  <tu tuid="description-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo zorgt voor een veilige en gemakkelijke manier om samen te werken, inhoud te delen, huiswerk te maken en om resultaten te bekijken. We willen opvoeders ondersteunen om sociale media in elke klas en voor elke student te gebruiken.]]></seg></tuv>
+  </tu>
+  <tu tuid="description-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Beschrijving]]></seg></tuv>
+  </tu>
+  <tu tuid="description-of-webpage-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Korte beschrijving van de website.]]></seg></tuv>
+  </tu>
+  <tu tuid="description-required-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een korte beschrijving is verplicht.]]></seg></tuv>
+  </tu>
+  <tu tuid="developer">
+    <tuv xml:lang="nl"><seg><![CDATA[Ontwikkelaar]]></seg></tuv>
+  </tu>
+  <tu tuid="developers">
+    <tuv xml:lang="nl"><seg><![CDATA[Ontwikkelaars]]></seg></tuv>
+  </tu>
+  <tu tuid="developers-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Ontwikkelaars]]></seg></tuv>
+  </tu>
+  <tu tuid="did-you-mean-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Dit zijn enkele scholen op Edmodo die gelijkenissen hebben met de school die u voorstelde:]]></seg></tuv>
+  </tu>
+  <tu tuid="did-you-mean-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Bedoelde u één van deze scholen?]]></seg></tuv>
+  </tu>
+  <tu tuid="different-district">
+    <tuv xml:lang="nl"><seg><![CDATA[Selecteer een ander district]]></seg></tuv>
+  </tu>
+  <tu tuid="different-school">
+    <tuv xml:lang="nl"><seg><![CDATA[Selecteer een andere school]]></seg></tuv>
+  </tu>
+  <tu tuid="digital-publisher">
+    <tuv xml:lang="nl"><seg><![CDATA[Bent u een digitale uitgever? <a href="/publishers-requests">Krijg toegang</a> to de informatie die u nodig heeft voor het promoten van uw]]></seg></tuv>
+  </tu>
+  <tu tuid="direct">
+    <tuv xml:lang="nl"><seg><![CDATA[Rechtstreeks]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-alert">
+    <tuv xml:lang="nl"><seg><![CDATA[ Waarschuwing]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-assignment">
+    <tuv xml:lang="nl"><seg><![CDATA[ Opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-comment">
+    <tuv xml:lang="nl"><seg><![CDATA[Post]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-event">
+    <tuv xml:lang="nl"><seg><![CDATA[n Gebeurtenis]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-file">
+    <tuv xml:lang="nl"><seg><![CDATA[Bestand]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-grade">
+    <tuv xml:lang="nl"><seg><![CDATA[ Resultaat]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-image">
+    <tuv xml:lang="nl"><seg><![CDATA[n Afbeelding]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Rechtstreeks]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-post">
+    <tuv xml:lang="nl"><seg><![CDATA[Rechtstreeks post]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-post-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Nieuwe rechtstreeks post]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-posts">
+    <tuv xml:lang="nl"><seg><![CDATA[Nieuwe rechtstreekse posts]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-posts-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Nieuwe directe posts]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-quiz">
+    <tuv xml:lang="nl"><seg><![CDATA[Quiz]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-student-submission-label">
+    <tuv xml:lang="nl"><seg><![CDATA[Bijdrage van:%1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-system">
+    <tuv xml:lang="nl"><seg><![CDATA[Systeemboodschap]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-text">
+    <tuv xml:lang="nl"><seg><![CDATA[Bericht]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-users">
+    <tuv xml:lang="nl"><seg><![CDATA[Directe gebruikers]]></seg></tuv>
+  </tu>
+  <tu tuid="direct-video">
+    <tuv xml:lang="nl"><seg><![CDATA[Video]]></seg></tuv>
+  </tu>
+  <tu tuid="disable-inst-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Subdomein uitschakelen]]></seg></tuv>
+  </tu>
+  <tu tuid="disable-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Uitschakelen]]></seg></tuv>
+  </tu>
+  <tu tuid="discover-communities">
+    <tuv xml:lang="nl"><seg><![CDATA[<a id="discover-communities-link">Ontdek de middelen van onze gemeenschappen</a>]]></seg></tuv>
+  </tu>
+  <tu tuid="discover-communities-2">
+    <tuv xml:lang="nl"><seg><![CDATA[<a id="discover-communities-link">Ontdek de middelen van onze gemeenschappen</a>]]></seg></tuv>
+  </tu>
+  <tu tuid="district-analytics-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[District analytics]]></seg></tuv>
+  </tu>
+  <tu tuid="district-features-sign-up">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanmelden voor districtfuncties]]></seg></tuv>
+  </tu>
+  <tu tuid="district-guide">
+    <tuv xml:lang="nl"><seg><![CDATA[Handleiding voor scholen en districten]]></seg></tuv>
+  </tu>
+  <tu tuid="district-left-posts">
+    <tuv xml:lang="nl"><seg><![CDATA[Berichten]]></seg></tuv>
+  </tu>
+  <tu tuid="district-name">
+    <tuv xml:lang="nl"><seg><![CDATA[Districtnaam]]></seg></tuv>
+  </tu>
+  <tu tuid="district-office">
+    <tuv xml:lang="nl"><seg><![CDATA[Districtbureau]]></seg></tuv>
+  </tu>
+  <tu tuid="district-photo">
+    <tuv xml:lang="nl"><seg><![CDATA[Foto district]]></seg></tuv>
+  </tu>
+  <tu tuid="district-possibly-institutionalized">
+    <tuv xml:lang="nl"><seg><![CDATA[Iemand van uw district heeft al een subdomein aangevraagd, stuur ons een mail %1$s voor meer informatie.]]></seg></tuv>
+  </tu>
+  <tu tuid="district-schools">
+    <tuv xml:lang="nl"><seg><![CDATA[Scholen]]></seg></tuv>
+  </tu>
+  <tu tuid="district-schools-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Districtscholen]]></seg></tuv>
+  </tu>
+  <tu tuid="district-settings-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Districtinstellingen]]></seg></tuv>
+  </tu>
+  <tu tuid="district-subdomain">
+    <tuv xml:lang="nl"><seg><![CDATA[Subdomein district]]></seg></tuv>
+  </tu>
+  <tu tuid="district-summary">
+    <tuv xml:lang="nl"><seg><![CDATA[schoolaccounts]]></seg></tuv>
+  </tu>
+  <tu tuid="district-website">
+    <tuv xml:lang="nl"><seg><![CDATA[Districtwebsite]]></seg></tuv>
+  </tu>
+  <tu tuid="district-website-url">
+    <tuv xml:lang="nl"><seg><![CDATA[Url van de disctrictwebsite]]></seg></tuv>
+  </tu>
+  <tu tuid="dnd_hint-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Hint: hersleep items om de volgorde te wijzigen.]]></seg></tuv>
+  </tu>
+  <tu tuid="doc-viewer">
+    <tuv xml:lang="nl"><seg><![CDATA[Documentviewer]]></seg></tuv>
+  </tu>
+  <tu tuid="docsCollections-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Docs verzameling]]></seg></tuv>
+  </tu>
+  <tu tuid="doesnt-match">
+    <tuv xml:lang="nl"><seg><![CDATA[Wachtwoorden zijn verschillend]]></seg></tuv>
+  </tu>
+  <tu tuid="done">
+    <tuv xml:lang="nl"><seg><![CDATA[Klaar]]></seg></tuv>
+  </tu>
+  <tu tuid="done-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Klaar]]></seg></tuv>
+  </tu>
+  <tu tuid="done-list">
+    <tuv xml:lang="nl"><seg><![CDATA[Bekijk dit als jouw "klaar" lijst]]></seg></tuv>
+  </tu>
+  <tu tuid="dont-store">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo zal uw wachtwoord niet opslaan]]></seg></tuv>
+  </tu>
+  <tu tuid="dont-worry">
+    <tuv xml:lang="nl"><seg><![CDATA[Geen probleem, u kunt dit in de volgende stap vinden.]]></seg></tuv>
+  </tu>
+  <tu tuid="downgrade-to-school-admin">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u {USER} de privileges van schooladministrator voor {INSTITUTION} afnemen?]]></seg></tuv>
+  </tu>
+  <tu tuid="downgrade-to-teacher">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u {USER} de privileges van gewone docent geven?]]></seg></tuv>
+  </tu>
+  <tu tuid="download-all">
+    <tuv xml:lang="nl"><seg><![CDATA[Download alles]]></seg></tuv>
+  </tu>
+  <tu tuid="download-mp3">
+    <tuv xml:lang="nl"><seg><![CDATA[Download mp3]]></seg></tuv>
+  </tu>
+  <tu tuid="drag_members_blurb">
+    <tuv xml:lang="nl"><seg><![CDATA[Sleep gebruikers van boven naar de kleine groep]]></seg></tuv>
+  </tu>
+  <tu tuid="drivers-education">
+    <tuv xml:lang="nl"><seg><![CDATA[Rijschool]]></seg></tuv>
+  </tu>
+  <tu tuid="drop-down-no-groups">
+    <tuv xml:lang="nl"><seg><![CDATA[Geen groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="due">
+    <tuv xml:lang="nl"><seg><![CDATA[Klaar]]></seg></tuv>
+  </tu>
+  <tu tuid="due-date">
+    <tuv xml:lang="nl"><seg><![CDATA[Klaar voor: %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="due-date-caps-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Klaar Voor]]></seg></tuv>
+  </tu>
+  <tu tuid="due-date-err-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Kies een einddatum]]></seg></tuv>
+  </tu>
+  <tu tuid="due-date-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Klaar voor]]></seg></tuv>
+  </tu>
+  <tu tuid="due-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Klaar voor]]></seg></tuv>
+  </tu>
+  <tu tuid="due_assignment-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Volgende opdrachten klaar]]></seg></tuv>
+  </tu>
+  <tu tuid="due_date">
+    <tuv xml:lang="nl"><seg><![CDATA[Klaar: {1}]]></seg></tuv>
+  </tu>
+  <tu tuid="dup_fav_folder_err-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een map kan niet 'Favorieten' heten.]]></seg></tuv>
+  </tu>
+  <tu tuid="duplicate-error">
+    <tuv xml:lang="nl"><seg><![CDATA[Er is al een ander thema met deze naam]]></seg></tuv>
+  </tu>
+  <tu tuid="duplicate-names-js">
+    <tuv xml:lang="nl"><seg><![CDATA[U kunt twee mappen niet dezelfde naam geven.]]></seg></tuv>
+  </tu>
+  <tu tuid="each-assignment">
+    <tuv xml:lang="nl"><seg><![CDATA[Elke opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="earned">
+    <tuv xml:lang="nl"><seg><![CDATA[Verdiend]]></seg></tuv>
+  </tu>
+  <tu tuid="economics">
+    <tuv xml:lang="nl"><seg><![CDATA[Economie]]></seg></tuv>
+  </tu>
+  <tu tuid="edit">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewerk]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-about">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewerk Over]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-badge">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge aanpassen]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-badge-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Badge aanpassen]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-grade-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Cijfer bijwerken]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewerk]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-post">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewerk post]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-profile">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewerk mijn profiel]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-relation-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Relatie bewerken]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-reply">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewerk antwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-tag-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewerk label]]></seg></tuv>
+  </tu>
+  <tu tuid="edit-topic-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Thema bewerken]]></seg></tuv>
+  </tu>
+  <tu tuid="editEvent-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebeurtenis bewerken]]></seg></tuv>
+  </tu>
+  <tu tuid="editName-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewerk naam]]></seg></tuv>
+  </tu>
+  <tu tuid="editTask-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Opdracht bewerken]]></seg></tuv>
+  </tu>
+  <tu tuid="edit_this_quiz-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewerk de quiz]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-apps-button">
+    <tuv xml:lang="nl"><seg><![CDATA[Meld Je Aan!]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-apps-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Vindt nieuwe en spannende manieren om apps<br />te gebruiken als allerdaagse tools in je les met dit 60 minuten durende instructie videopakket, ontworpen voor Edmodo docenten.]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-apps-picked">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo Apps heeft er speciaal voor jou uitgepikt...]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-communities">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo gemeenschappen]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-community">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-connects">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo helpt studenten verbinden met de mensen en de bronnen die nodig zijn om zich volledig te ontplooien.]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-description">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo is het grootste toonaangevende sociale leerplatform voor het secundair / voortgezet onderwijs.]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-faq">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo Veelgestelde vragen (faq)]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-features">
+    <tuv xml:lang="nl"><seg><![CDATA[Functies van Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-features-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Functies van Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-for">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo voor %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-password-reset">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo - wachtwoord reset]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-recommends">
+    <tuv xml:lang="nl"><seg><![CDATA[Om Edmodo te gebruiken, raden we één van de volgende browsers aan]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodo-training">
+    <tuv xml:lang="nl"><seg><![CDATA[Opleidingen Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodocon-attendee">
+    <tuv xml:lang="nl"><seg><![CDATA[Deelnemer EdmodoCon 2011]]></seg></tuv>
+  </tu>
+  <tu tuid="edmodocon-presenter">
+    <tuv xml:lang="nl"><seg><![CDATA[Spreker EdmodoCon 2011]]></seg></tuv>
+  </tu>
+  <tu tuid="email">
+    <tuv xml:lang="nl"><seg><![CDATA[E-mailadres]]></seg></tuv>
+  </tu>
+  <tu tuid="email-admin">
+    <tuv xml:lang="nl"><seg><![CDATA[E-mail %1$s voor een schoolcode]]></seg></tuv>
+  </tu>
+  <tu tuid="email-confirmation-msg-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een bevestigingsmail is gestuurd naar: %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="email-doesnt-exist">
+    <tuv xml:lang="nl"><seg><![CDATA[de e-mail bestaat niet]]></seg></tuv>
+  </tu>
+  <tu tuid="email-info">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef het e-mailadres van uw docentenaccount:]]></seg></tuv>
+  </tu>
+  <tu tuid="email-js">
+    <tuv xml:lang="nl"><seg><![CDATA[E-mailadres]]></seg></tuv>
+  </tu>
+  <tu tuid="email-not-confirmed">
+    <tuv xml:lang="nl"><seg><![CDATA[Je hebt niet bevestigd]]></seg></tuv>
+  </tu>
+  <tu tuid="email-not-exists">
+    <tuv xml:lang="nl"><seg><![CDATA[Geen gelijkende e-mail gevonden.]]></seg></tuv>
+  </tu>
+  <tu tuid="email-not-recognizable">
+    <tuv xml:lang="nl"><seg><![CDATA[Geen herkend e-mailadres]]></seg></tuv>
+  </tu>
+  <tu tuid="email-us">
+    <tuv xml:lang="nl"><seg><![CDATA[E-mail ons]]></seg></tuv>
+  </tu>
+  <tu tuid="email-us-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Voor specifieke vragen:]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-footer-f2">
+    <tuv xml:lang="nl"><seg><![CDATA[Vragen?]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-footer-f3">
+    <tuv xml:lang="nl"><seg><![CDATA[email ons:]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-footer-f4">
+    <tuv xml:lang="nl"><seg><![CDATA[Schijf uit]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-footer-f5">
+    <tuv xml:lang="nl"><seg><![CDATA[Privacybeleid]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-footer-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Waar leren plaatsvind]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-footer_e10-f1">
+    <tuv xml:lang="nl"><seg><![CDATA[Deze email is verzonden vanaf Edmoco Inc. 1200 Park Place, Suite 400, San Mateo, CA 94401]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-footer_e10-f2">
+    <tuv xml:lang="nl"><seg><![CDATA[Afmelden]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-footer_e10-f3">
+    <tuv xml:lang="nl"><seg><![CDATA[Bekijk Onze Voorwaaren]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-task">
+    <tuv xml:lang="nl"><seg><![CDATA[Taak:]]></seg></tuv>
+  </tu>
+  <tu tuid="emails-time">
+    <tuv xml:lang="nl"><seg><![CDATA[Tijd:]]></seg></tuv>
+  </tu>
+  <tu tuid="embed">
+    <tuv xml:lang="nl"><seg><![CDATA[Ingesloten]]></seg></tuv>
+  </tu>
+  <tu tuid="embeds">
+    <tuv xml:lang="nl"><seg><![CDATA[Ingevoegd]]></seg></tuv>
+  </tu>
+  <tu tuid="empFolderMsg-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Het toevoegen van bestanden en links aan deze folder vanaf jouw %1$s, %2$s of %3$s]]></seg></tuv>
+  </tu>
+  <tu tuid="empFolderMsgBP-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Het toevoegen van bestanden en links aan deze folder vanaf jouw %1$s of %2$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="empFolderMsgPub-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg bestanden en links van uw %1$s aan deze map toe]]></seg></tuv>
+  </tu>
+  <tu tuid="emp_added2lib-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg links en bestanden toe die u overal kunt raadplegen.]]></seg></tuv>
+  </tu>
+  <tu tuid="emp_backpack-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voeg links en bestanden toe die u overal kunt raadplegen.]]></seg></tuv>
+  </tu>
+  <tu tuid="emp_folder-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Er zijn momenteel geen bronnen in deze map.]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-assignment-error">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet een titel voor de opdracht selecteren]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-desc-error">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet een omschrijving geven]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-description-error">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet een beschrijving voor de opdracht geven]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-due-date-error">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet een datum kiezen]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-error">
+    <tuv xml:lang="nl"><seg><![CDATA[Typ een naam voor het thema]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-file-error">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet een bestand selecteren voor de upload!]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-link-error">
+    <tuv xml:lang="nl"><seg><![CDATA[De link is leeg!]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-msg-error">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw boodschap is leeg!]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-name">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef een naam a.u.b.]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-name-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef een naam a.u.b.]]></seg></tuv>
+  </tu>
+  <tu tuid="empty-response-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw antwoord is leeg]]></seg></tuv>
+  </tu>
+  <tu tuid="end_preview">
+    <tuv xml:lang="nl"><seg><![CDATA[Einde preview]]></seg></tuv>
+  </tu>
+  <tu tuid="engage">
+    <tuv xml:lang="nl"><seg><![CDATA[Motiveer]]></seg></tuv>
+  </tu>
+  <tu tuid="engage-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Tools die klaslokalen tot <br /> leven wekken.]]></seg></tuv>
+  </tu>
+  <tu tuid="engage-desc-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Krijg inzicht in hoe de gebruikers uw apps aanpassen aan de klaservaring]]></seg></tuv>
+  </tu>
+  <tu tuid="engage-long">
+    <tuv xml:lang="nl"><seg><![CDATA[Motiveer studenten]]></seg></tuv>
+  </tu>
+  <tu tuid="engage-long-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo werd ontwikkeld om studenten extra te motiveren in een omgeving die ze herkennen. Docenten kunnen op Edmodo klasdiscussies online verderzetten. Ze kunnen via enquêtes checken of de studenten alles begrijpen. Ze kunnen individuele badges (medailles) geven aan studenten die zich extra inzetten en goed gedragen.]]></seg></tuv>
+  </tu>
+  <tu tuid="engagement">
+    <tuv xml:lang="nl"><seg><![CDATA[Meet engagementen %1$s en medewerking]]></seg></tuv>
+  </tu>
+  <tu tuid="english">
+    <tuv xml:lang="nl"><seg><![CDATA[Engels]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-about-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Typ iets over uzelf...]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-account-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef account]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-as-guest">
+    <tuv xml:lang="nl"><seg><![CDATA[Bezoek als gast]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-assignment-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Titel opdracht]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-below">
+    <tuv xml:lang="nl"><seg><![CDATA[[onderaan ingeven]]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-description-here-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Vul de omschrijving hier in]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-donorschoose">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef je 'DonorChoose' docenten ID, onderaan:]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-folder-name">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef een mapnaam a.u.b.]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-folder-name-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Kies een naam voor de map]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-poll-question">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef uw pollvraag]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-possible-answers">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef de mogelijke antwoorden]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-ur-email">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef uw e-mailadres dan kunnen we u een nieuw wachtwoord sturen]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-url-js">
+    <tuv xml:lang="nl"><seg><![CDATA[http:// of <embed> code]]></seg></tuv>
+  </tu>
+  <tu tuid="enter-valid-ip">
+    <tuv xml:lang="nl"><seg><![CDATA[Vul een geldige IP (of range) in]]></seg></tuv>
+  </tu>
+  <tu tuid="enterDesc-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef hier uw beschrijving...]]></seg></tuv>
+  </tu>
+  <tu tuid="environmental-science">
+    <tuv xml:lang="nl"><seg><![CDATA[Natuurkunde]]></seg></tuv>
+  </tu>
+  <tu tuid="err_invalidQuiz">
+    <tuv xml:lang="nl"><seg><![CDATA[De quiz bevat fouten en kan niet toegewezen worden.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-1">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikersnaam bestaat niet]]></seg></tuv>
+  </tu>
+  <tu tuid="error-1-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikersnaam niet gevonden]]></seg></tuv>
+  </tu>
+  <tu tuid="error-3">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruikersnaam of wachtwoord is niet correct]]></seg></tuv>
+  </tu>
+  <tu tuid="error-3-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Foute gebruikersnaam of wachtwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="error-418-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Oeps, dat werkte niet. Probeer het over of <a href="#" onclick="$('#forgot-btn').click(); return false;">stel wachtwoord opnieuw in</a>.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-5-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Foute schoolcode]]></seg></tuv>
+  </tu>
+  <tu tuid="error-6-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Meldt u aan via het subdomein van uw school/district]]></seg></tuv>
+  </tu>
+  <tu tuid="error-7-js">
+    <tuv xml:lang="nl"><seg><![CDATA[<b>Cookies Verplicht</b> - Uw browser accepteert geen cookies. Om verder te kunnen gaan, moet u dit veranderen in uw instellingen.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-8-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Foutieve groepscode]]></seg></tuv>
+  </tu>
+  <tu tuid="error-error">
+    <tuv xml:lang="nl"><seg><![CDATA[Pagina niet gevonden]]></seg></tuv>
+  </tu>
+  <tu tuid="error-error-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Pagina niet gevonden]]></seg></tuv>
+  </tu>
+  <tu tuid="error-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Fout]]></seg></tuv>
+  </tu>
+  <tu tuid="error-no-description-js">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet een omschrijving ingeven]]></seg></tuv>
+  </tu>
+  <tu tuid="error-no-links-and-files-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Links en bestanden kunnen niet tegelijk verzonden worden.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-no-receivers-js">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet personen of groepen selecteren om deze bronnen te ontvangen.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-no-resources-selected-js">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet bronnen geselecteerd hebben.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-occurred">
+    <tuv xml:lang="nl"><seg><![CDATA[Er deed zich een fout voor.]]></seg></tuv>
+  </tu>
+  <tu tuid="error-on-disavow">
+    <tuv xml:lang="nl"><seg><![CDATA[Er deed zich een fout voor]]></seg></tuv>
+  </tu>
+  <tu tuid="error-sending-multi-links-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Er kan maar één link tegelijk verzonden worden.]]></seg></tuv>
+  </tu>
+  <tu tuid="error1">
+    <tuv xml:lang="nl"><seg><![CDATA[Verplicht veld is leeg.]]></seg></tuv>
+  </tu>
+  <tu tuid="error_msg_0-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een onbekende fout heeft zich voorgedaan. Probeer later opnieuw.]]></seg></tuv>
+  </tu>
+  <tu tuid="error_msg_10">
+    <tuv xml:lang="nl"><seg><![CDATA[U heeft geen rechten om deze resultaten te bekijken]]></seg></tuv>
+  </tu>
+  <tu tuid="esl">
+    <tuv xml:lang="nl"><seg><![CDATA[Engels als tweede taal]]></seg></tuv>
+  </tu>
+  <tu tuid="european-history">
+    <tuv xml:lang="nl"><seg><![CDATA[Europese geschiedenis]]></seg></tuv>
+  </tu>
+  <tu tuid="event">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebeurtenis]]></seg></tuv>
+  </tu>
+  <tu tuid="event-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Volgende gebeurtenis]]></seg></tuv>
+  </tu>
+  <tu tuid="events">
+    <tuv xml:lang="nl"><seg><![CDATA[Aankomende gebeurtenissen]]></seg></tuv>
+  </tu>
+  <tu tuid="events-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Volgende gebeurtenissen]]></seg></tuv>
+  </tu>
+  <tu tuid="events2">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebeurtenissen]]></seg></tuv>
+  </tu>
+  <tu tuid="eventtab-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebeurtenis]]></seg></tuv>
+  </tu>
+  <tu tuid="everyone">
+    <tuv xml:lang="nl"><seg><![CDATA[Iedereen]]></seg></tuv>
+  </tu>
+  <tu tuid="everyone-connections">
+    <tuv xml:lang="nl"><seg><![CDATA[Iedereen (alle groepen en connecties)]]></seg></tuv>
+  </tu>
+  <tu tuid="everything">
+    <tuv xml:lang="nl"><seg><![CDATA[Alles]]></seg></tuv>
+  </tu>
+  <tu tuid="everything-js">
+    <tuv xml:lang="nl"><seg><![CDATA[alles]]></seg></tuv>
+  </tu>
+  <tu tuid="everything-stream">
+    <tuv xml:lang="nl"><seg><![CDATA[Laatste posts]]></seg></tuv>
+  </tu>
+  <tu tuid="example">
+    <tuv xml:lang="nl"><seg><![CDATA[Creëer een Edmodo webadres voor uw school of district]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-14-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Er ging iets fout. Probeer opnieuw.]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-17-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Stel een vraag]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-26-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Er bestaat al een quiz met deze naam.]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-3-js">
+    <tuv xml:lang="nl"><seg><![CDATA[De quiz moest al een tijdje geleden klaar zijn.]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-30-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Deze toets is gesloten en kan niet worden afgenomen.]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-8-js">
+    <tuv xml:lang="nl"><seg><![CDATA[De quiz die u wil maken kan al verwijderd zijn.]]></seg></tuv>
+  </tu>
+  <tu tuid="exception-information">
+    <tuv xml:lang="nl"><seg><![CDATA[Uitzondering informatie]]></seg></tuv>
+  </tu>
+  <tu tuid="existing-edmodo-credentials">
+    <tuv xml:lang="nl"><seg><![CDATA[Ik heb al een Edmodo account]]></seg></tuv>
+  </tu>
+  <tu tuid="exists">
+    <tuv xml:lang="nl"><seg><![CDATA[bestaat al]]></seg></tuv>
+  </tu>
+  <tu tuid="expand-list-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verruim lijst]]></seg></tuv>
+  </tu>
+  <tu tuid="export">
+    <tuv xml:lang="nl"><seg><![CDATA[Exporteer (CSV)]]></seg></tuv>
+  </tu>
+  <tu tuid="export-codes">
+    <tuv xml:lang="nl"><seg><![CDATA[Schoolcodes exporteren]]></seg></tuv>
+  </tu>
+  <tu tuid="export-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Exporteren]]></seg></tuv>
+  </tu>
+  <tu tuid="export-parent-codes">
+    <tuv xml:lang="nl"><seg><![CDATA[Oudercodes exporteren]]></seg></tuv>
+  </tu>
+  <tu tuid="facilitate">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbind docenten, studenten en ouders op een veilige manier in real time]]></seg></tuv>
+  </tu>
+  <tu tuid="failed-to-connect">
+    <tuv xml:lang="nl"><seg><![CDATA[Verbinden mislukt.]]></seg></tuv>
+  </tu>
+  <tu tuid="failed-to-launch-app">
+    <tuv xml:lang="nl"><seg><![CDATA[Programma opstarten is mislukt]]></seg></tuv>
+  </tu>
+  <tu tuid="failing">
+    <tuv xml:lang="nl"><seg><![CDATA[Spelfouten]]></seg></tuv>
+  </tu>
+  <tu tuid="false-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Fout]]></seg></tuv>
+  </tu>
+  <tu tuid="faq">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo faq]]></seg></tuv>
+  </tu>
+  <tu tuid="favorite-quote">
+    <tuv xml:lang="nl"><seg><![CDATA[Favoriete citaat]]></seg></tuv>
+  </tu>
+  <tu tuid="favorites">
+    <tuv xml:lang="nl"><seg><![CDATA[Favorieten]]></seg></tuv>
+  </tu>
+  <tu tuid="favorites-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Favorieten]]></seg></tuv>
+  </tu>
+  <tu tuid="favoritestooltip-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Je favorieten en de inhoud daarvan zijn openbaar en zijn te zien op je profiel.]]></seg></tuv>
+  </tu>
+  <tu tuid="favs_info-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw favorieten staan op uw profiel, zo kunt u uw beste bronnen delen met uw collega's.]]></seg></tuv>
+  </tu>
+  <tu tuid="fb-request-sent">
+    <tuv xml:lang="nl"><seg><![CDATA[Verzoek verzonden]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-1">
+    <tuv xml:lang="nl"><seg><![CDATA[Moedig samenwerking aan! Het systeem van boodschappen tussen studenten en docenten overbrengen in heel eenvoudig in Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-10">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo geeft docenten de mogelijkheid om bepaalde posts voor het hele internet openbaar te maken.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-11">
+    <tuv xml:lang="nl"><seg><![CDATA[Abonneer uw groepen op educatieve RSS-feeds en bekijk deze feeds rechtstreeks tussen alle andere berichten.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-12">
+    <tuv xml:lang="nl"><seg><![CDATA[Met de Doc Viewer bekijkt en print u documenten rechtstreeks vanuit de browser. Downloaden is niet nodig.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepscodes zorgen niet alleen voor privacy van persoonsgegevens maar ook voor een veilige leeromgeving.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-3">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo bezorgt docenten een simpele manier om opdrachten, commentaar en resultaten te versturen.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-4">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewaar bestanden, lesvoorbereidingen, foto's en video's en deel ze met uw studenten of met andere docenten.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-5">
+    <tuv xml:lang="nl"><seg><![CDATA[Met de kalender is het eenvoudig om gebeurtenissen te delen en om deadlines van opdrachten te overzien]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-6">
+    <tuv xml:lang="nl"><seg><![CDATA[Krijg van geselecteerde berichten en antwoorden een melding via Twitter of sms.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-7">
+    <tuv xml:lang="nl"><seg><![CDATA[Mobiele toegang houdt u verbonden met groepsactiviteiten. U kunt ook eenvoudig posten of posts beantwoorden.]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-8">
+    <tuv xml:lang="nl"><seg><![CDATA[Deel links naar websites of kopieer en plak snel en eenvoudig de "insluitcodes".]]></seg></tuv>
+  </tu>
+  <tu tuid="feature-description-9">
+    <tuv xml:lang="nl"><seg><![CDATA[Met polls kunt u in uw Edmodogroepen naar snelle feedback van studenten vragen.]]></seg></tuv>
+  </tu>
+  <tu tuid="featured-developers">
+    <tuv xml:lang="nl"><seg><![CDATA[Ontwikkelaars in de spotlights]]></seg></tuv>
+  </tu>
+  <tu tuid="featured-developers-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Leer hoe andere ontwikkelaars onze eenvoudige API gebruiken]]></seg></tuv>
+  </tu>
+  <tu tuid="featured-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanbevolen]]></seg></tuv>
+  </tu>
+  <tu tuid="features">
+    <tuv xml:lang="nl"><seg><![CDATA[Speciale apps]]></seg></tuv>
+  </tu>
+  <tu tuid="features-all-initials">
+    <tuv xml:lang="nl"><seg><![CDATA[Toepassingen]]></seg></tuv>
+  </tu>
+  <tu tuid="features-first-letter">
+    <tuv xml:lang="nl"><seg><![CDATA[Toepassingen]]></seg></tuv>
+  </tu>
+  <tu tuid="feb-js">
+    <tuv xml:lang="nl"><seg><![CDATA[feb]]></seg></tuv>
+  </tu>
+  <tu tuid="february-js">
+    <tuv xml:lang="nl"><seg><![CDATA[februari]]></seg></tuv>
+  </tu>
+  <tu tuid="feed-address-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Feed adres]]></seg></tuv>
+  </tu>
+  <tu tuid="feed-removed">
+    <tuv xml:lang="nl"><seg><![CDATA[Eén of meer van de feeds waarop u geregistreerd bent, bevat te veel fouten. Ze werden verwijderd.]]></seg></tuv>
+  </tu>
+  <tu tuid="feeds-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Abonneer op feeds]]></seg></tuv>
+  </tu>
+  <tu tuid="file">
+    <tuv xml:lang="nl"><seg><![CDATA[Bestand]]></seg></tuv>
+  </tu>
+  <tu tuid="file-added-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bestand toegevoegd]]></seg></tuv>
+  </tu>
+  <tu tuid="file-desc-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Korte beschrijving van de bestanden]]></seg></tuv>
+  </tu>
+  <tu tuid="file-duplicated-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Dit bestand is al geselecteerd: $file]]></seg></tuv>
+  </tu>
+  <tu tuid="file-error">
+    <tuv xml:lang="nl"><seg><![CDATA[Er heeft zich een fout voorgedaan tijdens het uploaden van je bestanden. Probeer het nog een keer.]]></seg></tuv>
+  </tu>
+  <tu tuid="file-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bestand]]></seg></tuv>
+  </tu>
+  <tu tuid="file-name">
+    <tuv xml:lang="nl"><seg><![CDATA[Analyses]]></seg></tuv>
+  </tu>
+  <tu tuid="file-selected-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Geselecteerde bestand: $file]]></seg></tuv>
+  </tu>
+  <tu tuid="file-too-big">
+    <tuv xml:lang="nl"><seg><![CDATA[De bestanden die u wil uploaden zijn te groot. (max. 10 MB)]]></seg></tuv>
+  </tu>
+  <tu tuid="file-too-big-generic">
+    <tuv xml:lang="nl"><seg><![CDATA[De bestanden die u wil uploaden zijn te groot.]]></seg></tuv>
+  </tu>
+  <tu tuid="file_preview-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Voorvertoning]]></seg></tuv>
+  </tu>
+  <tu tuid="filename">
+    <tuv xml:lang="nl"><seg><![CDATA[oudercodes]]></seg></tuv>
+  </tu>
+  <tu tuid="files">
+    <tuv xml:lang="nl"><seg><![CDATA[Bestanden]]></seg></tuv>
+  </tu>
+  <tu tuid="files-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Bewaar en deel bestanden]]></seg></tuv>
+  </tu>
+  <tu tuid="files-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bestanden]]></seg></tuv>
+  </tu>
+  <tu tuid="fill-form">
+    <tuv xml:lang="nl"><seg><![CDATA[Vul het onderstaande formulier in]]></seg></tuv>
+  </tu>
+  <tu tuid="fill-out">
+    <tuv xml:lang="nl"><seg><![CDATA[Vul of verbeter alle velden.]]></seg></tuv>
+  </tu>
+  <tu tuid="fill_blank_blurb_1-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gebruik %1$s'_' een laag streepje%2$s om te tonen waar u een opening wil laten in de tekst.]]></seg></tuv>
+  </tu>
+  <tu tuid="fill_blank_blurb_2">
+    <tuv xml:lang="nl"><seg><![CDATA[Deelnemers aan de quiz moeten antwoorden in de juiste volgorde om correct te antwoorden.]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-by">
+    <tuv xml:lang="nl"><seg><![CDATA[Filter met]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-by-group">
+    <tuv xml:lang="nl"><seg><![CDATA[Sorteer op groep]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-by-type-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Sorteren op type]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-connections">
+    <tuv xml:lang="nl"><seg><![CDATA[Connecties]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-direct">
+    <tuv xml:lang="nl"><seg><![CDATA[Rechtstreeks]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-posts">
+    <tuv xml:lang="nl"><seg><![CDATA[Filter berichten op]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-posts-by">
+    <tuv xml:lang="nl"><seg><![CDATA[Filter posts met]]></seg></tuv>
+  </tu>
+  <tu tuid="filter-posts-by-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Filter posts met]]></seg></tuv>
+  </tu>
+  <tu tuid="find-content">
+    <tuv xml:lang="nl"><seg><![CDATA[Zoek Inhoud]]></seg></tuv>
+  </tu>
+  <tu tuid="find-more-in-store">
+    <tuv xml:lang="nl"><seg><![CDATA[Vind meer in de Winkel]]></seg></tuv>
+  </tu>
+  <tu tuid="find-more-resources">
+    <tuv xml:lang="nl"><seg><![CDATA[Vind meer bronnen in onze]]></seg></tuv>
+  </tu>
+  <tu tuid="find-new-connections-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Vind nieuwe connecties]]></seg></tuv>
+  </tu>
+  <tu tuid="find-school">
+    <tuv xml:lang="nl"><seg><![CDATA[Zoek je school]]></seg></tuv>
+  </tu>
+  <tu tuid="find-whos-at-your-school">
+    <tuv xml:lang="nl"><seg><![CDATA[Wie van uw school zit ook op Edmodo?]]></seg></tuv>
+  </tu>
+  <tu tuid="find-your-school-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Vind je school]]></seg></tuv>
+  </tu>
+  <tu tuid="firefox-later">
+    <tuv xml:lang="nl"><seg><![CDATA[Firefox 2 of hoger]]></seg></tuv>
+  </tu>
+  <tu tuid="first">
+    <tuv xml:lang="nl"><seg><![CDATA[eerste]]></seg></tuv>
+  </tu>
+  <tu tuid="first-name">
+    <tuv xml:lang="nl"><seg><![CDATA[Voornaam]]></seg></tuv>
+  </tu>
+  <tu tuid="first-school-user">
+    <tuv xml:lang="nl"><seg><![CDATA[Eerste Edmodogebruiker van deze school]]></seg></tuv>
+  </tu>
+  <tu tuid="fix_quiz_error-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Repareer de fouten in de toets om hem toe te kunnen wijzen]]></seg></tuv>
+  </tu>
+  <tu tuid="flag-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Markeren]]></seg></tuv>
+  </tu>
+  <tu tuid="flag-user">
+    <tuv xml:lang="nl"><seg><![CDATA[Markeer gebruiker]]></seg></tuv>
+  </tu>
+  <tu tuid="flag-user-confirm-msg-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Bedankt om dit docentenaccount te markeren. We kijken de geldigheid ervan na. Daarna zullen we de gepaste maatregelen nemen.]]></seg></tuv>
+  </tu>
+  <tu tuid="flag-user-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Rapporteer docentenaccount]]></seg></tuv>
+  </tu>
+  <tu tuid="flagged">
+    <tuv xml:lang="nl"><seg><![CDATA[Gemarkeerd]]></seg></tuv>
+  </tu>
+  <tu tuid="flagging-instructions-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Wilt u dit docentenaccount  echt rapporteren?]]></seg></tuv>
+  </tu>
+  <tu tuid="focus-on-post-input">
+    <tuv xml:lang="nl"><seg><![CDATA[Focus op de post input]]></seg></tuv>
+  </tu>
+  <tu tuid="folder-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Map]]></seg></tuv>
+  </tu>
+  <tu tuid="folder-name-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Naam van de map]]></seg></tuv>
+  </tu>
+  <tu tuid="folder-options-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Map Opties]]></seg></tuv>
+  </tu>
+  <tu tuid="folder-settings-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Mapinstellingen]]></seg></tuv>
+  </tu>
+  <tu tuid="folderUpdated-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Map is up-to-date]]></seg></tuv>
+  </tu>
+  <tu tuid="folder_sharing-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Map delen]]></seg></tuv>
+  </tu>
+  <tu tuid="folders-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Mappen]]></seg></tuv>
+  </tu>
+  <tu tuid="follow">
+    <tuv xml:lang="nl"><seg><![CDATA[Browse]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-a">
+    <tuv xml:lang="nl"><seg><![CDATA[Volg een]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Volg]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Volg dit onderwerp]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-this-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Volg dit onderwerp]]></seg></tuv>
+  </tu>
+  <tu tuid="follow-this-topic">
+    <tuv xml:lang="nl"><seg><![CDATA[Volg dit Onderwerp]]></seg></tuv>
+  </tu>
+  <tu tuid="followers">
+    <tuv xml:lang="nl"><seg><![CDATA[Volgers]]></seg></tuv>
+  </tu>
+  <tu tuid="followers-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Volgers]]></seg></tuv>
+  </tu>
+  <tu tuid="following">
+    <tuv xml:lang="nl"><seg><![CDATA[Volgen]]></seg></tuv>
+  </tu>
+  <tu tuid="following-community">
+    <tuv xml:lang="nl"><seg><![CDATA[1% volgend]]></seg></tuv>
+  </tu>
+  <tu tuid="following-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Volgen]]></seg></tuv>
+  </tu>
+  <tu tuid="for-support-requests">
+    <tuv xml:lang="nl"><seg><![CDATA[Voor vragen, verzoeken en opmerkingen kunt u posten in onze support gemeenschap of stuur ons een e-mail:%1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="for-teachers-only">
+    <tuv xml:lang="nl"><seg><![CDATA[Deze mogelijkheid is alleen mogelijk voor docenten.]]></seg></tuv>
+  </tu>
+  <tu tuid="forget-password">
+    <tuv xml:lang="nl"><seg><![CDATA[Wachtwoord vergeten?]]></seg></tuv>
+  </tu>
+  <tu tuid="forgot-password">
+    <tuv xml:lang="nl"><seg><![CDATA[Wachtwoord vergeten?]]></seg></tuv>
+  </tu>
+  <tu tuid="form-subtext">
+    <tuv xml:lang="nl"><seg><![CDATA[Schrijf uw hier in om de naam van uw school of district aan een Edmodo webadres toe te voegen.]]></seg></tuv>
+  </tu>
+  <tu tuid="form-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Pas Edmodo aan voor uw school of disctrict]]></seg></tuv>
+  </tu>
+  <tu tuid="forward-ips-to-subdomain">
+    <tuv xml:lang="nl"><seg><![CDATA[Forward IP's naar subdomein]]></seg></tuv>
+  </tu>
+  <tu tuid="found-no-similar-schools">
+    <tuv xml:lang="nl"><seg><![CDATA[We hebben geen school gevonden die lijkt op degene die jij hebt gegeven.]]></seg></tuv>
+  </tu>
+  <tu tuid="found-similar-school">
+    <tuv xml:lang="nl"><seg><![CDATA[We vonden een gelijkaardige school.]]></seg></tuv>
+  </tu>
+  <tu tuid="found-similar-schools">
+    <tuv xml:lang="nl"><seg><![CDATA[We vonden een gelijkaardige school.]]></seg></tuv>
+  </tu>
+  <tu tuid="free-and-safe">
+    <tuv xml:lang="nl"><seg><![CDATA[Een gratis en een veilige manier om studenten en docenten met elkaar te verbinden en te<br /> laten samenwerken.]]></seg></tuv>
+  </tu>
+  <tu tuid="free-communication">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo biedt gratis communicatie voor docenten, studenten en beheerders op een veilig sociale netwerk.]]></seg></tuv>
+  </tu>
+  <tu tuid="free-feautures-explanation">
+    <tuv xml:lang="nl"><seg><![CDATA[Er zijn nu gratis functies voor scholen en districten voor K-12, openbare, nonprofit, privé- en charterscholen in <br/> de VS, Australië, VK of Canada. Voor meer vragen kunt u ons contacteren %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="french">
+    <tuv xml:lang="nl"><seg><![CDATA[Frans]]></seg></tuv>
+  </tu>
+  <tu tuid="frequently-asked-questions">
+    <tuv xml:lang="nl"><seg><![CDATA[Veel Gestelde Vragen]]></seg></tuv>
+  </tu>
+  <tu tuid="fri-js">
+    <tuv xml:lang="nl"><seg><![CDATA[vr]]></seg></tuv>
+  </tu>
+  <tu tuid="friday-js">
+    <tuv xml:lang="nl"><seg><![CDATA[vrijdag]]></seg></tuv>
+  </tu>
+  <tu tuid="friendly-list-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Printvriendelijke ledenlijst]]></seg></tuv>
+  </tu>
+  <tu tuid="from">
+    <tuv xml:lang="nl"><seg><![CDATA[van]]></seg></tuv>
+  </tu>
+  <tu tuid="from-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Van:]]></seg></tuv>
+  </tu>
+  <tu tuid="full-site">
+    <tuv xml:lang="nl"><seg><![CDATA[Volledige Site]]></seg></tuv>
+  </tu>
+  <tu tuid="funded">
+    <tuv xml:lang="nl"><seg><![CDATA[gefinancierd]]></seg></tuv>
+  </tu>
+  <tu tuid="further-questions">
+    <tuv xml:lang="nl"><seg><![CDATA[Vragen? Aarzel niet om ons te contacteren]]></seg></tuv>
+  </tu>
+  <tu tuid="gbook">
+    <tuv xml:lang="nl"><seg><![CDATA[terug naar puntenboek]]></seg></tuv>
+  </tu>
+  <tu tuid="gender">
+    <tuv xml:lang="nl"><seg><![CDATA[Geslacht]]></seg></tuv>
+  </tu>
+  <tu tuid="general-analytics">
+    <tuv xml:lang="nl"><seg><![CDATA[Algemene analyse]]></seg></tuv>
+  </tu>
+  <tu tuid="generate-page">
+    <tuv xml:lang="nl"><seg><![CDATA[Genereer pagina]]></seg></tuv>
+  </tu>
+  <tu tuid="geography">
+    <tuv xml:lang="nl"><seg><![CDATA[Aardrijkskunde]]></seg></tuv>
+  </tu>
+  <tu tuid="geometry">
+    <tuv xml:lang="nl"><seg><![CDATA[Meetkunde]]></seg></tuv>
+  </tu>
+  <tu tuid="german">
+    <tuv xml:lang="nl"><seg><![CDATA[Duits]]></seg></tuv>
+  </tu>
+  <tu tuid="get-chrome">
+    <tuv xml:lang="nl"><seg><![CDATA[Haal Google Chrome op]]></seg></tuv>
+  </tu>
+  <tu tuid="get-connected">
+    <tuv xml:lang="nl"><seg><![CDATA[Connecteer]]></seg></tuv>
+  </tu>
+  <tu tuid="get-connected-dot">
+    <tuv xml:lang="nl"><seg><![CDATA[Connecteer.]]></seg></tuv>
+  </tu>
+  <tu tuid="get-firefox">
+    <tuv xml:lang="nl"><seg><![CDATA[Haal Firefox 3.5 op]]></seg></tuv>
+  </tu>
+  <tu tuid="get-ie">
+    <tuv xml:lang="nl"><seg><![CDATA[Haal Internet Explorer 8 op]]></seg></tuv>
+  </tu>
+  <tu tuid="get-notified">
+    <tuv xml:lang="nl"><seg><![CDATA[Blijf op de hoogte met e-mail of sms]]></seg></tuv>
+  </tu>
+  <tu tuid="get-profile-url">
+    <tuv xml:lang="nl"><seg><![CDATA[Maak uw persoonlijke profiel url]]></seg></tuv>
+  </tu>
+  <tu tuid="get-safari">
+    <tuv xml:lang="nl"><seg><![CDATA[Haal Safari 4 op]]></seg></tuv>
+  </tu>
+  <tu tuid="get-started-footer">
+    <tuv xml:lang="nl"><seg><![CDATA[Ben klaar voor nog meer superpower? Bezoek ons %1$sHelpcentrum%2$s voor ondersteuning en %3$sklaslokaal uitbouwmiddelen%4$s.]]></seg></tuv>
+  </tu>
+  <tu tuid="get-started-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Aan de slag!]]></seg></tuv>
+  </tu>
+  <tu tuid="getstarted-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Aan de slag]]></seg></tuv>
+  </tu>
+  <tu tuid="give-code">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef deze toegangscode aan uw studenten.]]></seg></tuv>
+  </tu>
+  <tu tuid="go-back">
+    <tuv xml:lang="nl"><seg><![CDATA[Ga terug]]></seg></tuv>
+  </tu>
+  <tu tuid="go-back-2">
+    <tuv xml:lang="nl"><seg><![CDATA[Terug naar Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="go-back-2-main-group">
+    <tuv xml:lang="nl"><seg><![CDATA[Ga naar de hoofdgroep]]></seg></tuv>
+  </tu>
+  <tu tuid="go-back-home">
+    <tuv xml:lang="nl"><seg><![CDATA[Ga terug]]></seg></tuv>
+  </tu>
+  <tu tuid="go-graph">
+    <tuv xml:lang="nl"><seg><![CDATA[Data updaten]]></seg></tuv>
+  </tu>
+  <tu tuid="good-news">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmode is geïntegreerd met jouw schooldistrict om sneller toegang te krijgen tot jouw account.]]></seg></tuv>
+  </tu>
+  <tu tuid="goodguess">
+    <tuv xml:lang="nl"><seg><![CDATA[Goede poging]]></seg></tuv>
+  </tu>
+  <tu tuid="google-map-it">
+    <tuv xml:lang="nl"><seg><![CDATA[Google Map het!]]></seg></tuv>
+  </tu>
+  <tu tuid="google-sign-up-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Google aanmelden]]></seg></tuv>
+  </tu>
+  <tu tuid="googlefolders-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Google Mappen]]></seg></tuv>
+  </tu>
+  <tu tuid="government">
+    <tuv xml:lang="nl"><seg><![CDATA[Politiek]]></seg></tuv>
+  </tu>
+  <tu tuid="grade">
+    <tuv xml:lang="nl"><seg><![CDATA[Resultaten]]></seg></tuv>
+  </tu>
+  <tu tuid="grade-comments-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Resultaat opmerkingen...]]></seg></tuv>
+  </tu>
+  <tu tuid="grade-date-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Resultaat: {GRADE_DATE}]]></seg></tuv>
+  </tu>
+  <tu tuid="grade-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Resultaat]]></seg></tuv>
+  </tu>
+  <tu tuid="grade-notification">
+    <tuv xml:lang="nl"><seg><![CDATA[Resultaat notificatie]]></seg></tuv>
+  </tu>
+  <tu tuid="grade-posted">
+    <tuv xml:lang="nl"><seg><![CDATA[Het resultaat werd gepost]]></seg></tuv>
+  </tu>
+  <tu tuid="grade_quiz">
+    <tuv xml:lang="nl"><seg><![CDATA[Beoordeel quiz]]></seg></tuv>
+  </tu>
+  <tu tuid="gradebook">
+    <tuv xml:lang="nl"><seg><![CDATA[Puntenboek]]></seg></tuv>
+  </tu>
+  <tu tuid="gradebook-csv-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Puntenboek]]></seg></tuv>
+  </tu>
+  <tu tuid="gradebook-group-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Puntenboek]]></seg></tuv>
+  </tu>
+  <tu tuid="gradebook-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Puntenboek]]></seg></tuv>
+  </tu>
+  <tu tuid="graded">
+    <tuv xml:lang="nl"><seg><![CDATA[Beoordeeld]]></seg></tuv>
+  </tu>
+  <tu tuid="graded-by">
+    <tuv xml:lang="nl"><seg><![CDATA[Beoordeeld door]]></seg></tuv>
+  </tu>
+  <tu tuid="graded-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Beoordeeld]]></seg></tuv>
+  </tu>
+  <tu tuid="grades">
+    <tuv xml:lang="nl"><seg><![CDATA[Resultaten]]></seg></tuv>
+  </tu>
+  <tu tuid="grades-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Nieuwe resultaten]]></seg></tuv>
+  </tu>
+  <tu tuid="grades-success">
+    <tuv xml:lang="nl"><seg><![CDATA[U resultaten werden geupdate]]></seg></tuv>
+  </tu>
+  <tu tuid="grades2">
+    <tuv xml:lang="nl"><seg><![CDATA[Resultaten]]></seg></tuv>
+  </tu>
+  <tu tuid="group">
+    <tuv xml:lang="nl"><seg><![CDATA[Groep]]></seg></tuv>
+  </tu>
+  <tu tuid="group-code">
+    <tuv xml:lang="nl"><seg><![CDATA[De toegangscode voor de groep is: ]]></seg></tuv>
+  </tu>
+  <tu tuid="group-code-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepscode]]></seg></tuv>
+  </tu>
+  <tu tuid="group-code-rate-limited-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Oeps, dat werkte niet. Probeer het over of <a href="https://support.edmodo.com/home">contact support</a>.]]></seg></tuv>
+  </tu>
+  <tu tuid="group-code-trans">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepscode]]></seg></tuv>
+  </tu>
+  <tu tuid="group-created-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Groep succesvol aangemaakt]]></seg></tuv>
+  </tu>
+  <tu tuid="group-creation-step-one">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo Groepen helpen je om te verbinden en samen te werken met je leerlingen in een gesloten, veilige omgeving.]]></seg></tuv>
+  </tu>
+  <tu tuid="group-id">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepsidentificatie]]></seg></tuv>
+  </tu>
+  <tu tuid="group-id-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepsidentificatie (id)]]></seg></tuv>
+  </tu>
+  <tu tuid="group-join-approved">
+    <tuv xml:lang="nl"><seg><![CDATA[Goedgekeurde groepsaanvragen]]></seg></tuv>
+  </tu>
+  <tu tuid="group-join-approved-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toelatingsaanvraag voor groep aanvaard]]></seg></tuv>
+  </tu>
+  <tu tuid="group-join-request">
+    <tuv xml:lang="nl"><seg><![CDATA[Toelatingsaanvraag voor groep]]></seg></tuv>
+  </tu>
+  <tu tuid="group-join-request-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toelatingsaanvraag voor groep]]></seg></tuv>
+  </tu>
+  <tu tuid="group-join-requests">
+    <tuv xml:lang="nl"><seg><![CDATA[Aanmeldingsaanvragen voor groep]]></seg></tuv>
+  </tu>
+  <tu tuid="group-join-requests-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toelatingsaanvragen voor groep]]></seg></tuv>
+  </tu>
+  <tu tuid="group-joined-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Groep succesvol vervoegd]]></seg></tuv>
+  </tu>
+  <tu tuid="group-joins-approved">
+    <tuv xml:lang="nl"><seg><![CDATA[Toelatingsaanvragen voor groep aanvaard]]></seg></tuv>
+  </tu>
+  <tu tuid="group-joins-approved-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toelatingsaanvragen voor groep aanvaard]]></seg></tuv>
+  </tu>
+  <tu tuid="group-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Groep]]></seg></tuv>
+  </tu>
+  <tu tuid="group-name">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepsnaam]]></seg></tuv>
+  </tu>
+  <tu tuid="group-name-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepsnaam]]></seg></tuv>
+  </tu>
+  <tu tuid="group-name-repeated">
+    <tuv xml:lang="nl"><seg><![CDATA[U bent al lid van een groep met deze naam]]></seg></tuv>
+  </tu>
+  <tu tuid="group-name-repeated-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Je bent als een lid van deze groep]]></seg></tuv>
+  </tu>
+  <tu tuid="group-not-institutional-js">
+    <tuv xml:lang="nl"><seg><![CDATA[U gebruikt Edmodo institutional Version en de groep die u wil hebben behoort niet tot deze versie]]></seg></tuv>
+  </tu>
+  <tu tuid="group-owners">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepseigenaars]]></seg></tuv>
+  </tu>
+  <tu tuid="group-parents">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s ouders]]></seg></tuv>
+  </tu>
+  <tu tuid="group-queue">
+    <tuv xml:lang="nl"><seg><![CDATA[Je bent toegevoegd aan de keuringswachtrij.]]></seg></tuv>
+  </tu>
+  <tu tuid="group-settings">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepsinstellingen]]></seg></tuv>
+  </tu>
+  <tu tuid="group-settings-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepsinstellingen]]></seg></tuv>
+  </tu>
+  <tu tuid="group-size">
+    <tuv xml:lang="nl"><seg><![CDATA[Verwachte Groepsgrote]]></seg></tuv>
+  </tu>
+  <tu tuid="group-trans">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="group_description">
+    <tuv xml:lang="nl"><seg><![CDATA[Beschrijving groep]]></seg></tuv>
+  </tu>
+  <tu tuid="group_notification_settings">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepsnotificatie Instellingen]]></seg></tuv>
+  </tu>
+  <tu tuid="group_public_url">
+    <tuv xml:lang="nl"><seg><![CDATA[Openbare Groep URL]]></seg></tuv>
+  </tu>
+  <tu tuid="groups">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="groups-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="guide-index">
+    <tuv xml:lang="nl"><seg><![CDATA[Gids]]></seg></tuv>
+  </tu>
+  <tu tuid="guides">
+    <tuv xml:lang="nl"><seg><![CDATA[Handleidingen]]></seg></tuv>
+  </tu>
+  <tu tuid="hands-on">
+    <tuv xml:lang="nl"><seg><![CDATA[Praktisch]]></seg></tuv>
+  </tu>
+  <tu tuid="hands-on-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Houdt van praktisch gericht leren, is goed in puzzels en doolhoven, kan dingen monteren zonder handleiding.]]></seg></tuv>
+  </tu>
+  <tu tuid="happy">
+    <tuv xml:lang="nl"><seg><![CDATA[Gelukkig]]></seg></tuv>
+  </tu>
+  <tu tuid="has-been-graded">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s is becijferd]]></seg></tuv>
+  </tu>
+  <tu tuid="has-district-features">
+    <tuv xml:lang="nl"><seg><![CDATA[Heeft al districtfuncties]]></seg></tuv>
+  </tu>
+  <tu tuid="has-no-classmates">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s heeft geen klasgenoten]]></seg></tuv>
+  </tu>
+  <tu tuid="has-no-connections">
+    <tuv xml:lang="nl"><seg><![CDATA[heeft geen connecties]]></seg></tuv>
+  </tu>
+  <tu tuid="has-no-shared-connections">
+    <tuv xml:lang="nl"><seg><![CDATA[heeft geen gedeelde connecties]]></seg></tuv>
+  </tu>
+  <tu tuid="has-no-teachers">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s heeft geen docenten]]></seg></tuv>
+  </tu>
+  <tu tuid="has-requested-connection">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s heeft je verzocht te verbinden.]]></seg></tuv>
+  </tu>
+  <tu tuid="has-school-features">
+    <tuv xml:lang="nl"><seg><![CDATA[Heeft al schoolfuncties]]></seg></tuv>
+  </tu>
+  <tu tuid="has-since-withdrawn-js">
+    <tuv xml:lang="nl"><seg><![CDATA[is inmiddels ingetrokken]]></seg></tuv>
+  </tu>
+  <tu tuid="has-successfully-completed">
+    <tuv xml:lang="nl"><seg><![CDATA[Heeft succesvol voltooid]]></seg></tuv>
+  </tu>
+  <tu tuid="health-education">
+    <tuv xml:lang="nl"><seg><![CDATA[Lichamelijke opvoeding]]></seg></tuv>
+  </tu>
+  <tu tuid="health-pe-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Gezondheid / L.O.]]></seg></tuv>
+  </tu>
+  <tu tuid="help-center">
+    <tuv xml:lang="nl"><seg><![CDATA[Helpcentrum]]></seg></tuv>
+  </tu>
+  <tu tuid="help-edmodo">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo help]]></seg></tuv>
+  </tu>
+  <tu tuid="helps-connect">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo wil iedereen die wil (bij)leren, helpen om in contact te komen met de mensen en het materiaal dat ze nodig hebben om hun doel volledig te bereiken.]]></seg></tuv>
+  </tu>
+  <tu tuid="here">
+    <tuv xml:lang="nl"><seg><![CDATA[hier]]></seg></tuv>
+  </tu>
+  <tu tuid="hi">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo]]></seg></tuv>
+  </tu>
+  <tu tuid="hi-placeholder">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo %1$s,]]></seg></tuv>
+  </tu>
+  <tu tuid="hi-user-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Hallo, %1$s]]></seg></tuv>
+  </tu>
+  <tu tuid="hide">
+    <tuv xml:lang="nl"><seg><![CDATA[verberg]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-all">
+    <tuv xml:lang="nl"><seg><![CDATA[Alles verbergen]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-all-comm-posts-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verberg alle {COMMUNITY_NAME} posts van mijn algemene boodschappen]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-all-conn-posts-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verberg {CONNECTION_NAME}'s posts van mijn boodschappenscherm]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-all-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verberg alles]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-archived">
+    <tuv xml:lang="nl"><seg><![CDATA[- Verberg gearchiveerde groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-archived-js">
+    <tuv xml:lang="nl"><seg><![CDATA[- Verberg gearchiveerde groepen]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-comm-post-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verberg gemeenschapspost]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-conn-post-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verberg post van connectie]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-from-spotlight">
+    <tuv xml:lang="nl"><seg><![CDATA[Verberg in notificaties]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-full-post-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Toon minder]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Verberg]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-message">
+    <tuv xml:lang="nl"><seg><![CDATA[Verberg deze boodschap]]></seg></tuv>
+  </tu>
+  <tu tuid="hide-post-bubble">
+    <tuv xml:lang="nl"><seg><![CDATA[Verberg Post Bubble]]></seg></tuv>
+  </tu>
+  <tu tuid="high_scores">
+    <tuv xml:lang="nl"><seg><![CDATA[Hoogste scores]]></seg></tuv>
+  </tu>
+  <tu tuid="higher-ed">
+    <tuv xml:lang="nl"><seg><![CDATA[Hoger onderwijs]]></seg></tuv>
+  </tu>
+  <tu tuid="higher-ed-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Hoger onderwijs]]></seg></tuv>
+  </tu>
+  <tu tuid="higher-education">
+    <tuv xml:lang="nl"><seg><![CDATA[Hogere studies]]></seg></tuv>
+  </tu>
+  <tu tuid="higher-education-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Hoger onderwijs]]></seg></tuv>
+  </tu>
+  <tu tuid="highlight-management">
+    <tuv xml:lang="nl"><seg><![CDATA[Belangrijk: Leer meer over groepsmanagement]]></seg></tuv>
+  </tu>
+  <tu tuid="hint-award-badges">
+    <tuv xml:lang="nl"><seg><![CDATA[<strong>Hint:</strong>Bezoek het profiel van een student of de ledenpagina van een groep om badges toe te wijzen.]]></seg></tuv>
+  </tu>
+  <tu tuid="hint_reorder">
+    <tuv xml:lang="nl"><seg><![CDATA[Tip: Sleep vraagnummers om te herordenen]]></seg></tuv>
+  </tu>
+  <tu tuid="history">
+    <tuv xml:lang="nl"><seg><![CDATA[Geschiedenis]]></seg></tuv>
+  </tu>
+  <tu tuid="hoffman">
+    <tuv xml:lang="nl"><seg><![CDATA[Reid Hoffman op Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="hoffman-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo's bestuurslid en inversteerder, Reid Hoffman, praat met Bloomberg TV presentatice Emily Chang over sociale netwerken en Edmodo.]]></seg></tuv>
+  </tu>
+  <tu tuid="hold-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Uw Edmodo functieaanvraag staat "on hold" - Meldt u aan om de activatie te vervolledigen]]></seg></tuv>
+  </tu>
+  <tu tuid="home">
+    <tuv xml:lang="nl"><seg><![CDATA[Begin]]></seg></tuv>
+  </tu>
+  <tu tuid="home-school">
+    <tuv xml:lang="nl"><seg><![CDATA[Thuis School]]></seg></tuv>
+  </tu>
+  <tu tuid="home-school-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Thuis School]]></seg></tuv>
+  </tu>
+  <tu tuid="hours-ago-js">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$d uur geleden]]></seg></tuv>
+  </tu>
+  <tu tuid="http-or-embed-required-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Een url of een ingesloten code is verplicht.]]></seg></tuv>
+  </tu>
+  <tu tuid="http_or_embed-js">
+    <tuv xml:lang="nl"><seg><![CDATA[http:// of <embed>]]></seg></tuv>
+  </tu>
+  <tu tuid="i-agree">
+    <tuv xml:lang="nl"><seg><![CDATA[Ik ben het eens met de algemene voorwaarden]]></seg></tuv>
+  </tu>
+  <tu tuid="i-am">
+    <tuv xml:lang="nl"><seg><![CDATA[Ik ben een]]></seg></tuv>
+  </tu>
+  <tu tuid="id">
+    <tuv xml:lang="nl"><seg><![CDATA[Identificatie]]></seg></tuv>
+  </tu>
+  <tu tuid="ie-later">
+    <tuv xml:lang="nl"><seg><![CDATA[Internet Explorer 7 of hoger]]></seg></tuv>
+  </tu>
+  <tu tuid="if-teaching-topic">
+    <tuv xml:lang="nl"><seg><![CDATA[als je dit onderwerp onderwijst.]]></seg></tuv>
+  </tu>
+  <tu tuid="if-ure-student">
+    <tuv xml:lang="nl"><seg><![CDATA[Als u een student bent]]></seg></tuv>
+  </tu>
+  <tu tuid="ignore">
+    <tuv xml:lang="nl"><seg><![CDATA[Negeren]]></seg></tuv>
+  </tu>
+  <tu tuid="ignore-all">
+    <tuv xml:lang="nl"><seg><![CDATA[Alles negeren]]></seg></tuv>
+  </tu>
+  <tu tuid="ignoreWarningsMsg">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo is enkel compatible met Intenet Explorer 7 of hoger. Gelieve deze boodschap te negeren als uw browser up-to-date is.]]></seg></tuv>
+  </tu>
+  <tu tuid="image-bad-upload">
+    <tuv xml:lang="nl"><seg><![CDATA[Er heeft zich een fout voordegdaan tijdens het uploaden van je plaatjes. Probeer het nog een keer.]]></seg></tuv>
+  </tu>
+  <tu tuid="image-gif-animation">
+    <tuv xml:lang="nl"><seg><![CDATA[Er heeft zich een fout voorgedaan tijdens het opmaken van je plaatje. Probeer het nog een keer. Bedenk dat geanimeerde gif plaatje niet zijn toegestaan.]]></seg></tuv>
+  </tu>
+  <tu tuid="image-not-valid">
+    <tuv xml:lang="nl"><seg><![CDATA[Het plaatje dat je probeert te uploaden is geen geldig plaatje of geen goed bestandstype. We staan alleen jpg, gif en png plaatjes toe.]]></seg></tuv>
+  </tu>
+  <tu tuid="image-set-error">
+    <tuv xml:lang="nl"><seg><![CDATA[Er was iets fout met uw foto. Probeer het opnieuw a.u.b.]]></seg></tuv>
+  </tu>
+  <tu tuid="image-too-big">
+    <tuv xml:lang="nl"><seg><![CDATA[De afbeelding die je probeert te uploaden is te groot. Max. grote: 10 MB ]]></seg></tuv>
+  </tu>
+  <tu tuid="image-type-error">
+    <tuv xml:lang="nl"><seg><![CDATA[Alle bestanden van dit type uploaden:]]></seg></tuv>
+  </tu>
+  <tu tuid="img-114-pix">
+    <tuv xml:lang="nl"><seg><![CDATA[afbeelding (114x114 pixels)]]></seg></tuv>
+  </tu>
+  <tu tuid="implementation-webinars">
+    <tuv xml:lang="nl"><seg><![CDATA[School- en districtimplementatie Webinars]]></seg></tuv>
+  </tu>
+  <tu tuid="incomplete-user-data">
+    <tuv xml:lang="nl"><seg><![CDATA[The gebruikersinformatie is niet compleet, het zou er ongeveer zo uit moeten zien:{"FNAME":"Arya","LNAME":"Stark","EMAIL":"nymeria@wf.com","USERROLE":"TEACHER","DATETIME":"2015-01-01 16:49"}]]></seg></tuv>
+  </tu>
+  <tu tuid="incorrect">
+    <tuv xml:lang="nl"><seg><![CDATA[Fout]]></seg></tuv>
+  </tu>
+  <tu tuid="incorrect_answer">
+    <tuv xml:lang="nl"><seg><![CDATA[Fout antwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="incorrect_answer-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Fout antwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="index-ie6-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Browser niet ondersteund]]></seg></tuv>
+  </tu>
+  <tu tuid="index-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Waar er geleerd wordt | Aanmelden, Inloggen]]></seg></tuv>
+  </tu>
+  <tu tuid="info-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Over]]></seg></tuv>
+  </tu>
+  <tu tuid="information">
+    <tuv xml:lang="nl"><seg><![CDATA[Informatie]]></seg></tuv>
+  </tu>
+  <tu tuid="innactive-subject">
+    <tuv xml:lang="nl"><seg><![CDATA[Login bij Edmodo, vandaag!]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-all">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s (Openbaar)]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-info-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Info instituut]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-name">
+    <tuv xml:lang="nl"><seg><![CDATA[Naam van het instituut:]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-parents">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s (Ouders)]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-parents-for-parent">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s Ouders]]></seg></tuv>
+  </tu>
+  <tu tuid="inst-vip">
+    <tuv xml:lang="nl"><seg><![CDATA[%1$s (Docenten en Admins)]]></seg></tuv>
+  </tu>
+  <tu tuid="installed-applications">
+    <tuv xml:lang="nl"><seg><![CDATA[Geinstalleerde Programma's]]></seg></tuv>
+  </tu>
+  <tu tuid="installed-apps">
+    <tuv xml:lang="nl"><seg><![CDATA[Geïnstalleerde Apps]]></seg></tuv>
+  </tu>
+  <tu tuid="institution-id">
+    <tuv xml:lang="nl"><seg><![CDATA[Geef het ID van de instelling en selecteer het type:]]></seg></tuv>
+  </tu>
+  <tu tuid="institutional-features">
+    <tuv xml:lang="nl"><seg><![CDATA[Edmodo heeft speciale, institutionele toepassingen voor scholen en districten. Administratoren kunnen hiervan gratis gebruik maken.]]></seg></tuv>
+  </tu>
+  <tu tuid="institutional-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Waar het leren plaatsvindt ı District inloggen]]></seg></tuv>
+  </tu>
+  <tu tuid="institutional-manager-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Beheer]]></seg></tuv>
+  </tu>
+  <tu tuid="institutionalized">
+    <tuv xml:lang="nl"><seg><![CDATA[Het instituut dat u selecteerde heeft al een subdomein. Contacteer hun administrator zodat u vandaag nog toegang heeft!]]></seg></tuv>
+  </tu>
+  <tu tuid="institutionalized-school">
+    <tuv xml:lang="nl"><seg><![CDATA[De school die u selecteerde behoort tot een district dat al al over een instituutversie beschikt. Contacteer hun administrator zodat u vandaag nog toegang heeft!]]></seg></tuv>
+  </tu>
+  <tu tuid="institutionalized-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Instituut heeft een subdomein]]></seg></tuv>
+  </tu>
+  <tu tuid="institutions">
+    <tuv xml:lang="nl"><seg><![CDATA[Instituten]]></seg></tuv>
+  </tu>
+  <tu tuid="institutions-index-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Functies voor scholen en districten]]></seg></tuv>
+  </tu>
+  <tu tuid="institutions-title-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Functies voor scholen en districten]]></seg></tuv>
+  </tu>
+  <tu tuid="instructions">
+    <tuv xml:lang="nl"><seg><![CDATA[Instructies]]></seg></tuv>
+  </tu>
+  <tu tuid="instructions_blurb_result">
+    <tuv xml:lang="nl"><seg><![CDATA[Proficiat! U heeft deze quiz beëindigd. Bekijk links uw resultaten.]]></seg></tuv>
+  </tu>
+  <tu tuid="instructions_blurb_start">
+    <tuv xml:lang="nl"><seg><![CDATA[Beantwoord links elke vraag. Wanneer u alle vragen beantwoord heeft, klik dan op de knop \'Quiz indienen\' hierboven.]]></seg></tuv>
+  </tu>
+  <tu tuid="instructions_matching_build">
+    <tuv xml:lang="nl"><seg><![CDATA[Voer de opties en de goede keuzen in (A-1. B-2, ect.) Het wordt door elkaar getoond als de leerlingen de vraag zien.]]></seg></tuv>
+  </tu>
+  <tu tuid="instructions_txt">
+    <tuv xml:lang="nl"><seg><![CDATA[Koppel elke letter met het goede antwoord.]]></seg></tuv>
+  </tu>
+  <tu tuid="int-search">
+    <tuv xml:lang="nl"><seg><![CDATA[Naam van de school of postcode:]]></seg></tuv>
+  </tu>
+  <tu tuid="interested-premium">
+    <tuv xml:lang="nl"><seg><![CDATA[Meldt u aan voor gratis school- en districtfuncties]]></seg></tuv>
+  </tu>
+  <tu tuid="interesting">
+    <tuv xml:lang="nl"><seg><![CDATA[Interessant!]]></seg></tuv>
+  </tu>
+  <tu tuid="intro-iphone">
+    <tuv xml:lang="nl"><seg><![CDATA[De Edmodo iPhone app]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid">
+    <tuv xml:lang="nl"><seg><![CDATA[Ongeldige code]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-app-access">
+    <tuv xml:lang="nl"><seg><![CDATA[U heeft niet de rechten om deze app te bewerken.]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-code">
+    <tuv xml:lang="nl"><seg><![CDATA[Foutieve code]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-code-js">
+    <tuv xml:lang="nl"><seg><![CDATA[De ingevoerde code is ongeldig]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-community-access">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet ingelogd zijn als docent om deze gemeenschap te zien.]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-date-err-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Het formaat van de datum is ongeldig.]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-email">
+    <tuv xml:lang="nl"><seg><![CDATA[geen e-mailadres]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-feed-address">
+    <tuv xml:lang="nl"><seg><![CDATA[Ongeldig feed adres]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-group">
+    <tuv xml:lang="nl"><seg><![CDATA[U behoort niet tot deze groep]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-id">
+    <tuv xml:lang="nl"><seg><![CDATA[U heeft een ongeldig ID ingegeven]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-name">
+    <tuv xml:lang="nl"><seg><![CDATA[deze naam is niet beschikbaar]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-password">
+    <tuv xml:lang="nl"><seg><![CDATA[Foutief wachtwoord]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-phone">
+    <tuv xml:lang="nl"><seg><![CDATA[Ongeldig telefoonnummer]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-post-access">
+    <tuv xml:lang="nl"><seg><![CDATA[U heeft niet de rechten om deze post te zien.]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-school">
+    <tuv xml:lang="nl"><seg><![CDATA[U heeft geen toestemming om de analyses van deze school te bekijken]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-school-code">
+    <tuv xml:lang="nl"><seg><![CDATA[Foutieve schoolcode]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-school-generic">
+    <tuv xml:lang="nl"><seg><![CDATA[U heeft geen toestemming om deze school te bekijken]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-source">
+    <tuv xml:lang="nl"><seg><![CDATA[Deze SSO bron is niet gevonden in onze database]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-username">
+    <tuv xml:lang="nl"><seg><![CDATA[Geen spaties of speciale tekens]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid-username-or-password">
+    <tuv xml:lang="nl"><seg><![CDATA[Ongeldige gebruikersnaam of paswoord]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid2">
+    <tuv xml:lang="nl"><seg><![CDATA[Foutieve schoolcode]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid3">
+    <tuv xml:lang="nl"><seg><![CDATA[Foutieve groepscode]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid4">
+    <tuv xml:lang="nl"><seg><![CDATA[Foutieve oudercode]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid_folder_name_char">
+    <tuv xml:lang="nl"><seg><![CDATA[Mapnaam bevat ongeldige karakters]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid_folder_name_char-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Map naam heeft ongeldige karakters]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid_group_name">
+    <tuv xml:lang="nl"><seg><![CDATA[U moet een geldige groepsnaam ingeven]]></seg></tuv>
+  </tu>
+  <tu tuid="invalid_group_name_char">
+    <tuv xml:lang="nl"><seg><![CDATA[Groepsnaam bevat ongeldige karakters]]></seg></tuv>
+  </tu>
+  <tu tuid="invitations-description-plural">
+    <tuv xml:lang="nl"><seg><![CDATA[Je hebt %1$s2%2$s andere docenten uitgenodigd om te verbinden. Wanneer jouw uitnodiging is geaccepteerd, dan wordt je op de hoogte gebracht.]]></seg></tuv>
+  </tu>
+  <tu tuid="invitations-description-singular">
+    <tuv xml:lang="nl"><seg><![CDATA[Je hebt een andere docent uitgenodigd om te verbinden. Wanneer jouw uitnodiging is geaccepteerd, dan wordt je op de hoogte gebracht.]]></seg></tuv>
+  </tu>
+  <tu tuid="invitations-sent">
+    <tuv xml:lang="nl"><seg><![CDATA[Uitnodigingen verzonden!]]></seg></tuv>
+  </tu>
+  <tu tuid="invite">
+    <tuv xml:lang="nl"><seg><![CDATA[Nodig uit]]></seg></tuv>
+  </tu>
+  <tu tuid="invite-students-join">
+    <tuv xml:lang="nl"><seg><![CDATA[Nodig leerlingen uit door ze je Groepscode te geven:]]></seg></tuv>
+  </tu>
+  <tu tuid="invite-students-join_2">
+    <tuv xml:lang="nl"><seg><![CDATA[Nodig een leerling uit om zich aan te sluiten door hem deze <strong>tijdelijke</strong> Groepscode te geven:]]></seg></tuv>
+  </tu>
+  <tu tuid="invite-teachers">
+    <tuv xml:lang="nl"><seg><![CDATA[Nodig docenten uit]]></seg></tuv>
+  </tu>
+  <tu tuid="ip-error">
+    <tuv xml:lang="nl"><seg><![CDATA[Foutief formaat, gebruik enkel nummers en ".","_",":" (of alpha if IPv6). Geen spaties]]></seg></tuv>
+  </tu>
+  <tu tuid="ip-to-forward">
+    <tuv xml:lang="nl"><seg><![CDATA[IP om te forwarden (gebruik "_"voor omvang)]]></seg></tuv>
+  </tu>
+  <tu tuid="italian">
+    <tuv xml:lang="nl"><seg><![CDATA[Italiaans]]></seg></tuv>
+  </tu>
+  <tu tuid="item-1">
+    <tuv xml:lang="nl"><seg><![CDATA[Moedig studenten aan]]></seg></tuv>
+  </tu>
+  <tu tuid="jan-js">
+    <tuv xml:lang="nl"><seg><![CDATA[jan]]></seg></tuv>
+  </tu>
+  <tu tuid="january-js">
+    <tuv xml:lang="nl"><seg><![CDATA[januari]]></seg></tuv>
+  </tu>
+  <tu tuid="japanese">
+    <tuv xml:lang="nl"><seg><![CDATA[Japans]]></seg></tuv>
+  </tu>
+  <tu tuid="job-title">
+    <tuv xml:lang="nl"><seg><![CDATA[Jobtitel:]]></seg></tuv>
+  </tu>
+  <tu tuid="join">
+    <tuv xml:lang="nl"><seg><![CDATA[Doe mee]]></seg></tuv>
+  </tu>
+  <tu tuid="join-community">
+    <tuv xml:lang="nl"><seg><![CDATA[Volg]]></seg></tuv>
+  </tu>
+  <tu tuid="join-community-js">
+    <tuv xml:lang="nl"><seg><![CDATA[Volg gemeenschap]]></seg></tuv>
+  </tu>
+  <tu tuid="join-edmodo">
+    <tuv xml:lang="nl"><seg><![CDATA[Word lid van Edmodo]]></seg></tuv>
+  </tu>
+  <tu tuid="join-edmodo-desc">
+    <tuv xml:lang="nl"><seg><![CDATA[Ons kleine team groeit snel. Met uw hulp maken we van Edmodo  echt wat speciaals.]]></seg></tuv>
+  </tu>
+  <tu tuid="join-group-js">
     <tuv xml:lang="nl"><seg><![CDATA[Doe mee met groep]]></seg></tuv>
   </tu>
   <tu tuid="join-groups">
@@ -4366,54 +8977,6 @@
   </tu>
   <tu tuid="view-post">
     <tuv xml:lang="nl"><seg><![CDATA[Bekijk link van post]]></seg></tuv>
-  </tu>
-  <tu tuid="view-public-profile">
-    <tuv xml:lang="nl"><seg><![CDATA[Bekijk mijn openbaar profiel]]></seg></tuv>
-  </tu>
-  <tu tuid="view-quiz">
-    <tuv xml:lang="nl"><seg><![CDATA[Bekijk Quiz]]></seg></tuv>
-  </tu>
-  <tu tuid="view-request">
-    <tuv xml:lang="nl"><seg><![CDATA[Aanvraag bekijken]]></seg></tuv>
-  </tu>
-  <tu tuid="view-response">
-    <tuv xml:lang="nl"><seg><![CDATA[Zie werk]]></seg></tuv>
-  </tu>
-  <tu tuid="view-student-turn-ins-js">
-    <tuv xml:lang="nl"><seg><![CDATA[Ingediende taken]]></seg></tuv>
-  </tu>
-  <tu tuid="view-submission-js">
-    <tuv xml:lang="nl"><seg><![CDATA[Toetsresultaten]]></seg></tuv>
-  </tu>
-  <tu tuid="view-the-topic-page">
-    <tuv xml:lang="nl"><seg><![CDATA[Bekijke de %1$s onderwerp pagina]]></seg></tuv>
-  </tu>
-  <tu tuid="view_history-js">
-    <tuv xml:lang="nl"><seg><![CDATA[Geschiedenis bekijken]]></seg></tuv>
-  </tu>
-  <tu tuid="view_results">
-    <tuv xml:lang="nl"><seg><![CDATA[Bekijk resultaten]]></seg></tuv>
-  </tu>
-  <tu tuid="visit-us">
-    <tuv xml:lang="nl"><seg><![CDATA[Bezoek ons]]></seg></tuv>
-  </tu>
-  <tu tuid="visits">
-    <tuv xml:lang="nl"><seg><![CDATA[Bezoeken]]></seg></tuv>
-  </tu>
-  <tu tuid="visits-day">
-    <tuv xml:lang="nl"><seg><![CDATA[Bezoeken/Dag]]></seg></tuv>
-  </tu>
-  <tu tuid="visits-day-title">
-    <tuv xml:lang="nl"><seg><![CDATA[Bezoeken/Dag]]></seg></tuv>
-  </tu>
-  <tu tuid="visually">
-    <tuv xml:lang="nl"><seg><![CDATA[Visueel]]></seg></tuv>
-  </tu>
-  <tu tuid="visually-desc">
-    <tuv xml:lang="nl"><seg><![CDATA[Leert best door te lezen, wil dingen uitgeschreven zien en stellen zich dingen in hun hoofd voor om ze te onthouden.]]></seg></tuv>
-  </tu>
-  <tu tuid="vocational-studies-js">
-    <tuv xml:lang="nl"><seg><![CDATA[Studies beroepsonderwijs]]></seg></tuv>
   </tu>
     </body>
     </tmx>

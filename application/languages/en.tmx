@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-          <!DOCTYPE tmx SYSTEM "tmx14.dtd">
-          <tmx version="1.4">
-          <header srclang="en" datatype="plaintext" o-encoding="UTF-8" creationtoolversion="1.0" adminlang="en" o-tmf="none" segtype="phrase"/>
-          <body>
-  <tu tuid="grade-cleared-successfully-js">
-      <tuv xml:lang="en"><seg><![CDATA[Grade cleared successfully]]></seg></tuv>
-  </tu>
-  <tu tuid="-dr-adam-seldow-ccps-executive-director-of-technology">
+    <!DOCTYPE tmx SYSTEM "tmx14.dtd">
+    <tmx version="1.4">
+    <header srclang="en" datatype="plaintext" o-encoding="UTF-8" creationtoolversion="1.0" adminlang="en" o-tmf="none" segtype="phrase"/>
+    <body>  <tu tuid="-dr-adam-seldow-ccps-executive-director-of-technology">
     <tuv xml:lang="en"><seg><![CDATA[- Sir Adam Seldow, CCPS Executive Director of Technology]]></seg></tuv>
   </tu>
   <tu tuid="-edmodo-is-trusted-by-educators-because-its">
@@ -14,9 +10,6 @@
   </tu>
   <tu tuid="-or">
     <tuv xml:lang="en"><seg><![CDATA[, or]]></seg></tuv>
-  </tu>
-  <tu tuid="weeee">
-    <tuv xml:lang="en"><seg><![CDATA[, weeee]]></seg></tuv>
   </tu>
   <tu tuid="-product">
     <tuv xml:lang="en"><seg><![CDATA[— Product]]></seg></tuv>
@@ -408,7 +401,7 @@
   <tu tuid="Backpack-js">
     <tuv xml:lang="en"><seg><![CDATA[Backpack]]></seg></tuv>
   </tu>
-  <tu tuid="By clicking &quot;I did not sign up for this account&quot;, this Edmodo account will be permanently disabled.">
+  <tu tuid="By clicking &#34;I did not sign up for this account&#34;, this Edmodo account will be permanently disabled.">
     <tuv xml:lang="en"><seg><![CDATA[By clicking "I did not sign up for this account", this Edmodo account will be permanently disabled.]]></seg></tuv>
   </tu>
   <tu tuid="By clicking I did not sign up for this account, this Edmodo account will be permanently disabled.">
@@ -8324,6 +8317,9 @@
   </tu>
   <tu tuid="grade-a-quiz">
     <tuv xml:lang="en"><seg><![CDATA[Grade a Quiz]]></seg></tuv>
+  </tu>
+  <tu tuid="grade-cleared-successfully-js">
+    <tuv xml:lang="en"><seg><![CDATA[Grade cleared successfully]]></seg></tuv>
   </tu>
   <tu tuid="grade-comments-js">
     <tuv xml:lang="en"><seg><![CDATA[Grade Comments...]]></seg></tuv>
@@ -18439,5 +18435,8 @@
   <tu tuid="view-post">
     <tuv xml:lang="en"><seg><![CDATA[View Post Link]]></seg></tuv>
   </tu>
-</body>
-          </tmx>
+  <tu tuid="weeee">
+    <tuv xml:lang="en"><seg><![CDATA[, weeee]]></seg></tuv>
+  </tu>
+    </body>
+    </tmx>
