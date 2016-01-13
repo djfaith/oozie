@@ -10,16 +10,7 @@
   </tu>
   <tu tuid="-or">
     <tuv xml:lang="de"><seg><![CDATA[oder]]></seg></tuv>
-  </tu>
-  <tu tuid="-product">
-    <tuv xml:lang="de"><seg><![CDATA[– Produkt]]></seg></tuv>
-  </tu>
-  <tu tuid="-sales">
-    <tuv xml:lang="de"><seg><![CDATA[- Vertrieb]]></seg></tuv>
-  </tu>
-  <tu tuid="-snapshot-for-schools">
-    <tuv xml:lang="de"><seg><![CDATA[* Snapshot für Schulen]]></seg></tuv>
-  </tu>
+  </t
   <tu tuid="-they-characterize-the">
     <tuv xml:lang="de"><seg><![CDATA[; sie prägen die]]></seg></tuv>
   </tu>
@@ -34,6 +25,9 @@
   </tu>
   <tu tuid="/home">
     <tuv xml:lang="de"><seg><![CDATA[Zurück zur Startseite]]></seg></tuv>
+  </tu>
+  <tu tuid="-snapshot-for-schools">
+    <tuv xml:lang="de"><seg><![CDATA[* Snapshot für Schulen]]></seg></tuv>
   </tu>
   <tu tuid="1-attachment">
     <tuv xml:lang="de"><seg><![CDATA[<b>1</b> Anhang]]></seg></tuv>
