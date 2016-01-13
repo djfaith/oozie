@@ -11,11 +11,12 @@
   <tu tuid="-or">
     <tuv xml:lang="en"><seg><![CDATA[, or]]></seg></tuv>
   </tu>
-  <tu tuid="-product">
-    <tuv xml:lang="en"><seg><![CDATA[— Product]]></seg></tuv>
-  </tu>
+  
   <tu tuid="-sales">
     <tuv xml:lang="en"><seg><![CDATA[— Sales]]></seg></tuv>
+  </tu>
+  <tu tuid="-product">
+    <tuv xml:lang="en"><seg><![CDATA[— Product]]></seg></tuv>
   </tu>
   <tu tuid="-snapshot-for-schools">
     <tuv xml:lang="en"><seg><![CDATA[* snapshot for schools]]></seg></tuv>
